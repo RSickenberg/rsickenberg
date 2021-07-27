@@ -28,5 +28,5 @@
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://github.com/RSickenberg/rsickenberg/blob/master/github-metrics.svg)
+![Metrics](https://github.com/RSickenberg/rsickenberg/blob/main/github-metrics.svg)
 
