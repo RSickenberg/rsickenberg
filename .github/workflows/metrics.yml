@@ -38,7 +38,7 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_detailed: no
           plugin_pagespeed_url: .user.website
           plugin_contributors: yes
           plugin_contributors_base: ""           # Base reference (commit, tag, branch, etc.)
