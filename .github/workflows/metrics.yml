@@ -28,6 +28,7 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          plugin_habits_charts: yes
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -57,3 +58,6 @@ jobs:
           plugin_stackoverflow_user: 6914561
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_music: yes
+          plugin_music_provider: apple
+          plugin_music_playlist: <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/ch/playlist/mix-pr%C3%A9f%C3%A9r%C3%A9/pl.pm-20e9f373919da0806036994e8d4b4c8f?l=fr"></iframe>
