@@ -19,6 +19,8 @@ jobs:
           user: RSICKENBERG
           template: classic
           base: header, activity, community, repositories, metadata
+          extras_css: |
+            .track .name { max-width: 175px !important; }
           config_display: large
           config_timezone: Europe/Zurich
           plugin_achievements: yes
