@@ -20,6 +20,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
+          extras_css: |
+              .track .name { max-width: 200px !important; }
           config_timezone: Europe/Zurich
           plugin_achievements: yes
           plugin_achievements_secrets: yes
