@@ -20,7 +20,7 @@
 <a href="https://twitter.com/haux49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haux49" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/romain-sickenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain-sickenberg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6914561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6914561" height="30" width="40" /></a>
-<a href="https://instagram.com/romain.sickenberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romain.sickenberg" height="30" width="40" /></a>
+<a href="https://instagram.com/romain.scknb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romain.scknb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
