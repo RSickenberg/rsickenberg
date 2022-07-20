@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,19 +69,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2842 Commits
+                            2849 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            239 Pull requests reviewed
+                            240 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            291 Pull requests opened
+                            295 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            384 issue comments
+                            386 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.52m added, 7.32m removed
+                                    6.55m added, 7.34m removed
                                 </div>
                             </section>
                             <section>
@@ -309,7 +309,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 78 commits)</small>
+                    <small class="h-details">(computed from last 84 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -358,27 +358,27 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             07
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             08
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 15.909090909090908px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">18</span>
+                            <span class="value">22</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             11
                         </div>
@@ -388,28 +388,28 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 29.545454545454547px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">13</span>
-                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 29.545454545454547px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             14
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">13</span>
-                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 29.545454545454547px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             16
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -424,7 +424,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                         <div class="entry">
@@ -434,7 +434,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -464,13 +464,13 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">14</span>
+                                <div class="bar" style="height: 17.073170731707318px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 9.75609756097561px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -504,45 +504,46 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEEAwAAAAAAAAAAAAAAAAcDBAUGAQII/8QALRAAAQQBAgQDCAMAAAAAAAAAAQACAwQRBTEGEhMhFGGBBxUiM0FRcaFSkZL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwQBAv/EABsRAAMAAgMAAAAAAAAAAAAAAAABEQIDBCEx/9oADAMBAAIRAxEAPwD1SqNpvPWlbnHMwjPoqy6y/Ld+CsfgI1Ccn3c8tPcRdv6WyaKXO0ei55y8wRlx8+UZUaXzebBq1rx7paUmmdSGvygdF5aMnIGTncZP8lJ+nw+HoV4fpHE1g9AAp+OvSnkdSFyiIqSYKx1p/T0m2eoY3GNzWuG4JGBjzyQr5YXiqw6tp8by1piEzeoXE4aMEg/6Dd+y5ycRuKrSI84ovQ6fw9O6sX3m+HbVNWDGQ0AhzsYycAegUrU7EdupBZgOYpo2yMP3BGR+lDVThmzX4pl4gg1B87GF8kVOQvLC5zAT8WcbAdsYB23OZJ9n87rHCdJxaWsZzxxnO8bXENI8uUBK1RVIbtvTZsaIieJC4IBHdEQBgLvCek2iXNimrOdua0zos+gOP1t2WcrwsrwRxRjDGNDR+AiIiQVsqIiIA//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC8QAAEDAwEHAwEJAAAAAAAAAAEAAgQDBREhBhIiMVFhcQcTQYEUJDIzQlOhscL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDMQQhQRITFP/aAAwDAQACEQMRAD8AfoQkDQ9abq+O1ro0QVAOJ4Ycn6Zwu9o9X5tGX7lx3a8c/iZgNx4xyVD42SrOH+qCdUx7kgAk4AHdK/bn1at9nbVi2QNmzRw+6fymH/X9LC7f+rUi9RHQrTSfDiuGKjt7jqDpkch2+Upq9dzySSmYuP7ME8zk6hotdptpbptBLdXukyrIdnhDjws7NbyA8IVA8oVi66QFEnwo9SST7dagwj9ypuZ8ZWptmx064PaY1AyQRo1kykNcH69PhYRrtein264TI9Zn2Su9lTeG7g657LEr8N/WjR3HY2529oEyFJY4DiLHtcP4Co5VKLRkH7rLDB+lzxrp8nd64TouE6q20RTMdv3AR2srVM6ufgA5PzqEqr9cGmQ5rye3dLxzctivk7pGYcMEAoXuu7edoQWoThy0cFLtddkabHrVAHhlRp3T0zqhCLXQfBi3m6NcwnUNPInl515rA3aQ6pWOgLCOiEJcEkT49lb4yEIQmFB//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lost Control (feat. Bianca)</div>
+                                    <div class="artist">Tyron Hapi</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEEAwAAAAAAAAAAAAAAAAcDBAUGAQII/8QALRAAAgEDAgQDCAMAAAAAAAAAAQIDAAQRBQYSEyExFGGBBxUiM0FRUnGRkqH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMEAv/EABsRAAMAAgMAAAAAAAAAAAAAAAABEQIDBCEx/9oADAMBAAIRAxEAPwD1TVG6XjtpVzjiQjPpVausvy2/RpPwEahOT7vcr3EXT+K2TRSzaPYs5y5gjLHz4Rmoz1A3ywatdePaWzk0vmQ2+AOS5UZOQMnPQjJ/KpQ0+Hw9hbQfSOJUHoAKz8demnkdSFzSlK0mYVY60/L0m7PMMbGNlVh3BIwMeeSKvqwu6rhrbT43KqYhKvMZicKMEg/2C9+lc5OIeKrSI83Pfw6ft6drYvfL4dbU2sGMhQCGbGMnAHoKlazuI7u0guYDmKaNZEP3BGRUNWm2bm33VLuCDUHnRC8kVnIzlCzICfizjsB0xgHt3OZJ9n87XG07JipCJxxxn8o1YhCPLhAqWqKpFdt6bNjpSlXIiuCAR1pSgDAXu09JuizLDNbMxyTbTPFn0U4/zyrOW8KW8EcUYwiKFH6FKUograKlKUpgf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Start Up (Stripped)</div>
                                     <div class="artist">Jonathan &amp; Friends, Loote &amp; emma løv</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgcIBP/EACgQAAEDAwIGAgMBAAAAAAAAAAECAwQABRESIQYTIjFBUWFxByOBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/AFYsMotKWlolPwKWLgPBxLIIQtZCQVDIBO2TiuqGI1uis8jSwMdKgQK1n+ROFYMUmcJUSJCc8vr0g+wMbmlNdc7lzhxPdJdhvRbjzBcoiMcxXJDQP0O9WLaQoJODjGaRPWe3XPidLca7SLxMcf16WYuGgBvhSlKyo/Qp+61OizXo022zY4Ruh5xo8twe0q7fw4NaI04xnFFZndI2oqTqq33FmZEDyVgDscmtVflpmLxLGdTrAdYR+jUTpB7ZIFZNXZNt4dDynylcxauUB4SNif8AR/akFz1SLs0pUgBllK3XF5x0BJzmjIdqSRYLaI8qJJjzGlsMlS321goyBnpOM9z6yex9UttNxmlp9li5TFRAQhTTygrVsCfo/wCU7nXy3XaPObsz6JSy0EqACcFJUEnq2Pn3tnJqMsaltJlNKKipEhzcnOQTkHPnYikN+KlterA3orxsu7DfeipnTi4XV+S4FvKCs9IAGEpHgJA2A+BSa6xV3CFKbTLVF/Wesdj40nB7HOKKKk1KVybc1ykuKbWl3C9CiAoejjuKtLPcmbhNnyGUJZDi0r5KBsgadIA2Ge3eiisbq+HbDhI+aKKK0X//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcIAQP/xAAtEAABAwMDAwMEAQUAAAAAAAABAgMEAAURBhIhByIxE0FRFBZhgXEjMkJSof/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQAB/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAxEhEkETMVH/2gAMAwEAAhEDEQA/ALtp/TuGwtKQrFN7vcYGnAy3KaU9JcSV7Ejwn3qqHVTzF6dsLzH0TK21OJmuLwFAfAOMd3HvWc9ROoEa4SBBhsvKuDCBFS68ynuOSCoHynAJHn81NpC52JRuJA0ZsvUC7yG+l71+0o2RKWUJQpae5oFWFHB9/wCfnNU7ozI1LPmJ+5tQMvw5aTsiSCVO7/8AHaogAfxk5+KqMHqYiXpNelpTcVEZ9xKEvrBAbOQd2Qf9ucnxUXplq2PZ9YMyLk0wlyMVNvlSd6zjjsOcA59/1XHZgdDUKpFKnJ31OhLjYS2lxSgF85Aor1/V9uuQaNvcU+07/c4hPDZ+FfBooCV+zDyY9TmJi0XDV1yYjtXVTLob2KLyivsBzgDOc++KrurrJ9t6nnwfXMxTaUBDzgAJykFRxnH4q39NYt3vE51dqXBSI5BLjoUSndkJxtBPt7199adMNS3q9OThNtvqqStBCnHElZaB3HOwpHHyRmnUrYHHUXZ1Iz3M0hN3Jy1yAzFdXDaPquOJj79g9iVAZSP3ipdyvdrGmbTEgQvTubRWqZJ4/qZPaBz4xj4xWiaS0pqvQsqVHem2tl+4tqTFbU4pZeKEglaQEkYG7HdgZpdrTprcZDirh6caAyiKmVLkuq2x0b18AEJ5UM934xXeBLYI1MGAXIO4n6caukW+7NNLcWmM6CleMYxgn348/uilV70s/pW4twrhKjLl8K2MuFWE4CgTlIwCDkGilba05blKiqx0DAZkfTOobtp1iU5brjGhpk7d7amkvBe3JT2qBAwfipb/AFJvsq6tTLld5rzzKV7FtJbHKwQrKSnBHjz45xRRVAmSWURm31LvRcUty8XFW1SnWT9OwtbSCkDsUR2Egd2OD/2ldx1pcbm9IUu4SlCdHTEmeohvatpJBSlIA7eeSRyTRRQljCRBmFynLvKJs6Vc23H20pbAeSQ46kABOABtHAxyRRRRSzqCZbrc8RP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Open Road</div>
-                                    <div class="artist">Bryan Adams</div>
+                                    <div class="name">Darkside (feat. Kiiara)</div>
+                                    <div class="artist">Ty Dolla $ign &amp; Future</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAUDAQQGBwgC/8QALRAAAgEDAwEHAwUBAAAAAAAAAQIDAAQRBRIhBgcTIjFBUWEUcZEyM2KBoeH/xAAYAQEBAQEBAAAAAAAAAAAAAAADAgQAAf/EACERAAICAgIBBQAAAAAAAAAAAAABAgMRMRIhBCIyQXGx/9oADAMBAAIRAxEAPwDm7S7WC8MsLNcfWMALWOKPf3rk/pPqPuKy6/7PbnTYYpr+LUEhMrB2SAErHtyrYz554IzUfZNPDo/Vtjq2oJm0USKpA3HeRgED/M/Nbvv+0LS+pUl0N9Luorzb4G3KxYH+xz+a8lZh4NMfGk4c2jl25SGNU7qR3fxB1Zdu3njB9cj/AGm50my7yLZc3Ekcux4ykQ/b4Dk5PBByMfA9+K9V6JNY9Sz2KKXcncufCcefOeBVqsksOmz2rh4rm2feCTggHAK+fvg1zlrBNcE8qXwR6lp4srS2dhOs8hcSK6AKuD4cHPPFFWlw8rFRJK7jGRuYmirWuw5pJ+ky7sy1WCz6is47q2gmG2RIzcT91HGzLjcxII4GcfOK3JoWgp0vcXGsxX9re3M8WxWjw6ov8W9fviubLW4ktbmKeBiksTBlb2IrM9c65n1C0jstJtpbZSuJHeYyO59Tk+VFZBtrBqqvxDjJjTWdf02Tqme/1QyTS22JIliXO9weFJz4RWvtWv5NR1O6vJAFedyxXzwPQfimyxouk9w0apNKwaSeQ5LewHxSu4tcsTEyNj2Yc1Sr49sKdjn0iOcq1rAwGGGVbiiqNJushHgjZJn8j/lFUg54byW9P7DSJxbRSyh7e2mO36pgdufYEA0UUtayE2eTePp9+9sbh7mLdjLnKuPTg+X9VN1MlnPcWFxYRxQpNEVZE48QYjJ+9FFFZ70avHk3VOP1+i6/WLkxggugLAnPPvmiiioWip7P/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC0QAAEDAwIDBwQDAAAAAAAAAAECAwQABRESIQYTMRQiMkFRYXEVI4GhUpGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQIDBAUG/8QAJBEBAAEDAwMFAQAAAAAAAAAAAQACAyEEETESFFEFFSJBYYH/2gAMAwEAAhEDEQA/AND4kgXt8sGxzY0fGrmdoSo5zjGNP5601cKvTY1kjtXJDT0psK1vNJIQSSemd+mKDHUd8HHxVzZ2lBC0uEKbHRGas1oko26UZUXaQVBCG3HFtHOttQH48qmN28yLK3GjrTocGTtv7/uvK8XCAmc3DcnQ23jkoYU8kL99ic1JgvLhklIyg+9DqxiHp+T1fcWZ9hejPrSUgIAKgonYiimO5PLmAY1aB4gTRUpeq2zK1enoXBJhdZU4WUONagNRSkjOPWvK8xi/Zp7UJzlyFR1pQvVpwopODkbjess4hukq38Q2iPGjZTIWSpSVAFflp38twavHn5qm1hLAJKSANY9K599QQFOZ0PaDvsxThR+KoJSPpzKXdKvtMrZ0O6RklIVuoH3INaXwBDlM8PNouqWESi46pTbBOhHePdTnoP1WQMW/jRhhLa21SHG8hLxnBGoH1SBj/abOGzeYdlZj3F1a5SdWtwrBKsknOR80XW02jcz/AGJTpGp2Zp6m0dPOis8bfnMrKkqdWT/N0nHxk7UUnup4j9h+yDeLe/NvtolISnkw1LU5qO++MY367f1V3zKKKya6lA8TRpOWcl3r0rhbncV4uh8OM/jO2fmiikOY22Iu2ty5dtY7X9U5O+rmBjSTjbOnfHxvRRRUmovLUYCR27eOWf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bad boy</div>
-                                    <div class="artist">Marwa Loud</div>
+                                    <div class="name">Let Me Love You (feat. Justin Bieber)</div>
+                                    <div class="artist">DJ Snake</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRAAUSIRMxQVFxBiJhgZEUFTJCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9Gw1dsasqFZn4ztVzk2oTlsQHOjXXWClv0B9T9B3yiRj4jhydff0qMvqPR1BDx8JUU7tvvVH742eUKzmegNtR5D+pKUNyUdJ2Qoj5nOSkqJ9Ae/1zU6DrZ1TTgt5BaltqU280e6VA1+D39sC/LVd4ZUkO2e+GBUQaPge5xU5rPXizjGZC1tb0oJ/tQr8X/mS6vIU3pcpbCCtzYQACPufxnN3PiDWYS3Y0ONAcZaaKnyXVJ6SQOVA1SgAeas89sDo6ITL+lxwlIQppIO5PG/i1X6gm++LdS1I6RMjymYhUlxzpydn8loqkqHg5kZurazqM1uDNYgvBvn9PGeUDQNbimwFCx5581XOMNW1ecmVDbGnByG6ylRS/YXtKkp4o1YKh8pFjA37D6JLDbzStza0hSTXjDK2mPLMNBkNBlzm0g8e4F4YQlMvcCFHg8Zm5uhJkBwNzXUhwq3Badw5BB49iRfesMMqqqtBnlaz+7I2q3bqY5UCSSCq7qzdXX0y6jRl7lF3UpCtyUIIABG1JtI+YG6Pa+cMMB+xILTKG96lhIrco8n3wwwyD//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDCP/EAC0QAAIBAgQEBgICAwAAAAAAAAECAwQRAAUhMQYSExQHIkFRYXEVMiORgaHR/8QAGAEBAQEBAQAAAAAAAAAAAAAABAMFAQL/xAAhEQACAgICAwADAAAAAAAAAAABAgADBBEhMQUSQRNx8P/aAAwDAQACEQMRAD8Azfw84kruHMyNQIeaGx5UmkJRzsGFtL/Nsa3L4vZeGpVehqEV0BleNlJRtQQARqPW98YRSUMlBGTNX08nNogAYqo31AFj/eOuYhDlsqU1YEnUh25R01tb9RuSfs2wRM22o+iHicswlc+zjmelY+POGZKKao/OMqxEcytBZzcei8uv3hZU+KnDlNCxjkrqqVpCqL0ApbaxG2mv3jGMlekr+Hs7njgjlqKaNJAEZuZFJ81gNz/fzhRTxRUZ7h6xo5EI0SNiysRr5jpcC2oxZ/KXgcSQ8ch4lq4n46z7N89pqpWShgp3McSxE3APq9zrtttgxVZlokyqQiqlZ787EW52bbU6+/0cGBG6ywli0UuMijQ1L3NwH06W0WZ0qIAvklj25Wv6HUn/ADphjwJwN22drPVVRmllTp9OKEKtt7kk/HtfDysgMopquGOoenp2Z5Zze2nLoRa5I/b6xcOFqdmAqIx5p18psf13231wB7SVQLzvuHRrCSH6+dSJmGWcLUdZl9PmEFLFWwydSKob+NizXABa9jodAfbCTjLhWLP6J4e8mpHjcvDK1m1uQSRaxBGOniMVziFqJpKSAUjMs00l/JYgrqRYH0+sP2qIM1olqaGeOd40BJRgRr8jfbDs+pqq0ZV0YfCv/K7gHgTFIfDPMmqYO5zNuxQBmqEjHLKCTYICCfskWvgxo9Q1WKyTuYm6SEiORCCrLyqbEA6HU6++m4wYzMrKsV9VHjX98i6zYw240ZIyFu4doY0ZIo7Mx12P/cXF5GmMS071UMcYuOjJyEn3Ont6YMGKYl7Y67Tsz2aVtUe0h51lsGcQlMxNRPHJZXiWZF6ouD5iFHtve9sSaCDLMko2paSiNPDIAtgxY2G2pvoL/WvzgwY0D5TIdSrHj9SaePoRtqJRM07v8jPEisabqHldoTYj015rf6wYMGMh0UnqVbuf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">POPSTAR (feat. Drake)
+Explicit content</div>
+                                    <div class="artist">DJ Khaled</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACsQAAEEAQMDAgYDAQAAAAAAAAECAwQRAAUSIRMxQVFxBhUiYYGRFDJSof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9Gw1dsasqFZn4ztVzk2oTlsQHOjXXWClv0B9T9h3yiRj4jhydff0qMvqPR1BDx8JUU7tvvVH842eUKzmegNtR5D+oqUNyUdJ2Qoj6nOSkqv0B7/fNToGtnVNOC3kFqW2pTbzR7pUDX68+2Bflqu8MqSHbPfDAqINHwPc4qc1nrxZxjMha2tyUH/VCv1f/Ml1eQpvS5S2EFbmwgAEfk/rObr+INZhOOxocaA4y00VPkvKT0kgcqBqlAA81Z57YHR0QmX9LjgJCFtJB3J43cWq/UE33xbqWpHSZjEpmIVJcc6cnZ/ZSCKSoeDmRm6trOozW4M2PBeDfP8AHjPqBoGtxTYChY88+arnGGravOTKhN/Lg5CdZSopfsL2lSU8Ua4KhwRYwN+w+iSw280rc2tIUk14wytpjyzDQZDQZc5tIPHuBeGEJTL3ClHg8Zm5uhJkBwNzXUhwq3Badw5BB49iRfesMMqqqtBnlaj82RtVu3UxyoEkkFV3Vm6uvtl1GjL3qLuovq3JQggAEbUm0j6gbo9r5wwwH7EgtMob3qWEityjyffDDDIP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Electric Glow (feat. Skyler Stonestreet)</div>
                                     <div class="artist">Tritonal</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EAC4QAAEDAwMDBAECBwAAAAAAAAECAwQABREGEiETMUEHIlFhFBVCNFJxgZGh4f/EABkBAAMBAQEAAAAAAAAAAAAAAAQFBgACB//EACsRAAIBAgQEBAcAAAAAAAAAAAECAwARBAUSURMhMUEVInGhI2GRscHR8P/aAAwDAQACEQMRAD8AUqyUoJAyaivMO42oxlz4cyOl/LjRU0cqT5IHjj5qzs/Q/Wbd+XITGYMpre6pIISN47gnH1zxTj9U9NpuWmhHf1B0njJU7HlrOxDLKjnpqIPu4HfjtSGMqpBfpXpGcYyWJhFD1tek3pKXFi9efIkJUoJ3RwWSs7yecDtuHgnjire0arsEGcuS1p64Fcchzqvr3ndxyRtwn9ys48Cl26lyRIZtrMtCQ9KDLclXsTgKKQo/Hg16H9HNO3aw2UJdUxLlvulM9Uh7+FbTnaE/zZ5Oe2TRUirELnme1JvFJZraBYW83X99KT8t5uRKeeZbS204tS0IT2SknIA+sUVNeAoXq5pUw3HKZbyek2oKSj3nhJHBFFANe9WsEgeJWHcV0WCx3TUF0Zh2JTKJ4UHW3HcFCCk5yQQc8+MGttcLPdrXZ7oxq24/mX2a063DkheWEnYSUAYG1RHPbsMZrk9ApHW1xPwkhMWPgnHkn/lZ71p1gzPuybfFle6HMUpzGRggY/v3NdhXZhGB8/apLNMTG8rSg8gLe9ZGBpC4XeNATFwuc++EpbB4SDxkn6PJp7tW+/WiFHY06hFzZca6a463/wAdxs7cApc5z9g0r9NTnVx0SYLi0P7yuOpCsELCcJ79vcKb+i7lJhptqLm06rrEIDw5RkDI5+8ecGtiHlcAkXANcPBBBbhm2pQfU0j37ZcrS4uLfGFMXAKUpxClA9yTnIOD/Winh6k6agXq3X29LcWxPt3KVA+11G0EJI+c5wR80VirN5t6oMvxkTQKvdeR+lZT0dbFsj6gvLwCGyylCVH920Kzj/IpAwEKvuqh1FpSZUgqUpZ4G5WST9UUUVgifiHYCpLPFHHC7sfvTWRbrZDC0xbu0qOytKU9NpR47ZyRjOfjNb3Td/j3DRjraRsXAlNOAc8ALAJH1jIoorQc1cbimGcrpiw7bEVa+qEgtaPvAQoD8l2OrGe6c8/7AooooK50r/d6f5MoEb+v4Ff/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sin Pijama</div>
-                                    <div class="artist">Becky G. &amp; Natti Natasha</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC8QAAEDAwEHAwEJAAAAAAAAAAEAAgQDBREhBhIiMVFhcQcTQYEUJDIzQlOhscL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDMQQhQRITFP/aAAwDAQACEQMRAD8AfoQkDQ9abq+O1ro0QVAOJ4Ycn6Zwu9o9X5tGX7lx3a8c/iZgNx4xyVD42SrOH+qCdUx7kgAk4AHdK/bn1at9nbVi2QNmzRw+6fymH/X9LC7f+rUi9RHQrTSfDiuGKjt7jqDpkch2+Upq9dzySSmYuP7ME8zk6hotdptpbptBLdXukyrIdnhDjws7NbyA8IVA8oVi66QFEnwo9SST7dagwj9ypuZ8ZWptmx064PaY1AyQRo1kykNcH69PhYRrtein264TI9Zn2Su9lTeG7g657LEr8N/WjR3HY2529oEyFJY4DiLHtcP4Co5VKLRkH7rLDB+lzxrp8nd64TouE6q20RTMdv3AR2srVM6ufgA5PzqEqr9cGmQ5rye3dLxzctivk7pGYcMEAoXuu7edoQWoThy0cFLtddkabHrVAHhlRp3T0zqhCLXQfBi3m6NcwnUNPInl515rA3aQ6pWOgLCOiEJcEkT49lb4yEIQmFB//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Lost Control (feat. Bianca)</div>
-                                    <div class="artist">Tyron Hapi</div>
                                 </div>
                             </div>
                         </div>
@@ -566,7 +567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RickWong/Captain</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⛴ Manage Docker containers from the menu bar.</div>
@@ -619,7 +620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spatie/data-transfer-object</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data transfer objects with batteries included</div>
@@ -672,7 +673,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schollz/croc</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -969,7 +970,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.78333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.85 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -997,7 +998,7 @@
                                     <span class="prefix">Great</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 337 pull requests</div>
+                                <div class="text">Opened 341 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1042,7 +1043,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.150000000000002 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.666666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1070,7 +1071,7 @@
                                     <span class="prefix">Great</span>
                                     reviewer
                                 </div>
-                                <div class="text">Reviewed 239 pull requests</div>
+                                <div class="text">Reviewed 240 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1296,7 +1297,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 488k out of 94m users</span>
+                                    <span class="gh">ranked 489k out of 94m users</span>
                                 </div>
                                 <div class="text">Followed by 19 users</div>
                             </div>
@@ -1489,7 +1490,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2022, 02:54:32 (timezone Europe/Zurich) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 13:58:18 (timezone Europe/Zurich) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
