@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on (but not only) [Companion for Tesla.](https://teslacompanion.app/)
 
-- 🌱 I’m currently learning **Laravel, Symfony, Nuxt, Vue JS and if time permits, Machine Learning**
+- 🌱 I’m currently learning **Laravel, Symfony, Drupal, Nuxt, Vue JS and if time permits, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://rsickenberg.me/](https://rsickenberg.me/)
 
