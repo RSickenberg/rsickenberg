@@ -32,16 +32,16 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3413 Commits
+                            3398 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            29 Issues opened
+                            27 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -511,13 +511,6 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgQHCP/EACsQAAEDAwMEAQQCAwAAAAAAAAECAwQABREGITESEyJBURQVI2EHM3GRof/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIGAf/EACERAAICAgIBBQAAAAAAAAAAAAECABEDMQQhQQUSEyJR/9oADAMBAAIRAxEAPwDzPMWtya+rulRUtRKic535rFCXFj8aVrPAxVdbtNP37Vcm3d2G0Y/dL7yVdDXhtkHHs0rgRmY7s6HOd7ZS6GupBx5Aq4z62oJehGFxkkXFvVLjqSpS3UKUPE9Zzjj5rNMyUnxRJfGfQcNPWbciXZpF0T2TFiL+mDZOCorz0rA9HYHB5OfiksLuw7lHcbI7jawoZOxritd/ss+IrR8GZRZL7klnLzqiFADKifdFWOk9JfdmLpMmLRFMdxtxpOf7cq8gkE4KQPdFT3iT4Wi616jkw79cpsZcmO7KT1OCKrBKuoHbbYcnBHNLbi99tulyZhqBQ8oYc2Kvk7/vJFaS4anJjw7mAlRGRuTT/T1shJnx1SnVK6lhPmNk5OMn5oTsqWdx3jcfJyCFHQvcsdMMxbRZpsSS20Yly7p61HPbCUkJR0nkgqznOc7VzxVpfizWVPuHsFwDvIHVgZ5xzXYZl5gXaHf4jSGgcKkMKSBkhLif9bVEkeSFICXEoWCRnYgHjNI487qxJ8zQ5fTcGXFQ6K6lXab0zbpC7ZdIyJKrolLSFDxSAM5yDkg5I4NFM7XaNNa2mR1p+ot09lOS0l4I7ZznqTnZRziinQetzPOlN9hOJxbfBcjtvqvzMd5Y82lsrJQfe4ztxv7rVQ46xLHakF5KFeKwSAr945ooo4F7iCuV1LPSun7zqN+4OWhhACkltxx1QSEBR3wSc+vQNVLv8WuWm2rl37UjUPGPCNHXIOT62IP/ACiihlRccXI1Xc2dJ23RqfGULnPIUPzSUOMZVz4gEjH+STRRRUIlA5Isz//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Liar</div>
-                                    <div class="artist">Camila Cabello</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBCP/EAC4QAAEDAwMDAwIGAwAAAAAAAAECAwQABREGEiEHMUETIlFhgRQVMnGSwRZCkf/EABkBAAMBAQEAAAAAAAAAAAAAAAECAwAFBP/EAB4RAAICAwEAAwAAAAAAAAAAAAECABEDEiFRBBQi/9oADAMBAAIRAxEAPwD0QtSt6uVdz5pLqDUkCxhsTn1+s6cNst+5avtnt9TUXqH6/wDjc4xX1sOJVuLiFFJAz8jx/VYjarNM1xfG4kAOOqCRuklXtQMgKWo+OOAPNczFiLG7ntTGNdjNKc6izJbUhy0WWS800rb6zjwSn788Hz3PFOdGaklXyIVzENsugkYbd3JP7EE5/qm8XSllVpxWk4gdLLCR60hslJS4eSdw43HvjnA7+Kyt7Tk3ppqFt124JXbpjvpIWrgAYJG7xnPkeKu2PXsKFX4JsKHFl1A3q/UP9j80Ur0/cBcY7D3AVvAODnzRVU6IWSjO6yhruen7pEZBU662oIGcc9xS3ovAagaAbhRlNxLmHl/jVLHvB3nB/jjB7UtvnVDSFnu8u33G8oZmRllLzfouq2HvyQkjzVM1K7b7tZYkq3SnbvbpS1LZdwUuoxkH3EDcOFcEA8d+1JhtSbECoMg1Bmpv6msse5sWCLPYi24Ah6UH/cpwn9IVngkkkrJ78fWudXW4r+iXmZy2nZZcCoeBlRV8/wAc5PasH/JI78oxW1S1xSDlAALilZHHBIAx5Jx9KvVl0+7KKBKQ3HhtAIQ1v3rSnzk9txx3xwO2KoTyo4+P+gfJZOmqlm0tKWlKRuRwlOBnAziinMH0o/otMgJbSoYH3oqiJQjuLMyC9aY1TbNY9RFMaRuN2h3xSWmHGVpQhaNpCifd2AUSAQQSBkVf+kuiLlbemNliXlt6JNZbWHYymwpSD6qiOx+CDRRRIB5OarlDYjuRpp5p4Jjw5DySAd6W0JGf2Ks1LiafkON5eEqOQcBBaB4+eDRRWCgR/sZPZJVpt9iVHSHXnEqVkqSgbUY+ec/8zRRRTXMcz+z/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Searching for You (feat. Karra &amp; Eric Zayne)</div>
@@ -525,11 +518,18 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBggCA//EADAQAAEDAwMCBAUDBQAAAAAAAAECAwQABREHEiEGMRNBYZEIFSJRgRQyoTNCcbHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIEAf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAgMRIQQSMRMycf/aAAwDAQACEQMRAD8AXs15qBCckvHCUe5PkKrzN/nuQ3p6YbP6NlxLa8k5yrOBn8favfrlTj8i3W5rcfGVuwkZJOcDj3rUFrR0mxp2m3Ls6V2iMkMK3oQsLWRgrKs4znOSSCKnw6lkRfQspm6XWzy2MgCY0FJPdKgtORTa1U1quvQnXMuzqs0aZCS02826FrSraof3dx3BpH6WhuP12/BjLK4qJzfh5+wdwD7Vffid6Sn3Trn5jFViOiC0HN2cA+IpI/PIo7Oq+3g/HqnbPpBZY89LNQrfqDZDNhNqjvtHY9HWclKvQ+YopO/DUy3ZetbnaIzi1tvQI8r6hj6toCv5UfxRR/myLYOEurWGI649RhjrSBdISiUwHEFKk+eDkke9aOk6rWZVtktvRW/lBjB4FTOA4sjOODjBPpnPFJxnTqFdJkpyCt39Ow8WUtJILi0pH7zng5PPHapb2mKWGgkTJshv9wj7doB9fIVpaJhNRyQdJW3J3WTt0biqbYdntf02zsRudzjPYeXFaO1yjLNlEltIUMFpwEdhkKBz6FJGD96pWlt7Y6Ks9stExrw2pkxTaQlP1LWpSQCQfLkCmNrbFTI0/vCXApQQypxJSojCgODx3/NDfHssDcW/4blYKH4YluXPULqC5q2lpphEdCgnGRz/ADwOfOirF8JlmMPpaXPdRhyW8SOedo4H+qKlNIK6TlNt+i90clRPl7cebMXGk7QpB3gBfocj/tMt9TLG5b92gx2zyTvwr3BoorfDwzSexfLlxb7qja3YclcmFBkMNBa1E7nCsE4yeB2rSWocBdz6Xnwmu8hPhn/B70UVkt2NDTRx0NZmLDYI0FhASEJHaiiijWtI7Lbyz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EAC4QAAEDAwIDBgYDAAAAAAAAAAECAwQABRESIQYxUQcTFEFhgRUiI5GhsUNx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAGxEBAQEAAwEBAAAAAAAAAAAAAQARAgNBMSH/2gAMAwEAAhEDEQA/ALzFZ23G1STLQ22po9PhQ7zb7VIWpM2elamEBskKCBlWTyG3XnU81F5bV27cmSUVpoOpL6VFrz0Heia0x4qOYyXBH1fV1EasZHL2z039KedwQNqaTsMsLUogHBxk+dBNmHPKE4kkWhuKdCJKHco+daxoCteD+OtFV3jrS3wxcZDiy2UtgjJ2z3lFKuWxbN+2nia+2zj6fEi3KdEi6GXG20uFIHyjdPv05103ZQqXaIEhzZx6O24oFODlSQT+64o7QXZz13tr0y4yZrimwjvJC9RASrl/W9btE4xukZlKPikhekYGSDj3IzUnt+Vjh7bYuMkJ3NVfimQxHiFa3A0M83NhgZB51nrvG93U2R8RewfUZ/VU3iNLt83mXKW95hDzpWn7Gs9iQOA/aO7SuM1Xh2TbYa0KgJUUh1P8g1ZGOg8vWiq9N4fdbJ7pxKx9qKm9lY4hKXOMLjJhPPLSjwxJShCMA5x/lSomLUd1CiimADIcnf2XblK04zSLslSfP80UUvsPIW5GMYrNxAexnufDr59NWce/Kiiija//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">#BrooklynBloodPop!
+                                    <div class="name">Love the Way You Lie (feat. Rihanna)
 Explicit content</div>
-                                    <div class="artist">SyKo</div>
+                                    <div class="artist">Eminem</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">I Can Be (feat. Crysta)</div>
+                                    <div class="artist">Mike Ault</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -540,10 +540,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBgECBwT/xAAvEAABAwMDAgMGBwAAAAAAAAABAgMEAAURBhIhMVEHFCJBYXGRwdETMlaBouHw/8QAGAEBAQEBAQAAAAAAAAAAAAAABAIDAQX/xAAiEQACAgAGAgMAAAAAAAAAAAABAgARAwQSITGRE1IyQaH/2gAMAwEAAhEDEQA/AOj6/vWtIGqpLNpuMSPb1lCY6Xi0CTtGQNwyec1WHtU+IqDkXy2KT3Co/fHbvx8eKYeMMCNc9Wu7n3G1oYEdwKgreCUnCtzZHCV+zNU1VgtK9RGcxMliIHgsR/JOcDGSOmPz816WGo0gkDqCetR3/ZaDqPxITG8w5drcGDgh3LARj44xWg1drv8AUFoz73WPtShTSDpu32yRIU6/AeStkm2OqaWlIICVoPXqTmoI0ezt3ZqVIbUsJlKfW0m2OBJBaCNoBGANw3f3VaR6jqTQ9j3OhaAvmtZ+q4ce8XCG/byhTjiWi0SU7TtPpGcZxzRS/wAIFWm26mfjQhKU7LdWpvfGcQG2gn0t5UMYHPzooWY+WwiMICuZv4hX2+J1pPtsJDS4wCNoLZJPpB6g96Vtp1Ehe1+M0ELwo7UqyP5V0qaYUnWr0VTSFSTsCl45AwDj5UhhzbcpKnlyFrjh1wJbAKQlIUQMDtgdKSuYVVC19Qpy7kli0UF+6pYSGkMrTjj0KGB155pZcrhfEqAZEYnGOUH71Y3bpADqvLuOBv2bk1DLvVrYRvmNOrHdtAP1rRXF8SGQ1WqQeGt1vj2rIkaeqP5YpXuCWyFdCRznvRTTQ+oLNN1RGj29EgSFJXje2AMY55zRRM0bfiorK3o3NxvqLR1zuGo3rlCnojgqSpG0KSvhIBypKhxx0qvNaBvlvEhEcMPJccKtxeJJ953c5/eiijrzc2ZLE8qtD6j/ABE7o7akE+ra6On+4rEvRd/cZKU29Ofe4n6miitPI1yBhACS+Heir1atXR51whFlhtKxuC0KHIx7OaKKK47FjZlYaAChP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Can Be (feat. Crysta)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Fireflies</div>
+                                    <div class="artist">Owl City</div>
                                 </div>
                             </div>
                         </div>
@@ -567,7 +567,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>chubin/cheat.sh</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the only cheat sheet you need</div>
@@ -620,7 +620,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>JetBrains/JetBrainsRuntime</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux</div>
@@ -673,7 +673,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>cli/cli</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub’s official command line tool</div>
@@ -713,7 +713,7 @@ Explicit content</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        1.89k
+                                        1.90k
                                     </div>
                                 </div>
                             </section>
@@ -726,7 +726,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>livewire/sortable</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin to bring drag/sort capability to Livewire</div>
@@ -888,7 +888,7 @@ Explicit content</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.518480492813143 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.56091718001369 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1286,7 +1286,7 @@ Explicit content</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 528k out of 96m users</span>
+                                    <span class="gh">ranked 529k out of 96m users</span>
                                 </div>
                                 <div class="text">Followed by 18 users</div>
                             </div>
@@ -1514,7 +1514,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2022, 02:58:25 (timezone Europe/Zurich) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 02:59:59 (timezone Europe/Zurich) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
