@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3628 Commits
+                            3592 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -504,24 +504,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgH/xAAtEAACAQMDBAAFAwUAAAAAAAABAgMEBREAEiEGEzFRFEFhcYEykaEHImKxsv/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAgMGBwD/xAAiEQACAgICAgIDAAAAAAAAAAABAgADBBESITFBImEFE1H/2gAMAwEAAhEDEQA/AE6O3PVQ74+6x9JEzfyONLG0SJC8ssdQsaguWKBRjPB5Pr5edeWe/NbYBGIu4AzOMvgZO3H/AD/Oubj1xV1EFTRQWKrqqOFe3JPDGZFhJHvjcQDnjxrOXPmizSL8f79Tp2VmWY522gpjgWGpXazxMEJwuZEBbjOBzyc/L0NKJYZJ6hqenjXuogd8zZ2jcR69jGkR1fXSQr2RT7WXKuAfGPOSeOPfjURQ9Xyz3CV6GrHxLqVyIiFcZJO0kYb9R+/yzqGs5gSdA+vMg2VaNcmAJ8SZvNlkt1sFS6wdtmCq6uxJzz8x6/1o1DV12ra6IR1M5eIEMECgAHnGAB/kdGmWHVciauOz9QynmF1YdmNydSF1m6mtMNVBaaq1x2ypULTNNGTJ3nZclvS4JOfHjSdBbqm4S7KWMMR5ZmCqB9SeNWW99OVq2k0MNxkhmiVQ+yMMM/q4zyDjjOpu2jsRR+c4Oqpy7HqULpqmets9PBcpVhleCQSPjIY5bx9CNaBfqho7TFQLDRO8bqncjfmNOCvBGc8exquxdO3Sjgo/joVjh3LG9SHDLsC5yR5UkDHocnJ0h1ZaK+w0LXepNPPSw7UbtLtZ1YhQxPjd++cnxnVZBPx9xPdfS7VgN0oAMjyMknRptabnSXaNjSM4dBlo5F2sB7GCQR9j+NGrueupsabarkDodibfTQ2y2RUFualklqGc9hVjDOPbk+APmc/tp3V2CpnusbR1bxCdGWaZYw2SoAUkHhWA9cH1o0aLVRxKzn+WTsOT2Zz0vU2qqtxprPvakppDE3eGSec7h9COfzrIP6uUktk6CpqGaraQ1dwdo03k4iyzKp+wx+dGjXlAcKx8wRx+tyi+JlvSFSU6jpQ8mxO8I2LcAK39pz9OdGjRoLMQF47wrWWrQM//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Young Right Now</div>
-                                    <div class="artist">Robin Schulz &amp; Dennis Lloyd</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAQMFAQAAAAAAAAAAAAAAAAUGCAECAwcJBP/EACwQAAEDAwMDBAIBBQAAAAAAAAECAwQABREGEiEHMVETFEFxIjKRFjNhsfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAAQARAjFx/9oADAMBAAIRAxEAPwCULKEhpHA7VkCU+BVG/wC2n6pldRep2m+nq4beoX3w9LSpTTUdr1FbU4BJ8DJxWQVWptRdXddXTXd0tmg7bbnLbbJKo6lSU4U+pP7AkqAHIIGMcHmtz9NNVJ1ro2De/be0de3oeY3bvTcQopUM/PIqMP8AW2iLp1DVMiQva2eQ8t+S/JbKHUlagVFsNnIJVz8kjPk1JXplc9HSLIIGhp8KTFj5W4hheVgqJJWsHnJOeSKPpE73EjaeB/FFXnkGikxYluoYiqedUEttoK1KPwAMk/xXPjVWqmdc6xuN21B7t2TKdDcVMVSUIQ2OG0/kPr5GTk1PaRMtU+3uRX5UZyPJaU2tPqj8kkYI7+DXP3q1peDo3X90sdqmKmQ45QptxWNyQpIVtJHBIzjPz4q+EZN6m9Pxm3GyqDP2eoQvbKZzt5xjjg/ryeO9K2gdUM6N6gWd6xvzojaZaY89El5KkLaUoJUCEgAgDJzzgjIqyyt6IvtmZN0tEmzSmtrYfiyVbJJxjneFJBz5x90n2vRS7t1Ahac06tbrsojmSAFRwOVle3jCQCeO4wO9G7oyxLoQ04h5pDjSkrbWkKSpJyFA9iD4oprDUGn9JWuJa3pyUMwWm42cFW3ACRkgd+31mio0qocW/VEplJLM65KbSQEFpO7YnHknOeD8U0tXe0n359+M7KWl3Cipadys7QOecnn/AI0UU+DGbJ8K8XSzNLjsH0UFWVIcaCwVecKBHalbp/NjQruiS45MRMVubSplQHBwM57g/wC6KK06DGg9ly4Pw5Mh2S3LuYeSo+osnKTzn8iTkEj/ABRRRWFpf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Save Tonight</div>
-                                    <div class="artist">Eagle-Eye Cherry</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBAUHAQL/xAAxEAABAwMCAwYDCQAAAAAAAAABAAIDBBEhBRIGMVEHExQVYXEiMtEkM0FScnOhscH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYHA//EACURAAEEAQIFBQAAAAAAAAAAAAEAAgQRAwUhBhMycbESFTGhwf/aAAwDAQACEQMRAD8A2gfVS0EBrad0sJAI3YdgY9QoL4NiVoaTQ1NDERU7GueQWRA3Iz6cv9UtpkbHILvWLpWmszM0UM5Rq7WLNqEEcskbSHGP5tvXoqrtbaXDbA4i9nXcBZY9TxNTeaeXMpi4RzeFDA34i7cQXX6XNtvNOfBHDlJrdfqLK95+xQN3RxOsdxva59hyTR2mYAOlJGaxJJFu+gqknM5CFHI5ClyFctGykF7WyVa851KAMFMad3JrCQwi/wCkNyf5VM4A6pu1nSGcP0lJJRd9NJUMLpJJLEtwPlsMc/dPtDaXOcOyl+JSGsYe/wCLnHCPCEtFqNZqOsRubUNkL6Ukgfjd0luYPQHlldB7JaXwz9dN7h0TcAW/OkvVtS1QVcvdwyERxu2/Cc4P1Tp2QU+ptpNZqNWjMbpImhjTg4Dif7VLlaAxR+F5dkCUXOxc9EKJx9RYoWfH5WuNGwVkZbbNk8QdoE0cLYjp8dmNDb96c2HshC64ZOSPfLNWg5MPDJoZRdL5HHsoYAKBpH77vovZ+0Kd0Lo/L4huaW/eH26IQiPcpJHV4QzdGhg7M8rn8trDmhCEEnDRsv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Say Something (feat. Chris Stapleton)</div>
                                     <div class="artist">Justin Timberlake</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEAgcF/8QALhAAAgICAQMCAwgDAQAAAAAAAQIDBAURIQASMRNBFCIjBgcVMkJRYYEkcZGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAgEQACAgEDBQAAAAAAAAAAAAAAAQIRAwQTMRIhUXGB/9oADAMBAAIRAxEAPwDucNKR8jkcrRgiW5PGaVJHm9SrPCoBDEKPlHn335/jrd5HmtQ27WUppjKg9LI0VKel657RpmYflHdvR0eF156mgrxrBhbGSyC1reLrCaapjJyYHi/T9MfMVOhrz41z1Srscfcgkp0baXY55pLfYscG96iSUE7LEEb/ANf8oJSXDdC6tG2rZO/SrQ/iuTkB9C3N6ld4o27Vbar8u05A58jp8/acsuTtZarLhFPoCozRrGlgN8xLMOSCvHO9k+3Us9ijSs083ls0tRqdZIrMENr/ABS7AgaTY9+4j9wP46koZSDKfZu1WxqYW+RGJWujsWm1lm3oqD3BgNNs89FCck1yXYrH5CpVkkoVYVyl+yLtytfmMkcWyeUZV1vYXQ51r++jptgQQZWbLRZWcWLKJSSBZTNXSw4AUhF8a998aO+OjpDbT4IrFT4m1NmwlMraYJBZjdiHgHaU7t8D9etADejvZB6kFqrWm9e/MYoI1Uu0rkFV+cknW23wBv2HA42TUK+PY418vKchnMPU+KZacTIXiO+3UWtaOhxwQR7Dr0ZvjKdCRXEMtdoJ2NuaNe6BnP04/SUHuAB0376/rrRTpUcObR7mRTv4cu+9q7BDjqdR54o8nLaM8J0ZI/SVdqSD5J9ReTz5/bpf3Q5GsMjkqd+2J7jyLYYRAxgqAyHtGh82+wkjkg+PPXSrMOLe8tvIocnmcTDHHZStF3/UcaDCNhocbbYI0PPHWpqFrHV7McS0EtTV0h/GDXUySzF9ANGqnaqNeeB/4lPvZu9Ott417N4NMpYxarQmhq3/AFw9l5IzNCwA/KvIO/HJO9jno6x6OKOXuZPHmZ8qSuKmkqKXWGYgDuKNwoXjkHWvOz0dS3bLhDoiojK8C3pJ78NqvDcyqn4S7HEEmirkL27DaLc6HjXI/tVs474p89YsXprWBBrTsY2KM2l7pRGp0eCw2OPO/A6OjoNZeB9fGyOJxDcgp5e+3xDXYIUWT0+/casjcse0EEkex6RJPiorr/aoSXiyP+Hv3Ru6qQ/aWVB4DELyOPfWz0dHQDVofQxM8US1K1+vRypdbF2zTiT67/MSpRvGwwOyOjo6OgbP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Caramelo</div>
+                                    <div class="artist">Ozuna</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQC/8QALBAAAgEDAwIFBAIDAAAAAAAAAQIDBAURABIhBjETIkFRYQcUgZEjcRVDwf/EABgBAQEBAQEAAAAAAAAAAAAAAAQDBQIA/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIAAxESBCExQSIyUfD/2gAMAwEAAhEDEQA/AMYlpytTDTwkgzDcdvBx34/WmnV9nShtNtq1WZfHycyqOTtU+Uj055B7EaeU9nCVnTh6irxRWuup2lWojiy0S4O3PBzyE/B17+pNspqOhtoF1gr5Y96qlPKHiWPjDHbyCx9PYamxOQAi1AKH71Ivpuyy3ivSBXSFW/2Snav701mts9sqa6GSMRfbSeEWWQ5JyV/o8j8as/pJXV9BVRVFyWJLcg2/yKoCrgg9+c9hjXL1jTwNSdRXD/LOVaqR/CKYNQ5LHGM5Azz6j11zmS2M6FIKmREz25VBkZYOdq98ep+dGno6feq6fluf2r07xBW379wfnBBHccYx86NWWxHMg6NfcSn+qF3tdzpOn4rPUF46SBotjIylB5cZyPjUdBHLPCxhQuyEO3HHHPP61zVMiMtPIh8pj/7jVV0HD49uukiyRloJI/4cedwwbJHuAFyfYc/0eqSAWG9oygFuEJtKOzvSVVrmhp6fFdIWbPiERxrx3HYng/k6h+sUuFHcqqklhaNIZE8QEDGcZU59jnvrWLFYopYJ1hnkQBY3TEeVG+Iv5jnygYxnB1mP1IFRJHa67dNI9bTrHMNmF3x9wBnPG4dxg+hOj6clnJ6itWwVMR++Rt1VVVlB0Tb4KaOkjhuCMzFCDI+1s7e+cDceT3/GjUNRUdVKsJZZVXPhhiDgEg40aYoCC0zzlUORFpyPIGt8OCN6ZH7Ou6zT0i3CnMcVV4+9OfEUrkctxjtj50aNef1Mmh8lmp2S5qHKqu1nwCMLtOPjGpvrGlpobm0css7qGFRGu8eVW4ZRx74OjRoGnPM1a/IiGOolks2YmjQmcyKGbB4GBgZ+c6NGjWgqi0DUqNlP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Kids (feat. MKLA)</div>
+                                    <div class="artist">KSHMR &amp; Stefy De Cicco</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -539,10 +539,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgFBgEHAgME/8QALRAAAgEDAgQEBQUAAAAAAAAAAQIDAAQFBhEHEiFhEzFBURUjcYGxFDJCkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGjrqkmjRWLMNl8643VwlupaRgq+9QWXmd4xd2I/UqgIkhQ7+KnqB39v6oJCTOWEZ2a4Tf61gZyzbYiZOvQdaT3X+osjh9V3tpa3bTWgbngk5v3I3Ub9x5HuKiF1/lvEg+cwRD16+dUPVDKsyBkIINFUThDnmzmnIp33JA2J70UGOK+fvcHiXltrRZ026gnalnx3FjOYPPm9xmyws3zrOZueNx+Qe4pw8/grLO2jW+QiEkR9NyPxVMsODGjba9FzLjFnYHcRuTyfceZ+5oFQ4k6msdXakbL2OP8Ah7zRjx4ucMDJ6sPr/tVdQCyg+W9PpqbQenc3p66xcmIsYleIrE8cCq0TbdGUgbgg0l+ltKZDMZdLZYH5Uk5WO3sdqBoOAzMdNQIFCxqoAAoq4cP8CMJhYICuzBRvRUGpmh1kykJDr9ATuvPcgsF6dDs3Vvp0rfWK5/hdn4gnD+CnMJzvJvyjfnI/l796KKD0uN0Ye4qv4bSuOxbl7eBFYkknb1oooLAFCgAUUUUH/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAYHAwQFCP/EAD4QAAAEBAMEBQQTAAAAAAAAAAECAxEABAUSBhMxBwgUIRVBUXHRFiJClBc2Q1VWYWJydIGDhJGSocHCw+H/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMhQVH/2gAMAwEAAhEDEQA/APRs5PSskJOLmEkb3tvMz9rRrjWqaIcp+VD7QI4uOUSrGkrgDlf+0R0kkRuqJTj1l5XiJ30zT/fCVb53+wCuUwA86oyv5wiCmkSN1RpzEim4Ozhpzh7H0WX8LOkqhKTwn4OZSXEjXZZnZ9HhEX2eolRNULW52fyhEvPGPv0iG8FXp6hjQhp6xUgVzrxFO/Sxuv44qIm0St+jU0HD0RQAB/UXifb1imX5NfeP64oE5iKAJVCgbvjKo16bzyuZxFsrTuI0JHpEJ+ZMmCecxjOQQZ9OyI+tj6qmKOYoAj8lwjDTtoc6hSy0yelkJuRKlkW22HsZmcNeX1xpKp4ZqJQ4VeZp6w+5q+cX8R8Y05HNNYsMuJ1O69Lt3ca3MVk2IOJMY2VkWuYR1v7e6EYN2imhTz4jtmU5ginD2iQOy/WECCnr7LdreHqPXcnpqlyk/kvl8QkB7HZ2fTQI5nsf4Q+DNI9WL4QhDJHkDhK72s0hvoxfCA7P8IDrhmkerF8IQgA6lFw/R6FndC0yUkAWbMCXSAlzOzt3jCEIAP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Iridescent</div>
-                                    <div class="artist">LINKIN PARK</div>
+                                    <div class="name">Stay</div>
+                                    <div class="artist">Zedd &amp; Alessia Cara</div>
                                 </div>
                             </div>
                         </div>
@@ -566,7 +566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n64decomp/sm64</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Super Mario 64 decompilation, brought to you by a bunch of clever folks.</div>
@@ -613,7 +613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sequel-Ace/Sequel-Ace</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MySQL/MariaDB database management for macOS</div>
@@ -666,7 +666,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/Defaults</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💾 Swifty and modern UserDefaults</div>
@@ -719,7 +719,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shoelace-style/shoelace</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾</div>
@@ -887,7 +887,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.391170431211503 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.43360711841205 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1513,7 +1513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2022, 03:08:58 (timezone Europe/Zurich) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Sept 2022, 03:05:26 (timezone Europe/Zurich) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
