@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -504,6 +504,34 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDBAj/xAAwEAABAwMEAAQEBQUAAAAAAAABAgMRAAQFBhIhMSIyQVEHExVCFDRhcYFTkZKx0f/EABkBAAMBAQEAAAAAAAAAAAAAAAIDBAUBBv/EACQRAAICAgEEAQUAAAAAAAAAAAECAAMEEVEFEhMhFCIxMlJh/9oADAMBAAIRAxEAPwC/brJ21rklW7+QQys7drRKUkk+0jxT+lYe1NjClG3IWzMq8y1AA8JMc8TC0n+a4sxlRb5W4YU2/CdvKLgpB4B6A4rlOWQomW7kyI/NHr+1Zz9QoRirN7EpGPYw2BGbH5O2ybJex7jVy0DBU24CAe4Nbwpz+kf8hSocz9vy7oACJF0f+VhvNbFhwNXB2xIVcEg+0yKEdTxv2nfjWcRoWm5XcsLSotspnemQd/tRUTjNQKvr1tj8LsSufHv46n25oqqrIS4d1Z2IDVsh0RInUqZzdxI4hP8AoVHAACTUhqVR+tvhKTPh5PXlFIOudRN4/C3zVheNJzCUhLTbgIMnspBEExPPU9mvIZCs+QwHM1a/wBMbSolJ+UgKMGJMAn96qXT+VuM5r5zOZrLoxdjj99tb4oE77nsElJIBid0iSYAApO0TrbM2uo7I3mUffs3Hgh5p96UkK4J56jutmoLO/wAx8b323nS3YLvBabkpnpkOJBH3dA8n9iK0cPGFLOLAD9JO4m1ywGuZ6X06pK8raLTO1QKhx7pNFR+hLFOMextk0ta22EFIKzyeCZP8mirOk9vibX23EZfpxviSeobXKu5q4XbYh64tzt2updbAV4RPBUD3+lLmpMDnspgr+yawbqXX2VNoUt1ohJI781FFUPg1FyxHuLXIcACVPpP4UavxOombrI6bTeNNeNEXjSUpUD2QTKjHQ4E+tMytC6rczaMh9DUgnOoyRSLlowyln5ZTO7zescj0miinGhNk/wA1B8jSz9P2uUazFuq6xLzDA3S6p5shPB9Aomiiiu49KVLpRBssZjsz/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Something Like (feat. Jermaine Fleur)</div>
+                                    <div class="artist">Yves V &amp; Zaeden</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAv/EADIQAAEDAgQEBQMCBwAAAAAAAAECAwUEEQAGEiEHEyIxQVFhcYEUFSMIoTJSYpGx8PH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBQT/xAAeEQACAwADAQEBAAAAAAAAAAABAgADEQQSMXGBIv/aAAwDAQACEQMRAD8AzGLk8sMMR1NJU0Spz6NRfqHqRxTiXgOkHuFdwbgDdPkTdqh5HLz1NVIhaaGdqvp3g2puhdaVfqCTudINik7g2PxjOeIELLRkxokm0vKcAcQWkjtb+na374pqCTnJBSIWG1uuPL0pRTtjWr0B7gf6cSyosvZX9+ZKG7hE015/JCKlCXlxxWlzqKaF+19GkbHuL9VvPfftjxnKbjI9QTRwkdIpUkcwmnW2lA202JO/wPe/jWv8C8wUcJUSUnKxVE4wyXltOvK6E2vZSwNIP9/fCNQZrlBRKjXqlLtO4QkKeFynwHVa9scycVQwJYn9hN23yMCMxtVTLlNGZajGHnGSnnspPMQrbqB7dgdrePpgxJ4fRc4qXV9raaZdSkq/IkG+x/m2tgw+yynjt00fpjRxbmG9ZtvEKWyxDRsimCcbVKCMWgqqAVJV+M6dN9tYv74Qf0tx8PUuS7tRVhqXSttDaQOrkm+ojxtewNt+2FDiKzK1UwFzamad0NhACCCCAO3Tt84R62gkoF9l4l1guDUy+0ojUPRQ/wAd8KpqWusBW0mQrapL2CdJSOVIqlzMqjz9mislUVzybMVFYWm3FXsgBlKr7XHt6Yyrj5kiHybO0P2J9KmKxLhVTgk8kpUB4m9jfsfI4t8n8RMj5ahKV9UDVSmY20lxdTWNoUtTxFiQ6SSEjwAFx73xn8zXTGfcwVEg+hGw7J6W2EDskE/9O5w7IABcgATpThwjLzELFVuYFpFWYxt5KWCSFDl9WoDbV++DGMZCqJaLlQuLdYqgUctSVEWSLEWsrb574MZV3CVGxsb6cmlYvJsIZGijI1Dyqi8ipwq0bXv8Ytsvs/cGOVIVzLDAtpbfZW6FC5uRYG1vXfywYMa7tibkWulskCvh4diSHJkG3WSL3DDoRqv/AA7i/riZmpt6jZQzTOs8mwOinbLaQO4O43PqMGDFb/SwMxiBKSOeqRWNmlU7qt5+m+DBgw5vYabns//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Kaleidoscope (feat. Grace Grundy)</div>
+                                    <div class="artist">Vicetone</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIDBQcBBAYI/8QALhAAAQMCBAUCBQUAAAAAAAAAAQIDEQAEBRIhQQYiMVFhExQjMnGBwUOCkbHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEBQD/xAAhEQACAgEEAgMAAAAAAAAAAAABAgARAwQSIVETMQUigf/aAAwDAQACEQMRAD8A80MhKrlJfKgzmGco1UEzrAOkxVu211wmlsFnDcSZt+RSWy8FFKdM8mdToY8rM/KJqZKD6oGsEirGwW3TdusodTKFEJI8b1paVLJmT8hlCKLmWMc4WGKXjt7hmIu2TrrarZtL4SWkgEqQTOoJgT1jXrU5eYDwu/w3Z40qxun7Fm4TavtNr9N5aiwVK5iSNFgQQDpIjtK4g7hmO2N/gqbZto2wTCsgAQYkFMdqqvELe6s3XrUuEJHXIrlX2Pmn5MVCybEi0et8xIC7SO5DY1YtM37zdsoLRmKkBKflT1E6mNPJopi5edbaU1ICCdY0orPfbfU2031N21YkJUYnbzXTN3yrH2DyZMqkgGJEa1y9spaVEJbM94mk3t0t5QKiciZSn81UmXYvEiy4PK1H1LB4avxc49jD7DgW0422pKu3L/tcdhTqnXbhBOYjmEnbfrS+DrxVq7dJT+qiCqekAmoS0uF27weSdUbE7UBm4FxWPS7XcDoV+TaxZluSUhX870Up55V0GyschO22tFLdQxuW42IWjGsPcaVPrPlo7DIVToTse4A+87Vu+xw1WY+7VvoG1dx+CT+3zRRQT7DmB+DxMpt7G3AUzdKUtWVKvhkQCOb6wdPNNLtcKausvuFON83xPTUOk5eWZ1gfSaKK41XqBeSYzdv2ra2w0UupCpKchSOgP9yPtO9FFFKJMoVBU//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Freaking Me Out</div>
+                                    <div class="artist">Ava Max</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRAAUSIRMxQVFxBiJhgZEUFTJCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9Gw1dsasqFZn4ztVzk2oTlsQHOjXXWClv0B9T9B3yiRj4jhydff0qMvqPR1BDx8JUU7tvvVH742eUKzmegNtR5D+pKUNyUdJ2Qoj5nOSkqJ9Ae/1zU6DrZ1TTgt5BaltqU280e6VA1+D39sC/LVd4ZUkO2e+GBUQaPge5xU5rPXizjGZC1tb0oJ/tQr8X/mS6vIU3pcpbCCtzYQACPufxnN3PiDWYS3Y0ONAcZaaKnyXVJ6SQOVA1SgAeas89sDo6ITL+lxwlIQppIO5PG/i1X6gm++LdS1I6RMjymYhUlxzpydn8loqkqHg5kZurazqM1uDNYgvBvn9PGeUDQNbimwFCx5581XOMNW1ecmVDbGnByG6ylRS/YXtKkp4o1YKh8pFjA37D6JLDbzStza0hSTXjDK2mPLMNBkNBlzm0g8e4F4YQlMvcCFHg8Zm5uhJkBwNzXUhwq3Badw5BB49iRfesMMqqqtBnlaz+7I2q3bqY5UCSSCq7qzdXX0y6jRl7lF3UpCtyUIIABG1JtI+YG6Pa+cMMB+xILTKG96lhIrco8n3wwwyD//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Electric Glow (feat. Skyler Stonestreet)</div>
+                                    <div class="artist">Tritonal</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUGBwgEAv/EAC4QAAEEAQMDAwIFBQAAAAAAAAECAwQFEQAGIQcSMRMiUUFhCCMycYEUFZGhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAQMEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMRIQQiMRIyYf/aAAwDAQACEQMRAD8Ak34ba6JS7KbuL2zipnWOHUNOvpT6TQGE8E+SBn9tSm/6n7DlFUBrdNaqS5lCfTWSkn47wO0fvnWbuhfTO+m9RIj8yG61UwHlInPB3sB9nLQIOSTkAgfQnT+1/DPYv2jru372vXTFauxcju9VsZ/SQkEKI+QRn7aIRYzU7Zl7msDMKJElT7bLyPSUtR7nu1ZQEEYXhKhnOASPpqWwaLbr8OSaqpYZDsFT6XH3C+wyW1pQSFJVlQUDk/BxjGoLvDZcqj3k1G25LTGaiR2kOTHF896APecnyT4A8ePGm2wtxvW0SLBn3CpNg4iQh5l5bLcWMyg+O0IyQo9vtHBPPBGdI7fEZjKM6irce05tW3OsW0xkVaH1IbxIS4pIK1BKDgnJ4I+vjzo1Lt7MVzdRMZe3IZE8trcTDbCUNYcdSvCUhPI9ue4nJIHA5GjUrsZgZxdJplhs/dVztrc8wR0SnBHWVK7/AM0k9q+f1IIwM/cfBxem5NxQ9h7Sfsbqaz6KUdsVhtKUB049qW0An/uAOdMrHalJY30e6lQWV2sdJQ3I8KAII5+h4UfI1VO7ui9fY3qJamZq2O4ksIdPp5+w57f2BA00WZu3bdWtjaLt5y3Gl2RU+hvJwEZwnGfpx/rV89POkNkz02RYVNlHjW9k22+sSme9DYGSkJI55SoZ8g/GrYgdN6GXXhNxTxJa8JH5qB7EgYSlOPAA4xnTq2tIG34jEdQUhtKQ2wwwMlXaOEoGfgaz2XVgdvJYqMTqZPtun29KmwH91hLmF0oaTKje9CvCU5wMj+QNGtEUlxfW1gLa0djVFKwoparmiHZDxwQC6vwn57U/50auRlYZU6isCD2iyLuO73LY1xgNviF6TEh5MX2JS4FH1GXFKwe1aMKT4UMpyME48wqqdVWy415dsPpmpbjtR3JCi6hppwuJ5A9xwTlRIyO0HOMk0aW4ZrYfklPsJaMdP9JCnSWk+qp0+oQDjJwBjP8AA1UVpvR6rvVN7ohKCZsnsixQe95trkBTYSnK+72jAJwQeRlI0aNYOHUjp3GZZY5Da1OiOp21MyC2Xahw49nqIcktIPgrGClJIzxyRo0aNcfkWvxbmrpOBmbEUWqGb2f/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Sexy Bitch (feat. Akon)
@@ -512,39 +540,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQEEBgj/xAAtEAABAwMDAgUCBwAAAAAAAAABAAIDBAUREiFhBzEGIkFxkRPRFBYjMoGhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAMGBf/EAB8RAAICAQUBAQAAAAAAAAAAAAABAgMEBRESITETMv/aAAwDAQACEQMRAD8A2rZYXSYOnf2Xb2/wbE+ijMjyJ3uHYjS1uPXncFWtvt0cbRsFdU9O3YYC6d2p8uosUpwWv0jlvynBHJF9UtezUdWl37gBke2eyqr/AOEaeNsphnbqYA3RjdzhsT87pnGH9PG2FV1dMx2cgFUx1CcHvJlrxFNbRERdbE9jT5T8ITZuVrikY7yhCaWqQfoo8GxPpC7tXU9s2A6EsPD8rp6HxwyQgtk/grzBFUvZjBKs6G/T0rsNc7T7rKXYTfcG0a+jUIeWxTPRF46jVtvvFuia2CahrXfRwBiSJ4BJdnOCMemxVXeeo76cnQGuPLvskbcL5LWTwzOe7VCfIOT3/palTcHzZLnkoRxJy2+km9gPLpr5fOK78GfcuqtwIIiZC3nST/pQlG6Qk9yhNrGghKWZY2R7crI7jHblCEyKk5p2ZI/EwfLvsoC07+oQhACMEchCEKEP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIFBgcBAwQI/8QALRAAAgEDAwMDAwMFAAAAAAAAAQIDAAQRBRIhMUFRBgdhEyJxFCMkMlKBkcH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEEA//EACARAAICAgICAwAAAAAAAAAAAAABAhESIRNBAxQiMWH/2gAMAwEAAhEDEQA/ALN0GOCe0uDJEzuGVVYISFyG8fOKfVWxW6VBanYW/pMbhscHz/aD2qj9I9Z+rdO0SfV7fTLZ9OWQhbg4+x8YwOc458Uke6HqO9Mf8TTmmbG3bnPQjnnwaf29HJfFKy/1hscgLbSh/lGx04+etMguV3Hp1qqh7r+qZWCPBpmUbO0qRgjt1pqm9wNRsYJp9RigMZUhPoHJ3npxnpUlBpWKHki3RdoulBHIoryTqvuhr9w7RtqTq3TFvHtxRQxXbHk+kDarcJavaLM/6cguIt52587ema7PS148d/bswjBMgbcx4rSYUL71hKvjGf8AtbbqeJ2kWazWJ3GRs4Vjjt4OeatzW/0i8b1fR332uaXdapMlvEsOHIYvxls848VHfX2pwQWsFlZuHupfubb0Qdv81Fb6JrW4LGSZZT1+qDnP570mHUIzIpuEUsvRsZquSSjQuCDnd0O/p+xS3+mftaVm/cbx8UVjThFdOsVjeCGTr9wyM/PfFFZuaMdM1etOe4kiS4ZgOR/um/WNSgt3S3ustvXcMdu1FFdkjO5N6Gt7gSwAW9wZSM5jl54+D+Kj95BIrszAAk9D2H5ooqKTbovBVaEQF0cBSyt8GiiinimDJo//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ain't You</div>
-                                    <div class="artist">Aexcit</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwMECAL/xAAwEAACAQMCAwUHBQEAAAAAAAABAgMABBEFIRIxQQYHExRxIiNhkaHB4VFigbHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAMBBAUC/8QAHhEAAgMAAwADAAAAAAAAAAAAAQIAAxESITEEQVH/2gAMAwEAAhEDEQA/AObdPm0lLQreWksk5Rl41kIAbOzY67dK3ILjQRapE9hM0wGGm8Rtzjnw5wN6RQoHYDOKkdtpiWdms94nvJN4UzuR+p/b/dE7hfZYpqazyLTYhbYyxvI++ADHjP1+1ZlsHVRxLvw5I6/mmemXSLccEwBibZhU5PZC51BF8mpRlXi9tcqy8x7Q5H5g7UJtzoy2PjHNEqyeDw88sUUy1yBre4eKRVDxkq2B1BxRSA6ITV4YmsCEuUJ5emcfHHX0pjeahdXt07X0plmbYsfhsMY6YpfbNgjljO+1Z0iYyEAE8O4OOlSwG6ZFTMBxEmvdzoi61rccTkJDGDJI/LCjf8VemjRm3u0jaYOJPYH2AOeXT/hVV92cBtbOaZlJR2XjAOCyjfHp/gq01ubTyaPIbaxg2cySHGF2J35DI+tZz61h/JsLxSoD7nP3eTD5PtZrFrjhKXT/ACJyPoaK897Gp2eq9ttSvNNnS4t5eD3iAhWYIA2M9Miir6KeImS9mMZDoztW5ZXTW9ykuA4U7qeTDqD8KKK7Yb1BRipBElr9vLuKPw9Nsra1iAwqnMmMcufM/wAVHNU1nUNVkDahcyzY5KThV9FGwoorha1BwRmtZxrGK5t6KKKQQCJ//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ignite (feat. Alan Walker, Julie Bergan &amp; SeungRi)</div>
-                                    <div class="artist">K-391</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAMEBQcBBggC/8QALRAAAgEDAgQFBAIDAAAAAAAAAQIDAAQRBTEGEhMhFCJhcZEyQUKBB1FSweH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMFAAT/xAAfEQABBAIDAQEAAAAAAAAAAAABAAIDEQQhBRIxYXH/2gAMAwEAAhEDEQA/AOZVvpo5Mo7b/kcisNezHPnNOIdF1WW5lhj0+46qO0bK8ZUqw3U52I/renNtwrrM7qi2Mqu3dQ3Ykeg3NW7OpOyJ79MBKjfFyn6pG+aXinc4wXb9mpyLgLWWhLyQtEwGeVo329wMUzTQNa6Eb2ltcXEUhwrxQOQfY8uD+qLHJ34ssdd21aSNy3hgoDjmcAjJ+wP/ACines8N6xplja3E9rdNHJzuz9BgFA5c5OO1FEybUXxlh6u9Wz8U6hqercTR63qwhu5Ht408TBAXUsMZLqBjm7ONv6PrWzaPxCtppvivCxwM7HkhkiJIUghjjcA9vfHpVIyzNHO5geVBsct39dvXNeYJir8zYY5z5id/cd6hNHFLpw1+r34HISYhOgQfV05cT3dst7dFWitB0+kbiGRYvNjOM9iMepp/pls8VvaiCKeRLvTzYK9v1CkT9UDOAeVSFG+4zXOtrxjqscCxPN1UReXLkt7ffvU3Y8baq0eIri1Rcd0Vnj/e4FPi4mPGKBNrUl5Zs9UwE/QrD/lJtSsJhGG1AWGlaVeWzSsXEczPI0cZJ2Y8sifHaiqm4x1281MW0E1w7RRj6FkLJ8ZI+1FNNQeeviwsl1yEqH16yntdQniuIjHcLIwkjH4n/YqM5G/xb4oopHeqDTYtAVgfob4pVebPZD8UUUBpMCsurs48rbD7etFFFcUHer//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">OTW
-Explicit content</div>
-                                    <div class="artist">Khalid, 6LACK &amp; Ty Dolla $ign</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAEFAQAAAAAAAAAAAAAAAAcCAwUGCAT/xAAqEAACAQMDAwQDAAMBAAAAAAABAgQDBREABiEHEjETQVFhFSIyFBZC0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCNI8rb4h01rwJZkBB3OtYAFsfGPGedb10V6V/7gfyl7apSsqP2IlP9XksPIB9lHufJPA1FcUUWk0RKZ0jlx6jIMsFzzgfONdZ2HqTsq3bap07Zc4tGlGoFaUZyabDtXgYI9/n50Gwnprsurb/8P8DbRRK/8p++PkP/AFn7zrmnq/04r7GuaVYrPIsslj6FZuWpt59N/v4PuPvVuy9cFa604tHYtslq8juhpF70rh2IAwf2yxwBj51M/U3eljbbL2Ld0OdDmzIaVRRakHKsR5VgcZVxjnHj4Og5a0000DWGowJlxoRfxKTJM+vIeiKFEF2YgA8Ac+//ALrMHwfjUldId51bDtKvAs+22l341K70aysih0BXuLsT3AL3oMe/GNBe2ltaH0npRtz7qjmvuuuxW12aOwdkdhjJxx3AH7C/ZxqO+qm5Lpuy4Q7/AHVjRoyYz04yUGLJ3IQSMnGf75OPPGsnKue91vr3afGoSL0KtK5xZHrU6i0kpdwVUQEgqTU4HkkZ5515d7WG8ybbUVrc0OJb2kzjGyrGOKhT1FyD/IZf185HPsdBrljcvbkLMSe4jk/emqbAym2r2kcMc6aDbIW6LNZ4kVbtYqE40+O7ADNyx54/byo5z/OvNZ98wIFOnEWzPWwzVlanJ9HvclzkhRjJVlH0aa4000Beo0Fb9XugslRvVjij6YklDTbuJZg45OeOD8aqr9RbfWhGN+HrlCrKHaTkHKsOUx2+6+3gHIOeGmgpk7tsk2tcokWzRlqySfTlpTWmAwqM3eAADllIGD47dNNNB//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Just Dance (feat. Colby O'Donis)</div>
-                                    <div class="artist">Lady Gaga</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQEE/8QALxAAAQMDAwMCBAYDAAAAAAAAAQIDBAAFEQYSIRMxUQdBFCJhcRUjJIGh8FKRsf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAHxEBAAICAgMBAQAAAAAAAAAAAQACAyEREgQxQSJR/9oADAMBAAIRAxEAPwCMS5HUHBIP3ph0825D01d3nWyH97bKUKGflWQs8efy693pZp8XfU7ankJW3GaW/sV2UoDCc/TJrW0np+VdNVtw5Cf0k5TLhPsQN387Sqt8PHWwvPqd7Nm2L9k31fentQ6nnXiUEpflOb1pTwBgAYA8YFNMph2b6ZNOR0KVIcmIj7PdaUhS+PPJ7VYTojQ7d+ZsEqwTX5WBHeuSVOdJLqkZBJBwCSfcAD7UjeoltMC8qs9hjlEOBKecIT2SrakAf3zV2E01trU4XkV7XE3IoUqBKVAhSSQQRgg0VV/XGytpuFivjDSEG8W9t5/YMBToAClY8kFJoqK35Umh23E1VyWzG/TSHmZCeUONnB+xp99NdZ3Nd/061dkMrhxZACZJb2qQChaQkqHBGV+4/epixHcWdw6QGcYW4lP8E1QYV1fRox63/DwS0XNxWQnfnH+RPakY6lPvEstmOOGWi6QLZe7q/f37sw1GjluTGU84HhvSolwFkkHGBgD9xUm9TNXXGDqzVIsrTPw8uSAqbt3nASBtSTwOc80mIRbFPhxTTvVCOT12R84yARn24pkiXAtaIkQOjEW04oKK8pKxjsMg9vpVNsqm2I7A8knInvKjpbffedIPZxRUE+wAz24ork9jpPK4RjwlQP8Aw0Ur3ASNtnvjdngXGE9GbkJkKCkrUPmScY4I5H++PBpmZ19ppMEJe0s0rsFJSlpIPnHynmiijbNqg/IvqFl/snVquMKLeI8mZBTJiokF5UdeAFo5wk/3Fake+QGoam/wppQ3Zx13OR9cGiis4hTEnS4spCfhbe3FKVEqUl1S9w8YUeKKKKFjz1P/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Break Me (feat. Karra)</div>
-                                    <div class="artist">Trivecta</div>
+                                    <div class="name">Desperate</div>
+                                    <div class="artist">Jonas Blue &amp; Nina Nesbitt</div>
                                 </div>
                             </div>
                         </div>
@@ -568,7 +567,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>facade/ignition</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A beautiful error page for Laravel apps</div>
@@ -621,7 +620,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>imanghafoori1/laravel-heyman</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative style of authorization and validation in laravel.</div>
@@ -674,7 +673,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>titonova/awesome-laravel</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem</div>
@@ -715,7 +714,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>soulverteam/SoulverStringParsing</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)</div>
@@ -736,7 +735,7 @@ Explicit content</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        136
+                                        137
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -883,7 +882,7 @@ Explicit content</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.924366872005471 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.966803559206017 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1509,7 +1508,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2022, 03:02:49 (timezone Europe/Zurich) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Oct 2022, 03:07:41 (timezone Europe/Zurich) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
