@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -309,12 +309,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 86 commits)</small>
+                    <small class="h-details">(computed from last 84 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 09:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -388,13 +388,13 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 10.416666666666668px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -403,13 +403,13 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">15</span>
-                            <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">16</span>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -455,12 +455,12 @@
                             </div>
                             <div class="entry">
                                 <span class="value">24</span>
-                                <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">25</span>
-                                <div class="bar" style="height: 37.878787878787875px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">28</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -469,13 +469,13 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">33</span>
+                                <span class="value">28</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 6.0606060606060606px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -504,27 +504,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEGBwQFCP/EAC4QAAEDAwIFAgQHAAAAAAAAAAEAAgMEBREGIQcSIjFBFDITUYHBI2Fyk6Gx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAgMFBv/EAB0RAAMBAQADAQEAAAAAAAAAAAABAgMEERIxIUH/2gAMAwEAAhEDEQA/APlVd7bbK6PmEtPjGd5mg/33XArJojSlTqm4uhieIaeLBmmcMho8ADyT8lG7nOXVPwkSiHb9Z+nlNtsri4CWm6SM/js+Wdt91Jtko7zU37zf9Wl3/hzbaB8MNK2vlBHVPzB2/wCkDZUPVmmK3Tk8IqWuME7S6KQjHNjuCPBH3VGPXls/EsY249Mp9qX4V9ERMipK3fgfb4KrSk8zMicVLg9zDhw6W4+iwgq38OtbVWjLjJJHH6iinAE0BOM47OB8EJTuxrbFzH0Z5NVloqZuOoKiqs9P6mRoma3s8dLvr4KonFa80d30RRSNJ+P6kYY/3M6Tn7L2rpxN0xeLa4VclZE13up2w5cfy5s4/lZHrDULL3URso6f0tugyIYebLt+7nHySsrh5LVqrlpr+mp1dWbyaT8tlbREXQGEEREATnZQiIAIiIA//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Yellow</div>
-                                    <div class="artist">Coldplay</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADAQAAIBAwEGAwYHAAAAAAAAAAECAwAEEQUGEiExQVETFGEHFXGBobEiIzIzQlJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEkEh/9oADAMBAAIRAxEAPwCasdkLJZpYrh3hkC70bMAUOOhwcjPc0wsbSSA+HBCGi/i4Jx9alItqhYzRzySr4vMZXJFY223d22oxi2tvHZ3H7gIGOuAOXxNTjPIr2ZXI+Nzqj0qxa5iIKOVbmMGqmaGDXbFI5EVL4LhH/wBdvgfpU7Z6pp7WyzPOkZ3clWOCPSmOianbXkpe0kO9GeRXHzqdP2FZfnh5h7Sn8vY29rIAJXkLEHmABj7mitPtlYPtcAM58urHjwyWY0V1Y+qnNv44Q500s2WZmPfNNdHW5F8qx3DxxnixAHHr96X+M6N+skV12t6wkwAePPhWwmj+0mmvrl4YrmTdiA/GQuM+mT3p5ZW93anPncoRjBYDj8jUfb36wu2GClunWqfZ63Oqxs8kZdYPzVJOOI5UWaxUhLtFb+du0aRnZkXcyGyccxzorHVr2W2v5FcHgeoopIKRokbPet6XTIDu4oorAdPvQ+SZsRNdk7mGgBwmOYPQ59KXrc3atvG4lZv7FiT8M0UUNZi887sDJKzAdzmiiihh/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Constellation</div>
-                                    <div class="artist">Far Out &amp; KARRA</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EADMQAAIBAwIEBAQDCQAAAAAAAAECAwAEEQUGEhMhMQdBUdEUFiJxFSNzMjNSYXKBg5Oy/8QAGgEAAgIDAAAAAAAAAAAAAAAABAUAAwECBv/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMQVRgf/aAAwDAQACEQMRAD8A7kNE0zV7RJb61EzNnqWYeZHkaINoaHD+6sFX/I/vUjaknO2/aSfxBv8Ao1O1K6Wx0+5unAKwxtIRnGcDOKisdbEHFdZXmwHkqJNn6FIcvYKT+o/vS49n6GegsF4f1H96g6bu+G6kso3hYyzRNLKsQLcoA9Mj7DJ9KurXcFlOVWBLl+I/QRF0fv1HX+RohmuA7J1JQtNndQExniZtXRNL2ZqeoWdiIrqFUKSc1zjLqD0Jx2NFXPiY6al4baq0HFwSImMjB6SL7UUXiPtDyMJK66idt3TxbIsHhYiV24EwMkkyHy+2ajboubookMTXNzx3CxmDgHCyoQzFuEEhewJwcenWn9tWd58saOtm8KGEuzGTr3LDoMHyNLvbCFdS5d3qDrMyh+WEyCrNj0xgt5efnXMsLTevEHjr8lZTliqo9Ime02y/DLR2h5AaWH84pIx5gLcKoHKjBJycjGevkKcsrtReRxwQSRW8vDyoElyHbAV/7ZBGQR9q0sWoaIjoWvpzLkMMRleE4wDgLgdPTtTdtZ6BfzQ20U9zIzBljU8Q6ftkZI9etPWuDDU1+PqGMdHyRt+agT4a6vOyqojCphEIUYdRgZ7gds4FFK8WbVYvC/V7eEEKI41Ueg5i+lFX4igod/cIcgsSPI3tTdWjw6LawXd6sc6huJOBjj6j6DHar/5o0QjPxqY/ob2oopbjjmBuKUynCiK+ZtFIB+MT/W3tQdzaMMt8Yv35be1FFMDjIBLKsp29mW8QdzaNqO1NQsLW9ElzKECx8thnDqe5GOwooorKIFGhDQdz/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Diamonds</div>
-                                    <div class="artist">Mord Fustang</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAH/xAAvEAACAQMDAgUCBQUAAAAAAAABAgMEBREAEiEGMQcTQVFhFCIIFSMycSRSgZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQH/xAAiEQABBAEEAgMAAAAAAAAAAAABAAIDEQQFEiExE1EyQcH/2gAMAwEAAhEDEQA/AOi7xcLjR3CXyIRNSrRtIqCIktNuAVdwOADntj5zphJerwtEjfRATrTkzYidlWVZVRioByy7dzgDkgDB1apI0ljKSKGU9wdR5ttDUQgRLGVRsAj7gCOMfGDow4fYXKKgWvl1+ho3KLGJJJFNR9FLJvCkeX+kDuXfzyT6fI16b7eI7ld1logKOllhELiFi0kbOokZcE7sLvPAGCBwRphL1PaBfprXAkslzpCUSMxbWYrjAU4ORgHk/wBvzp5Q3WxSpAaeHzGNQYmBXYYMKzFm9gADz8j40yqF0guzVp7Yrrcqy6Qw1sQhjNBHPIppnXErdwHJ24A7juMj50albJcLbcKTNoqYJ6eI+XmFtwUj0/nRpTjyjCS6lvMFhtE9dVZ2Ip28cFsEgE+mcYydc8x9QXZ7rdJUusdvpLmY53joqssFfGXAJGUbdxnsQO/bWh+PMt3orbT1FppZa9akinemdswJjc3mOvr/AI9sHvrBkej31qutVWQRwsUkhJiKNwA7AZwoJ7H41Ti4seUHBxII9KbLyJ8cDxAEO7tXzr7r+uk6tsdvsjLPVwUTTwVIXdJO5HJ4B5ARsg8HvpKk6vt5elnjpUql2iCphqZcQqWyzTGP9rfcoyCeAc4OANS/TfTljS22SvslzqZZqgK004wkjyrIeOclCCdvB5HuDqp1dVb6ejr4XmSiMSMYoI4jh3Lcpx+3ueTrOydVEe7FiaSRxfS1NO0Z2W8ZD3V7Hd3+LafCus/M6+61Ud/p6lo9kM9powpp6JsZUo4HJI7kEqT/ABo1WfwxU1MLJeaqCkWFjUiHzlyPMUDcAfQ7S5574OPTRoo62CkGUwxyuYa49LYrnQ09zoZqSsjEkEylWU+2qJa/CDpy2JcVpnuH9dSSUcheYNhHxkj7e/A50aNObI5nxNWpyAe1I9DeHVo6Phnio5KisjkcSKKzY/lMPVCFGM8f6GmfU3hN0x1Dc3rqqGpgnkO6UU0uxZD6kjB5+RjRo0t9PO5wslOimki5YSFbun7LQdP2uG3WmnWno4h9ka/9JPck+50aNGi6SySTZX//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Telling the World (From the Motion Picture Rio)</div>
@@ -532,17 +511,38 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC0QAAIBAwMCBAYCAwAAAAAAAAECAwQFEQAGIQcSEzFBYRQiUXGBkUKhMtHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ANNurdlfar5UUNPHAY48N3SKe4kjPPOq2Lft0dx3RUn37W/3qo6iTFd3VZY+aIf61mYpnaVEiAaRmCqC2Bn3PoPf0GgqustVWXrcNtlZFlnamKrHACWwGJ/x5Pr/ANjTI6f1820tjUVK4posKZ5WmBGHc5IJzjgYH40pd827ctrv08lUzzrBCCtXQqxgSN1BwHwMcN6/f6aqKKCov8cSVFzc9jFRC4YqmR8vb6DJ+2P60DvTqxbjX+Dcq2kSl7WJkgRnOfQcZ0aVe2tiNdLvS0M9UkROXlIJPyjGQvGAfc/rRoNt1IYx7skBwAYI2x+9SOlVttt93ctFdYZagrA88EUUzRMzqRghlIIIz9ddd+WatuW7ahqWI+DT0qNLIx4QDu88ef41N6b2Oho91SU98rKQSzwCFafxu18OO72Ktwp4ORkaCR1PEfTu1vR2gVMlBekljio3qyfhpmXsPcrBi6MMMOQQ2ecHGlVZbM9ujjo6wqk88vhSYXmNv48/TIB409d39CrXeXSanr6qiqUUdsjzNUljn+Xec/ojXHevTX4G00N2SvSe6QBEqI1IjSqC+qgnhwPTPI40C92AZl3jBHVKVcRyq3uRgHRps2yG219EtXDBF8YhZDJgBg2cH96NBtbfaaTwHIggmaQnueRAzEfQn1Gqu4bWthqGZdqUkzoQyzLSp548xnnI8tGjRpOKXaaMn4GdCqkAEDJ9Mj5vzr2LcbnAaS6WrvpscrUqsisQeOMn76NGhEOSzrT1aUNFZ1goyQfiIFjRV9Tx5+2jRo0R/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBAUCA//EAC8QAAEDAwMCBAYBBQAAAAAAAAECAwQABREGEiETQQcUIjEVMlFhcYHRCBYzYrH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAIDAf/EAB8RAAICAgIDAQAAAAAAAAAAAAECABEDIQQSIjFBUf/aAAwDAQACEQMRAD8Alfi0qK14lXxElt/qCQndtcGPkTxjGfbvmrX/AE4ORLDpe5uXBQhpclIU2p90HqhSBhSTwMdvsQaV9e2mXqTxF1A9BtdznNRXExVGHEi7U+lK8Er5J5+YjOOM4rTEtjll0pKiOWu6x5kt1LLMaUltyR0wj1KbQjjbyrtwTmmhfZg8hDjoTLYq5O3qO2uNuYYdTuAUMLP5+lESOqKrHVLv+h/mkK8as+FR7Y/FhTURHWvMAlOdycgqBOffB/A/5o094iR16glSpEaYmBHjuKTlnAKQRtOD6sng/ukF2UEKNCYY+NQ9x0cuNuelOMR5LTj7X+RttYUpHbkA8c0UtaHtDFwaFzbhNQnHFKWlKSlSlJV3VgZCvqDRUVzW9TmQIDVxau1itbep7w/f9YyrWZL6XY8aJdRH2N7Ej1JPfIJyO1fByBBajWedBnvXRmR1G1Py3xJUle1JSjcOfYL4z7kn7VP9d9J3Xd8Xbt7rpdR5ovsRFgObBwgvHdjGPbjNMehEORLBHEdhXVXfG5kkrUztCEJTuKENEpSACOKgamqpGQle1zFqWxTLTrGM9OekKi2ZKJkeOGQ4lLKXcAHJwRuPP0BqrXfzf9yi4toAgIiON7VLylSlJKicH356dZnrMNSeIslN+jOpt0eKWY7AdIEra4CpTgGMpyoYGcHArs6zKWNGaifZUlRi9VKW0Y+ZTYSEY7H1JwPxRmLBuwicbKQFI3J54R6yv92vDbd3SEdZlbqUNN8bMY3k/QkDHbg/UZKbI+n/AIFdtIKYbS2r4Wq1SvsUIDicftCx+6KRjWxKMisbMV9VaUu91vciUyxpZ1hZAaMy3Fx4JAHCld/4rdoTw9d+E3ljVDDEcLlOKirtmGUhC2wklIHsOPZWTxRRSM2JQbH2A4+ZmBB+SnRbW0ZDV8eLnm2GlstkKGFIXjIUO/KQfzXHu1tYnx5Mcyp4Q9I8y4EOAZOANpAHKcJ9v3nNFFEx+RYn9iOxAue7lHE+RBfdL6FRHS8gDgKJSpPOe2FGiiitwNSpJn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dangerous Woman</div>
-                                    <div class="artist">Ariana Grande</div>
+                                    <div class="name">MORE (feat. Lexie Liu, Jaira Burns, Seraphine &amp; League of Legends)</div>
+                                    <div class="artist">K/DA, Madison Beer &amp; (G)I-DLE</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwIFCAP/xAAxEAABAwMDAwMCAwkAAAAAAAABAgMEAAURBhIhEzFBFCJxB2EjMoEVJEJRY5GhwfH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgECBQP/xAAkEQABBAIBAgcAAAAAAAAAAAABAAIDBBEhMSKREhQyQmFx0f/aAAwDAQACEQMRAD8A1E6dFgvR25bqW1Pq2oz2/X+Q8Zp20/pVEtpMi4OhppRG1JUE/GSe1IEoiQhy7Tkw2I0EFaDJb3A+QCfuQO1VvevqPfbtcnHUvraioJDEUK9jaR2H3OPJ5pR8nJaw2I4A5P4nK9cMHTnnuupnNN6aQkoXMaDn9NwrP+OKQdT/ALKst0THcuLKgvG0I96v7DtVZ6G+o8q2XND92Bfb5T01/lPFO0eNB1tcRI9S3FaQCoqJwOPjvUmiKxAcTjuhYLcuyHZ+04z9NdC2tyQr86QofBGRRWFmejEyYMe4vS2o6Eg7k4Tntx57CiuMsrWuwEdBNIW9SrHVN2cf0jPt0vat59AS30x3IIP+u9VTDirXw22VK4zimZ16ZKk+sjNrWpK8bm0EpBGOKhOO3Dc8YsSQVFR6hS3585wKYK0LoWlrRztZFt7JX+MleVjtT8/UEOJJYW6jro6iCDjbkZyR4xXQc60WuLH9DBaajRSPehlONw+R5/XNUhZb9foWW40AqKD7vwTkHJHOPg1vhra+ghcm2uBvnJAI4896CvVrE7gRwPlE0nVo/U7ZT0+6m0QejY2fTlWVPOKG9WfHzRSbM1W4G/3iO6yVDgrTjv8A8orPFaT3N2tls1cDRCWPplftKWxu7p1ja0TtzQcilTRcKlpz+FwpO0KyPdnjFMcS+fSLot+qsVwS6Up39PqKAPkjL3NFFN4CQy455VeWSTZW74wu7MvvWsS9zrbRKVqY54Bzwe3mpTcrTIV74l6I3HhMpoAjx/Accfc0UVUhdmEqHdpVqVHQLWzcG3d5KjJeSsbccABKRznzRRRVcBSXnK//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQFBgIDB//EACwQAAEDAwMDAwMFAQAAAAAAAAECAwQFESEABhITMUEUIlEHYYEjMkJxkbH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIF/8QAHxEAAgMAAgMBAQAAAAAAAAAAAQIAAxESMQQhQVFh/9oADAMBAAIRAxEAPwC3Uqa63PcbiT31okuILLbwCkoyOSVcrKtjjbJsdc6BUaQxGrr1QC4DsFwpdWlBDecBKbEkKuLYt3wLat0ySXqO1KqyeL+XRIUEtIZAOTdViU38Wx8nS1SpbG6KBIYYqiVCQ4mUxIbIdQFpAFuIAv8AGew8+NSKylfa5OowZDn0TqqtRp0raDVRpEeVVGYxKAI6OIVkBSTewFj48W1BrVWVHKZciJHZlhgucJagFkk26YIvdWc2Njb50yvbru16NTocStOvPuTHHZoQTxcUe/EA2CQBbie/K+pZNPlPPuzeu488VuNI/YSoG9ye/m1tHWa1PfcYC11AA2Tq25Apa4LzIWVyHeTiy6o5IurkSLE5B42/GjUesqW6+2mJIR1yv9NtAzyHuJufbfPbBzk6NUHD/ZM3NSQBNHErcD6j0h+lNNyYQDiF9Lqh5Kmkk2BJFxci3EWwdWdk0ORQ0VH0z7TCJT5WmNGSroxW7AXTfJuc2GBpbauz6ZRq29Eo83pPPc3VNufxQM24g3AGcff7a1m5GZkHdkRiAet1oiELHEAICeVikDybpT2A1l6sYcevom6XLMTZ3FmaMiWp5MV6I7NZcHIGysd7mxwLfN9JL2yXqwlEiQy8ll1ShwUr2cgOWCSEn8Dz3Gktp7Tk7arkmT6tcthfJtCm08L8lXso395BH21oZDUekwqtWmY8pUhaeS21EAcgSbJtjKl9yD3xjQDxlUgqsqNr1gMJln9v0aXKdiIlPPvxipfo+sLc88jx8kg2+B+dGlGKlwTCM1TPGCm/sypa1e0+DbvfHc5xbRpgCow+pMzBiTu7PQ5qWtvxZm5JYk9dporcbbbC02sAQLEXuPk/5rHbY3FWHt1Qnq1HglqbyitqZCkutJFyhsnyMEXGf+6NGqkUYYZPM6ZpPqVDiyKbHdlrdjBhXJqzgbQggX9qL9/AJ+e2shWJNTrKqY1GQ29RnpHqJIW5wIKewJB7Yva396NGjY4mxkPoL+yTNpUv11WMGOllpauKQggBOCFEC9xnwe+jRo1LT5LuutkwawDP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Only You</div>
-                                    <div class="artist">DEXTER KING &amp; Alexis Donn</div>
+                                    <div class="name">Beautiful Mistakes</div>
+                                    <div class="artist">Maroon 5 &amp; Megan Thee Stallion</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQD/8QAKxAAAgEDBAEDAwQDAAAAAAAAAQIDBAURABIhMQYTQWEiUYEHFHGRMrHh/8QAGQEBAAMBAQAAAAAAAAAAAAAABAEDBQAC/8QAIhEAAgIBBAIDAQAAAAAAAAAAAQIAAxEEEiGREzEFIlFB/9oADAMBAAIRAxEAPwDDEsE8txWmpVhQIivI0oyFGBkn4510XbxKuoleR6u3mlV1HqRyKG2scAkZ65/Gqe4UEk15qYrZFJvdM+44xn26AA9/fXZB4/VXLyG2WGkgesNZTlnxmMKE5JJJ60ZbSw3AcSU+xAzM/Tx2umQNSKtWOmMLq+0984P29+tNrf4hU1Dfsmp6iG5kllMqj0iMZA5IyTz/AB+dasng938fnNso7JPUSlDWDafUG3rLAHsYA2/foc6Qea0NR49eXrK611cN8kdW3vISTvwuRg4613kP5EGnj2JlVysVfSogmWnJZdwWM5PtxwfnRrSpqCkkakhkWVVeMEsGYEYwcD+v70aqOr2nBhjj9lBY6KkqK+olNQVLk7Iv8W24xk/Pxq28LtNLSeaW2qheVJgrwg7xgowyQQeTyo60otlqFCX9SeNpc/UMnGfyNObSjxXq3VqkPDFKCdgJJHXAx2f9aDQ1quF/k2a9PUtGXGGmlR3CVf1AhpVlX0JaQsN3YcHdjOeiCf5x8ajPNPHIPL73UVN3q5xFRzMtMiSRpwvpscluSCT+NetqZpPK7ZVSCRmH0iRZ2P0bdoyuME5J1z1ktvFXUCohnad2k5FS4yfpwcAYHR41oW2ME4h6qlL498SQ8y8St9lignpq7cICd8c0yM5UMUyoByfYkaNOb9aLZeKWo/YxNDPk4laoc8lgVycZxjj+dGguj2HdDXUbWwok8t4mUzyNUxKwb1DmPPPt2P8AmnFunuMaQIrwuwUMF9yW7Gcd/OjRrzo695JJPc3/AJCzxhQoHUYNJdAzIhh9QBY8ZHI7AHH30gu1xudNdM1EyK5bOVj3Z6560aNI1NYWvIJ7hNFcXuCkDqFtu9VvnUSx5V/q3RY4bjrHXxo0aNV0puQEk9yda+20gAdT/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Manila</div>
+                                    <div class="artist">Ray Dalton &amp; Alvaro Soler</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBQMGB//EAC0QAAEEAAMECQUAAAAAAAAAAAEAAgMRBAUSITFBcQYTIjJRUmGBoRQjYpGx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIREgQTMVFxkf/aAAwDAQACEQMRAD8A+E5Tl2Qz9FsXicbjjHmbXO0M1gFprsAM3vDjsLhWitt3srmWC6PYbUyPFTvc9v23xvbIGn8gP5fuvM2paC7ugk+gQtMtM1jZXiN5ewHsuI02OXBUCGxsNg8ktCcHRnV9VJq1dZs0Vu9bRc7RAdsLLHE4ukhbKeAcTXwtB2aQvjLJMBGD4xyPb8XXwsqkO02VhwTdnohqZwjgqrxGgcZh3OqTCh8dVpdK678Qd45KJp8vewiLL3sf5vqCR+iFn0p2jdaYE35dL4i0wjBuIvryu4e/FFUhFpHGTydi1Ie4CrNIipLoa3X3jfNC5x3uNc0RC2QiIhD/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ferrari</div>
+                                    <div class="artist">James Hype &amp; Miggy Dela Rosa</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADAQAAIBAwEGAwYHAAAAAAAAAAECAwAEEQUGEiExQVETFGEHFXGBobEiIzIzQlJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEkEh/9oADAMBAAIRAxEAPwCasdkLJZpYrh3hkC70bMAUOOhwcjPc0wsbSSA+HBCGi/i4Jx9alItqhYzRzySr4vMZXJFY223d22oxi2tvHZ3H7gIGOuAOXxNTjPIr2ZXI+Nzqj0qxa5iIKOVbmMGqmaGDXbFI5EVL4LhH/wBdvgfpU7Z6pp7WyzPOkZ3clWOCPSmOianbXkpe0kO9GeRXHzqdP2FZfnh5h7Sn8vY29rIAJXkLEHmABj7mitPtlYPtcAM58urHjwyWY0V1Y+qnNv44Q500s2WZmPfNNdHW5F8qx3DxxnixAHHr96X+M6N+skV12t6wkwAePPhWwmj+0mmvrl4YrmTdiA/GQuM+mT3p5ZW93anPncoRjBYDj8jUfb36wu2GClunWqfZ63Oqxs8kZdYPzVJOOI5UWaxUhLtFb+du0aRnZkXcyGyccxzorHVr2W2v5FcHgeoopIKRokbPet6XTIDu4oorAdPvQ+SZsRNdk7mGgBwmOYPQ59KXrc3atvG4lZv7FiT8M0UUNZi887sDJKzAdzmiiihh/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Constellation</div>
+                                    <div class="artist">Far Out &amp; KARRA</div>
                                 </div>
                             </div>
                         </div>
@@ -566,7 +566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>capistrano/capistrano</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Remote multi-server automation tool</div>
@@ -619,7 +619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atrinh0/buttoncraft</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Craft that perfect SwiftUI button effect 👌🏼</div>
@@ -672,7 +672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/heroicons</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of free MIT-licensed high-quality SVG icons for UI development.</div>
@@ -725,7 +725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TappNetwork/filament-timezone-field</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -888,7 +888,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.263860369609862 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.306297056810408 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1560,7 +1560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2022, 01:57:25 (timezone Europe/Zurich) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Nov 2022, 01:57:47 (timezone Europe/Zurich) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
