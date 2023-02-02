@@ -30,14 +30,14 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    764 MB used
+                                    763 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -504,17 +504,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAtEAABAwMBBgUEAwAAAAAAAAABAgMEAAURBhITITFBUQcUImGBMnGRoSNC0f/EABoBAAMAAwEAAAAAAAAAAAAAAAMEBQEGBwL/xAAhEQACAgIDAAIDAAAAAAAAAAABAwACBBEFEiETMRVBgf/aAAwDAQACEQMRAD8AcMQEuKwl0Y96aQIKo0tKVJ+odDwI71VbXfIReQklZUeWFYNXlwJdt0OXG2943IShaTzSk8Tn2x1rljMHJtsanQMl5oeu53vJgDOMUqfZcmTFQ4ZO0kZdWOOwO33pve7k3b7VIlEghCfT2JPAfukFnZbvkVuPNu7lviR1Bbqm053y1pSognPAjuc86PxPB2c0Fx1WT75F6DYGzOJVqgw0gPt5z/Ykn9jhRUV3b03bp/lrLOlPqcTiQ+69/GlOQQkYAyokfjPeir+Rxq13NVHYjuMbNWLM2DEekrvp7Tt0fTebUyqSpe8jylI3gCcD04PAYPUCtDF7j6nt8uQyFIZdUiOgoykgJyoq/YFecrTcX3JLbc3afbUoAKUSN3nhnFbV4evuSrQvZQlEVDhSykc1d1K+56dAK2tmMaJ6kDyKZOMo2+eu9mLfFuWqJpplKSQHZCU8OwBNRaHnMMWpcaVIZMmXsvAFQPApAx8EEU/8RNPLvemnUMgqkRzv20AZ2iBxH4z81it7ntPRLcGA6H4rQQvIwGyDjA6+/wA0fAwF2R0H3+4tVywzTDoSwaunRpUtyKwwrcx3Cj0KCAVDmSo8Piis/mzFv5Dzi1AqKufU8zRXq3FAHyOfl018A3/ZJaPNOOpCGyCD9Z41qyLmq26biG2zyzcmnQQ0jC0uJONoLT26550UUVlu1xU/UnPbemITvZmj266eZiNuKwlzA2055H/KrWotP2mUJMlMVCJLww4tJxtdeI5Z96KKifOxTzWh17MoAZQGwmO3vTyIry92v0g9TRRRWxUymEbMNXBTb0if/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Uranus</div>
-                                    <div class="artist">PNL</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAcEBQMGCAEC/8QALRAAAQMCBQMDBAIDAAAAAAAAAQIDBAURAAYSITEHE0EiUWEUFVKBMnFCkbH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EACIRAAIBBAEEAwAAAAAAAAAAAAECAAMREiExBBMiUYGR0f/aAAwDAQACEQMRAD8Aa+cs+SKBWn6exCYe0NpcCnHCNjYnYD2v+8U83qhUIrSHFUuNZbPeSCpd7F0pGw5Fhz7/ABhjNppNSQicluHKS82NL/bSvWjkeojjfjFfmOoZZoMITq4qmxmQntIU40kqUL30JAFzvvYD5xileMdyJJOw01OL1FqM0TjGgwh9M2pw6lLIA7iUpBO29lXuLg/GMVc6kVKkzHozlOhvOILqU6FLsSh5TY52/wACbX87cHEqhdQciVaoIZhsoaddUpDbr0ENpcUo7gKt5NubXPzj76n53oGT2YYn0dFSenFZDaW0bJBuoqKh7q48m+NGJfDGBDBcspb5VzY/XakwyIzKGFxVyFLSoqIIeW2kf6Rfjz4wYk5IqdBzJSmq5Q40dHcKkrUGUodbXsVJVbzwed9jgxGpYNbiVS9ubznrJXULMFBjCkxISZ7ZUeyy4lRUgnkDTuRfe2JMuh5zzRMkVGpUx6W4hOr6f0j0/ihJNh/3+zh0ZM6eRMuw0F6SqbUynS9LW2AVD2A5A/ZJ843KNFajt6W02vyfJw7dS+XiAI3Y6fHYJ9TjxrvVXMsaktUp+nTG1aVNb3aSgalHQRcEAE2G58bnG/54oddz/TG6rFo0pmJHbP03eTpdWb3JKDvY+D+8Mzqd04jZ0bjyI8j7fV45s3MSm5Uj8VWIJHsb3H7xd5By85lXLEakuznp7jSlKU+5cXKjewBJIA/vDu6EB00RJUy4uj7UxBdIszTMgCrN1OIFx5SUqbb7yboeTcC4BJsQbHztgwys/wDSNOY619zo9UNKedOqQ2WtaFK/NNiCknz4J35wYoXpVPJrX+ZIUmXQY/Q/YwK/HqT7KRTXAlYcCk2VoKbJVyb2UL6drce+KNymZnUW1Km61KbUlyzoTpJJsE+ni2k355AODBjgInclQgcTKun5mLboExF1RgjZYB7lgCRttwd/nHrNMzGumSUSaioStSezoWAnSDc3IF+MGDBgI3cPoSTluFXY8omryyuMhFkNhYVc2H8ja5t735wYMGACTZyxvP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sweet but Psycho</div>
-                                    <div class="artist">Ava Max</div>
+                                    <div class="name">Somewhere Only We Know</div>
+                                    <div class="artist">Keane</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -526,25 +519,32 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcFBggCAwT/xAAuEAACAQMDBAAFAgcAAAAAAAABAgMEBREABiEHEjFBExRRYXEIMiJCUmJygZH/xAAYAQEBAQEBAAAAAAAAAAAAAAABAwIABP/EABwRAAMBAQADAQAAAAAAAAAAAAABEQIDEiExQf/aAAwDAQACEQMRAD8Aitx3ffl46r7wtdn3dcrfS0Us8kESyHtIVlARRnj93n1qdtdJvOlkqoLhvG+3GYqGheGdokHIGMgknPeD44wdTQsFquHUu/NKokqZK6QcoTz7GcY01rPtS201MqR08QVf5VAAH/NUSX1jBLU9LvCWYSS7nvkUPaCYzWuOWRXALfYsF8ZOD+DHXij31PVYtm+7nQJ2k9s9S7hm/pBOMH39wR4zrRr2WhRSBTxY/wABrJv6k6ySDdMNHFDElIi8lFGWLff7ADWdPKBYb+HW1t1b3tvWnb237pu653ClkrYFlV5GCyK3JVlOjVP6TW+eHqvtR50ZZI7pGkgPnIOjQFZse3wxDcNyfsXvNQ3OOdWoRuqj5f4aj3ke/wDWlnbLnTw70vkSu/eKtwwZiQDn0PWmJRTI6hu9s/nS3Ucn7PqkU/APxQGbHPbrOXWzbltr7lQ07q/z7yJCoQcY/u4+n0OtHPMuPOlj1NozPJBUsUj7JkeN/eQeR+MaltPUhflvxtFZsnb9Jbt1baRcmshuKNOWOSzFs5/B0a87fWSR9Vtrsrr8OevijYZ8jOQcaND8k/RGX2V7dKbqpuqe5LhY4Wmop6+SSKRHVkdSeCP4vGmJa90bugt/cKJnnC/tI9/Tg6NGsdOabtLZn6V3c936i3K3s1O9bBUs3EUMYVVXP1z9NLuvp+oktFJSVgucrM7SBmn8EgD2320aNHPCQdNOw46X7d3FSdTts3C8080dNT18Uks08y4RQeSSW8aNGjXohKn/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAtEAABAwMBBgUEAwAAAAAAAAABAgMEAAURBhITITFBUQcUImGBMnGRoSNC0f/EABoBAAMAAwEAAAAAAAAAAAAAAAMEBQEGBwL/xAAhEQACAgIDAAIDAAAAAAAAAAABAwACBBEFEiETMRVBgf/aAAwDAQACEQMRAD8AcMQEuKwl0Y96aQIKo0tKVJ+odDwI71VbXfIReQklZUeWFYNXlwJdt0OXG2943IShaTzSk8Tn2x1rljMHJtsanQMl5oeu53vJgDOMUqfZcmTFQ4ZO0kZdWOOwO33pve7k3b7VIlEghCfT2JPAfukFnZbvkVuPNu7lviR1Bbqm053y1pSognPAjuc86PxPB2c0Fx1WT75F6DYGzOJVqgw0gPt5z/Ykn9jhRUV3b03bp/lrLOlPqcTiQ+69/GlOQQkYAyokfjPeir+Rxq13NVHYjuMbNWLM2DEekrvp7Tt0fTebUyqSpe8jylI3gCcD04PAYPUCtDF7j6nt8uQyFIZdUiOgoykgJyoq/YFecrTcX3JLbc3afbUoAKUSN3nhnFbV4evuSrQvZQlEVDhSykc1d1K+56dAK2tmMaJ6kDyKZOMo2+eu9mLfFuWqJpplKSQHZCU8OwBNRaHnMMWpcaVIZMmXsvAFQPApAx8EEU/8RNPLvemnUMgqkRzv20AZ2iBxH4z81it7ntPRLcGA6H4rQQvIwGyDjA6+/wA0fAwF2R0H3+4tVywzTDoSwaunRpUtyKwwrcx3Cj0KCAVDmSo8Piis/mzFv5Dzi1AqKufU8zRXq3FAHyOfl018A3/ZJaPNOOpCGyCD9Z41qyLmq26biG2zyzcmnQQ0jC0uJONoLT26550UUVlu1xU/UnPbemITvZmj266eZiNuKwlzA2055H/KrWotP2mUJMlMVCJLww4tJxtdeI5Z96KKifOxTzWh17MoAZQGwmO3vTyIry92v0g9TRRRWxUymEbMNXBTb0if/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Battleground (feat. Laurell) [Radio Edit]</div>
-                                    <div class="artist">MIKVH</div>
+                                    <div class="name">Uranus</div>
+                                    <div class="artist">PNL</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADAQAAIBAwEGAwYHAAAAAAAAAAECAwAEEQUGEiExQVETFGEHFXGBobEiIzIzQlJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEkEh/9oADAMBAAIRAxEAPwCasdkLJZpYrh3hkC70bMAUOOhwcjPc0wsbSSA+HBCGi/i4Jx9alItqhYzRzySr4vMZXJFY223d22oxi2tvHZ3H7gIGOuAOXxNTjPIr2ZXI+Nzqj0qxa5iIKOVbmMGqmaGDXbFI5EVL4LhH/wBdvgfpU7Z6pp7WyzPOkZ3clWOCPSmOianbXkpe0kO9GeRXHzqdP2FZfnh5h7Sn8vY29rIAJXkLEHmABj7mitPtlYPtcAM58urHjwyWY0V1Y+qnNv44Q500s2WZmPfNNdHW5F8qx3DxxnixAHHr96X+M6N+skV12t6wkwAePPhWwmj+0mmvrl4YrmTdiA/GQuM+mT3p5ZW93anPncoRjBYDj8jUfb36wu2GClunWqfZ63Oqxs8kZdYPzVJOOI5UWaxUhLtFb+du0aRnZkXcyGyccxzorHVr2W2v5FcHgeoopIKRokbPet6XTIDu4oorAdPvQ+SZsRNdk7mGgBwmOYPQ59KXrc3atvG4lZv7FiT8M0UUNZi887sDJKzAdzmiiihh/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCAwUEB//EAC0QAAEDAgQGAQIHAAAAAAAAAAECAxEABAUSITEGEyJBUWFxFIEHFSNCobHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAIDBAUB/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxEEEiEiMf/aAAwDAQACEQMRAD8AV8CwNGLLeTcX1rYhpvPnuJheoECNZpga4CQhLil41hSUpB6uaFA6x2MzPrQa0iWWIPO3aeU42geHD0ntpTNYYw24tDOYB6YlA0J/ugchd6iZqoCPqdrXBTa7i9ZOKWaeQooSpZCUumJlJnb38fbsb/D22t1SvGsPUDI5gMpHveY7bTOkd6rW68RMEHzFRat0oJdW2bhQAMGYBkQCdpIotuKDZKlCkzKxvDbXDHkNIvra+QW8/MZVI3Ij+PVFLv07ra3kZYVlkiaKlqUuvaVbLgjdckMFw23W4kuoJ3zJmATGkd6ceFsOtTd27DDQS484EAzmPeZP2pbvL4ouXGkyVZP1ClI2+DqIrR4fdftn2XPqW2y2UvSteh0209HWsxLiuEy+QgaepB6y/MhhqcOQpBVy80HmHWJ+fUUvY4E4ap+1S5nAUStHfOND3jYVXbcZPDFnL1bdmXi0lttwgjWTKh790rXPOu7lS230vPOZipIcidCf95p+Teti4P2Mtig/Myn7huyvLjmgLzg5YPuaKy70hNxndUOtW0efE0U1fIdVwGVHpVmJMynrpTzq3FjrWjeYO9TTeXCA2A4ER0iT2ooo6gzpJbwzsTeFTwDwJYjpOk+KpvsQyLTyiQpKSkwdj96KKZq1hX43kx73EX7rlJcdUtDKShAV+0TtRRRUqoMjMxY6Z//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Constellation</div>
-                                    <div class="artist">Far Out &amp; KARRA</div>
+                                    <div class="name">Bad Liar</div>
+                                    <div class="artist">Imagine Dragons</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBgcBAgMI/8QALhAAAQMDAwMCBAcBAAAAAAAAAQACAwQFEQYSIRMxYUFRFCJxwSMyQlKBkaGi/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQCBQD/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRAxIEITFB/9oADAMBAAIRAxEAPwCZ9RIrzdqWz2upuFfJspoG73nufAA9STwtet5TNrG2P1Bp+ptkc4h6+0OdjPAIOP8AFyoyV9nWlGl0b6O1pa9WQTPtrpGSQn8SGYBrwPQ8EghSAyeV580/EdEXKa4QPZNMJH0/SJOHxg4cfpkcE+qvCmrWVNNDPHnpysa9ufYjIS5Y6drxg4p72n6h0fPF0tvTO/8Adu+yE2Om8oRbDaDVcLmyjpnSvPPZrc/mK42i7iugBOGzN4c37jwq+uF/ZWSCSbexvZrccBYpbrHHIHQTbHOBaCe3PHuvKBtsjVzqXw1jKSY/PVviikfJ+gbiSf8ArKuWqrorZQsa0cRtEcbO2cDAVF6glhrNSj4VhFNAWNbG704Cm1TdI3bW5kDWDDWuOSB5J7nyqMytIk412yf01xZVQNkjd37jPY+yFXlLfo6WTc1x2nhzcIU7g/hUpEJdcnu9v7WfjHFvytH1yhCp1QCk2IqutjbcWSR07A8kbiTkHgYKcorrJvHUDMeGoQtzVpWHB6t0KoK+KV7h1Qwd+Yxn+OUIQgcUURm6P//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAqEAABAwMCBAYDAQAAAAAAAAABAgMRAAQFEiEGIjFBBxMUUXGRMkKBFf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDy6w2lQGoT8Gp0W7ZVzAyO01xallLQUtSdQ/WDPX4rUvB3gjFcY3l6u6vSpizCFusNny1rCp21EQBI69utBXH+FMFj0tuZTPM86AsW9uhTjm4kdNgIjckVX28XaKa3fIcV+LmmG0n2UfenuNewbeXdTcPqTbNvqnSnUtaAo6RqjSBsJNaT4347B4C2wH+ToZtbhtZhxZdDoOkyqBETuIoMSvbFhphxxp9tak9UwUjtuj370UxzuRt7pl1KLpu4IQAhRYKFDf8AEdojeaKBHaFKQdQBlJHStr8BF45vFcbO3IgW+JL6QDp5k6hBjqCVp271lmNxtlcY9lx925bWqRCAjSTJ7lQrQ/CS7ucVbcXW+PbxYu7fHrfS9eKCXHhywyOePdW07gUGZ3KLdt9vQlJSQUqI9461aeMeNLjiXBY2wubCxt2cendVugguq0wFGTA+BA3NIGcaq6xN/eKdYi1SlWguhK1FaokJiVD6iulZNrubhq1bUgLWoJBWYA+TQKiNiYNFWnNWmJt7B70qHC7pGlfnlaSZE/qATHaaKBNZXLTbKUOaDPWUgx/SDH1U7LuOcy9t6xS0WJcR5xaSNQRPNpERMUUUDXMZjFXGSy5xjXpMc+si3Z5uRA2TMfe89f7Vft7httbazBUNzM0UUEt7kPPZKSoqKupMyd9p33ooooP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">DIE
+                                    <div class="name">Paradise (feat. Benjamin Ingrosso)</div>
+                                    <div class="artist">Ofenbach</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EADYQAAEDAwEFAwoGAwAAAAAAAAECAwQABRESBhMhMVEHFWIUFiIjQVJhcYGRFyUyocHwseHx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QAKBEAAgAFAgUEAwAAAAAAAAAAAQIAAwQRITFxEkFhkaEFIlHwE4Hx/9oADAMBAAIRAxEAPwCPTSyWG43paxb4+ptH63VnShHzUf8AHOuVitzl3u8WA0cKfXpJ90cyfoATWisxId0iyXJLyoWx9rUWkNIODJWOBUojicn7565rK09P+TJ0jotdWmn9q699scyeUVbzOGnHf1n3nLTvjjPTVjFJNo7FNsjf5qxIEdY9F2IQrX00q/pxWkpkWz8OXJAjK7p7xCtxjjut8OHPp8a5PxYVqiRn4jypux9zUGnWXDnyZZ4BSSeIwfqCOuKbNNLFiu/3pFWvqE8hlcnNxpbsRz6eYxtowC63pXtDqHscT6JVwxnw9fhmin9+trlovEqA6cqZXgK95J4g/UEUUrPqOJrFALRZUtCBLBEwkHOsOuzNQG1zCcgLW06hB8Wg4/mnlyZekdkdrbhoUosSimQhAydWpQ4geIj7iqDClOwpjMqOrS8ysLSfiDmtTsF4e1ybrsyyiU3J9ZNtRWEradx+tHUH9/nyNSMrIUPXz/IV9UR5c1Zyj42uL4O94ieZd/Gw3kom+tKt8bdhOMZzjVjOrPHnj2VFtbD0bsku6JiFo30kJjoWMHVqSOAPiB+xpL3vtQNpu9NxN8uzp3W4Xp0+5pxy/wC86t9/vDylRrptMyiIzG9ZDtQXqced9i19AD/epkMs3Zbiwtn74hSaJ68KOQ1yGxrf46794p/aWR51uIyC42y0hw+LQP8AVFVyfLenzX5clWp55ZWs/E0VVzX43LDnGippRlSlQ6gCOFT46WGCh5i5LZfSnI0NqCgemQf3ooqKmxgrrxCxiT54bSbkNm5SdJAz6Y1D64/mlEiQ++6p19S3nVEZUtWSfmTRRRmmFh7s94ElPLlG6C36EeUUUUvB4//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Scream &amp; Shout (feat. Britney Spears)
 Explicit content</div>
-                                    <div class="artist">Gazo</div>
+                                    <div class="artist">will.i.am</div>
                                 </div>
                             </div>
                         </div>
@@ -568,7 +568,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>RSickenberg/rsickenberg.me-next</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Portfolio site remade with Astro.build framework</div>
@@ -602,7 +602,7 @@ Explicit content</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        10
+                                        11
                                     </div>
                                 </div>
                             </section>
@@ -615,7 +615,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>oneduo/laravel-human-keys</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Stripe-like keys for your models, configurable and extendable</div>
@@ -636,7 +636,7 @@ Explicit content</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        25
+                                        26
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -668,7 +668,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>pestphp/pest</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pest is an elegant PHP Testing Framework with a focus on simplicity</div>
@@ -689,7 +689,7 @@ Explicit content</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.12k
+                                        6.13k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -721,7 +721,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>fortheusers/hb-appstore</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles</div>
@@ -889,7 +889,7 @@ Explicit content</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.169746748802186 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.212183436002736 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1597,7 +1597,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2023, 01:56:00 (timezone Europe/Zurich) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Feb 2023, 01:51:01 (timezone Europe/Zurich) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
