@@ -30,11 +30,11 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -309,11 +309,11 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 30 commits)</small>
+                    <small class="h-details">(computed from last 7 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 11:00</li>
+                        <li>Mostly pushes code around 07:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
@@ -359,7 +359,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -368,33 +368,33 @@
                             08
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">13</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -403,8 +403,8 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -455,7 +455,7 @@
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -469,7 +469,7 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">28</span>
+                                <span class="value">5</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
@@ -504,6 +504,20 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBAUBAgj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiETMQYiQVEUcZGhwSRCYbHR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQFAgH/xAAfEQACAgEFAQEAAAAAAAAAAAAAAQIDIQQREjFBUWH/2gAMAwEAAhEDEQA/APMlrbyT3CRRIzPK20KByTV6005pIJjGFLLg4JA/up9AkS11eznlBKJIGwPxVm5gU3G0A8soNU1xXZFdc1Lj4bFt4BSfSLe/fV7eOOVumylO0mQCgO7BOT+e1K2t6Y9hOsLEMQzKCCDnBxzg8U7XVvEEFgI7lozN1BFvbaZCow+PfHFKMzLHeRls5BbcSc5PNdzhFLAdGodklkyJFKrtOAT2FFTTqxmbdkkcDn0xRU+xoJ4GXVJLO6v/AIu3uepHJMQqMm11QdiwAxyPaon2vqSBT5TIoHy4rBtZiXUs3NalrLH8bG7OQQ2cD3pYSM62lxz+Dg9yF1eSBJEeEMBGynkyBfNn1xg+1I9+u3UWU84cj70yQ3MR8cDULK1U2wkJS3IOCNuME/fvmlvWCbfV5g+BIkp3LnIBzyM0ljj4Bpa+E0l8RVnjdB1f2lsA/X/KKhuLhmXbk7QeBngUUDkjTSe2Tsi2qadHIs7m+MpVodnlCY4bd759K4hl/UKxPO4GiivIs6mt0NSaxaNPcQdJBFJdpMrkDKqFkBHy8y/SlbUpkmvZpEztZywyf5oopZ9E9NajPHwqPz60UUUDKz//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">On My Own (feat. Karra)</div>
+                                    <div class="artist">Far Out</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAcEBQYBAgMI/8QAMBAAAgEDAwMBBgUFAAAAAAAAAQIDBAURAAYxEiFBEwcIIlFhgRQVI2KhQkNxwdH/xAAaAQADAAMBAAAAAAAAAAAAAAAAAwQBAgUG/8QALBEAAQMDAQYEBwAAAAAAAAAAAQACEQMEITEFEiJBUZEUYXGBM0KxwdHh8P/aAAwDAQACEQMRAD8Ag7RvVqqNjmKptNDUyW8LLUM6P1Aknue+D54HGubZfNvpturNLZ7dVy0sStJ8DoXIxkn+eAPtrM+yKVJ7nd6GowI6ujbI8dj/AMJ0u7ct+3HfG2/tSOonlqiYjHAceqAe5Y8BfOScY51kPEaKcW7obU3zBBB07aaJp0u4LQ9HVum37ZN0B52p3lIEhZgQCP2gYGMc6mWrd1smpVkXbFt/C1UZhmy79wuBgjPIGOCO/HnNfcvdpuln2rU3m/bptNveniMsiOjmNPoZOc57dlOTxnSj2zuOS3xPQThXpJpA/X/VG3GQfljkffQcgjqnNljABkgd8z9MJ2SXalFZcLZNa7bQ080IMcqKT0+VIbGSOQc9xo1U0ZFRZGWp/UnoqlQshPcxMCMf4BC6NL3Xu5wo7q5ax4LGFzTkQSI6jHQyqysM1rul5kokUStS1McfSO4/TPH2Odbz3JZLQk+5EkeIX1/SEYYjrMAznp+Y6sZx+3WXtkbLulKitMcsa+oJgMjuVIYFfB+mk9f7ZUWa6SPCJo4OsmGQZBAPAJHnGl2/wwXan9L0W1QPEuZSHC0AyNJJP4X2HW7O9nVhvfpb83JU369XOpULTXGsaTqdmwg9CPsAM4BYYHjGkp71mxbBs3ctok23AlGlwgd5qRCSqFCAGUHgNk9uPh1O2J7ZNlbJ2lRxWzZktVuSBS7VtUYyXmYfE3q4LgftAHbtnzpZX68Xv2j7rlvd/kLByFZ1UiOJB3EaDxzxz3yfJ06YXNa0uMASVtdr5a1U8dRlXkpQH+6gg6NW8gpxf4aNEKCqjj9MrwiGMdP8aNaPpvrGWe6u2fd2OzWOpXhiSS3Ey08+8rsKqkk9ol8jiVWLxyxIc/3ETOR9cqRqDb6anu1rrvzCphhRDGcyRFw2SfAHjRo0bodr/SoTd1KdTh5lxPnGRPoVHuuy9vLaKeelaFphM6vKkUoDeQOk/wCte9XAi7NoYKaRJFp6qRQqRlcBlB8j56NGh7clvlCutq5FCnVgb28Xe5Bx6Z0Unpf83oqwxt6cVNCrP4UhRnRo0adTJZMKCpaU7+DV+XhEdNfuv//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Outlines (Radio Edit)</div>
+                                    <div class="artist">Mike Mago &amp; Dragonette</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBCP/EAC8QAAEDAwMDAwIFBQAAAAAAAAECAwQABREGEiEHMUETIlFhgRQycZLBFiNCkaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMFAAT/xAAgEQACAgMAAQUAAAAAAAAAAAABAgARAxIhBBQiQVFh/9oADAMBAAIRAxEAPwD0QtSt6uVdz5pLqDUkCxhsTn1+q6cIZb9y1fb4+pqL1E9f+m5xivrYcSrcXEKKSBn5Hj+KxG1WaZri+NxIAcdUEjdJKvagZAUtR8ccAeazMWIsbue1MY12M0pzqLMltSHLRZZLzTStvrOPBKfvzwfPc8U50XqSVfIhXMQ2y6CRht3ck/oQTn+KbxdKWVWnFaTiB0ssJ/vSGyUlLh5J3Djce+OcDv4rK3tOTemmoW3XbgldumO+khavaMYJG7xnPkeKucevYUKvwTYUOLLqBvV+Yf5H5opXp+4C4x2HuAreAcHPmiqp0QslGd1lDXc9P3SIyCpx1tQQM457ilvReA1A0A3CjKbiXMPL/GlY94O84P7cYPalt86oaQs93l2+43lDMyMspeb9F1Ww9+SEkeapmpXbfdrLElW6U7d7dKWpbLuCl1GMg+4gbhwrggHjv2pMNqTYgVBkGoM1N/U1lj3NmwRZ7EW3AEPSg/7lOE/lCs8EkklZ88fWudXW4r+iXmZy2nZfqBUPAyoqHn9u7J7Vg4skd+V+FbVKXFIOUAAuKVkccEgDHknH0q9WXT7srYJSG48RoBCGt+9aU+cntuOO+OB2xVC3Kjjx/cPyWTpqparS0paUpG5HCU4GcDOKKcwfSj+i0yAltKhgfeiqIlCo7izMgvWmNU2zWPURTGkbjdod7UlphxlaUIWjaQon3dgFEgEEEgZFX/pLoi5W3pjZYl5beiTWW1h2MpsLUg+qojsfgg0UUSAeTNVyhsR3I00808Ex4ch5BAO9LaEjP6E5/wCVLiafkON5eEqOQcBBaB4+eDRRXBQJT1GQ/Mkq02+zKjpDrziVKyVJQNqMc885/wBZoooprgOZ/uf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Searching for You (feat. Karra &amp; Eric Zayne)</div>
@@ -511,38 +525,24 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAIGB//EAC0QAAIBAwMCBgEDBQAAAAAAAAECAwAEEQUSITFBBhMUIlFxYTKBoUKRkrHx/8QAGAEBAQADAAAAAAAAAAAAAAAAAwIAAQT/xAAeEQEBAAICAgMAAAAAAAAAAAABAAIRAyEEMRJBUf/aAAwDAQACEQMRAD8A5xawJLHgsfMLe0Z6jHNW9Ihto75ZrzHlxtuEbLvDj88EEfjrS1Mq4xkHnp9VhgsAADn4pd0aboyan4Y5RrG2yW9pW3Xpx38rjmtd1m6tEmln0aWaIySbhGmU8o98HaoA+hxVfTLGS3nhW8hCQsjTlj1YL1AI6HjtzVfV9OihluJIXJhCh0yegbBUE9zg/Haqw9oV58bjiZM50DxhrukTPJDeTMMbWWUlgcdPzx+KK1WNisq4b+nuc0VKUi010iQ3DpG4dB0aoVYqwKnmm2taaYPENzacAJhm2j5AzgfdXbXQ47hJkV+YvbuHO5gMt+3aqxxWzv6p7BL7W7eNrqSOG0ic7fbxyMHjOT0pNr90ZbuZYhsjcjIx8DA/in2nuLe3lWAlxhwNxznbxwPjOf7Ul1Ozb03rVB8rCsydxkDn65pNaOvc3I/LA/ZQjDfls/pxRRBFLcKzQxllXgmihYZt4gR7LVb9Z7g+rhAVF6EKOgz9fvWWga2bLSJd/L+8L/j/AMoopuOhUp7a3lXTYLqz1az89LZWa3JbeN2SRgrtzknnNVPUGexmt1LbUTYc84x1/n/VFFNxFpVmJvl0XS4hblUFvIJI24YsxwecjnOM4PGKKKKDyAMtBdDf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Believe</div>
+                                    <div class="artist">Masove, Jovieson &amp; Tess Burrstone</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAUGCAIEBwED/8QALxAAAgEDAgQCCQUAAAAAAAAAAQIDAAQRBRIGByFxIjETFCMyQVFhgZElM3Khwf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAwQFBv/EAB8RAAIDAAICAwAAAAAAAAAAAAABAgMRBAUSMSEiUf/aAAwDAQACEQMRAD8AsgwQqckVGdZtwNzJ500uo5wfCTWuIfCzTsNoGTXDo06/r86QxndnIUE4+QphaShoyjedJr7mTwVY3RifUBsOB6ZYXI3H4YC5z9qk4hgUrKmMMAw6Y6VLZGUM8lhNGxWehbNaHJYL0NFb15fIiFVUZopFKQ+M8ueMYnU7F/ulMvFLs/swfzVVrrmdr093DPG9vDHF1NuieCT+WTn8EVJdE5wRKiJq2lSb93iktnyMfRW65+9ab6yyC1LSrC6n0KNVnJ45ikxn9XV8fD93NWQbV5Zc5qqVzrNtJxJFeZdLf14TZZeoXfny7V1O+5saBboxtEvbtwcYSLaCPnlquc6idngorRONZGGtvDsFlMJ5PaCiq26nze4jlut2kQxWUA91GjErN3J/wUVVXV2v8RI+XXpzdh6MjPn2rITMANpI70UV0JmGD5b3mJGa+jO6jBdgPqtFFAAZWyCWbb3zmiiigD//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Hurricane</div>
+                                    <div class="artist">Ofenbach &amp; Ella Henderson</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAYI/8QALhAAAQMDAwIEBgIDAAAAAAAAAQIDBAAFEQYSIRMxByJBYRQjMlGBkXHhFaGx/8QAGAEBAQEBAQAAAAAAAAAAAAAABAIBAwX/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDEQQSISIxBRNB/9oADAMBAAIRAxEAPwBVpnw9u98gRH7bDhNocaCupKCsrOTk9+3v+q5S6QvhLtJt/RtzrzDqm1OoGWzt7kHPbivQurb1adP6XUi6SFKR0xiO07sdkE5wkY5AP3PAFQe8XyDc5y34sZbPUPDSEZSykDASkewHevOwciXItzxQSciNkZppS5MQrYW+iPbVtoTuweDjOM/V/frWi2xfi3AyxFgvOnhIbQVH/tL1ajtzMwMrL0mGR0nUoQEqSnOTgZIIz/v1qt6Ui6QmW0O2F4Nvr4DnT3OIV/BBHt9qe6649o7asaulwsqwSWoctc2JFix0NFSXEjkK4xznn+BmiqM/4dInOvOy7zOcK2lJy+E8ZI7ADAoqGCSuZFq3mO+N0o/eXn7lLjyZshTr7rKVLccOSTk03lK07brHIVKekrQppKcsrIK3CMKwkjgfn+ksiVclfAtx4KXHDHTwIxUo8q9K5bVC7mptmPKYfSMlQBZ2+32qxTeIUEk7lbYTmmW4IQ4JyneunLuNvUZz5iEjO1WDjGSODzk1TfBXUGl7Axc1vyn3G+mnyyAEpKgVEbU7uVFPBHPI4zmoOEP7D8tzanv5TxjvmntqZcZtoUsKCXl7sFJGMZA5/J/VUsVovnjBcLkibFscRiBGTHXteKMunkYIzwnj05orj9I6Ou11ccAZMZl5hSUuO++OQkcn9UUV+bAw05wSG4srhYatVo1R8LJhSEyG2khgMvKQ5tfSnPmCSRgH3571n8SZli1KqM9ZUqty2I4ZKXZnUDmDncSBnP3PrRRXf1t1a/q46jVfFMkQ1bvNcoe0nzfPPP39KvPh/pGBcrHBujTkdz6m2xkqSClRydvqcnucAcUUULyRIh2NWUrBr29dJrN1xaNMsyP8cuPNuqW1IPzSsBWe24AD8JAHvRRRU4/j4NAttrZsmQvO6//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Forever Young</div>
                                     <div class="artist">John De Sohn &amp; Liamoo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYDBwIFAQQI/8QALBAAAQMDBAECBQUBAAAAAAAAAQIDBAAFEQYSITFBBxMUFSJRkTJhcYGywf/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQEG/8QAHxEAAgMBAAEFAAAAAAAAAAAAAAECAxEEEgUhIjFB/9oADAMBAAIRAxEAPwDyy2grUAKYbJZmXHwbp7qIyknYtrnKhjjzWjitlato81b+gZdjZtLMTUDMyQW1qU0WnEoSjdjIIKSSeO6e5alKWtCHde6ofE19h0zolTTqtQS7kyPcUEfD5KtmE7ePbI73858AYxzWMGz+mCI6/md3vaHg48kBtrjYFq9sj6eygJyD5P4tBK9GFlJ+XztquMfEJz/mkX1OsdvZtDNxslrkMNPOKQVylhQUAB+jAHnOe+qYu41jkhHk9Uc5KuSEXUEbR8di5izy5cl0BsQyvckE4RvKgUjyXOOOh3RSrKRsdxjggGipjWPC7F6jmK4W3Umri9ObNH1UgxW30MTNpLWRw4oDIT+xNUuk4NM2kr69Z5zb8d0tqSoHIPkdU3y2+Dxk/vodsNj9oteHZbg7IcixmlrfZ3LU2s4wEj6sk9cCulrzV7l6ssW3ymmWExAUobb6HAH/ADP8mnG8eolnuWl3ZVrKUXmckInAcbcd7fuFHk/iqI1RdFym4yfoAbChlPZJUSc1QttShpG4+ec7Ml+C7OOXic5oqBatx5oqLJ6zp4rFhH5rNKiPvRRWBEzUlxsHaoj+6xdeU4BuooovJtYD4pe5CaKKKAI//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Lovefool</div>
-                                    <div class="artist">twocolors</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBAgT/xAAqEAABAwQBAwMEAwEAAAAAAAABAgMEAAURIRIGMWEiQVEHE3HwFSMzkf/EABkBAAMAAwAAAAAAAAAAAAAAAAIDBAABBf/EACARAAICAwABBQAAAAAAAAAAAAABAxECITESEzJBUWH/2gAMAwEAAhEDEQA/AN5UcHQ1UDjwT8V0fkpx3pPcJ6I7LjriwEISVH8CstI1TYt64lTkNRlwJbscBR/zOOSvbOtjxVojrK2kcynnxHLj2zjePFYX1L1W6l4Nzs8ikOAb0FbHYa1V5+nN9euMFxErkFo4qRyOcoUMgjxUsUlyNvjLZoXjEvw0RCOVFRRngQNiiq6RFsrTt0ZWVp54KdnI9u+aWqujL0swFxGZTSihx0uDI4g5CR7ZJIP4HbdVf+QU3yyoFTmtjdSu3J4RHeAytDSjy7ccDRzXPxnvTLfTrhPfJ1xYubyldO2oo+8gNuSH0IWpCVtoxxxjZWodsZcSeyd+p64tFy3XBlmPHcjcoMttlYIUQcdwMEpI/wCdqzbpSCuV0vcFTp0tZlq+20VvElshQVyTnsSsA674pfY5iYNmmRJbrvJLy3FZVklWsk58jOfNFlmq10Px+/g320XhqYgKZJOSeOt48/G6KwvpHq56G44ljilCllSu/I9vTn2z80UKna9wpxp8Gl6u8SNNS5GcUWweOVkHJ8Uou92M+LIjoUsB9GilePTnByB7UUUtJWNxexpauUaKzHbc5xkoGUnedDJJ/d0kudjmSrgt2A2VLeR9rnkkekAZPxn93RRScMn5Mc1o4tv03vyVJ/rYaSpXrJXvHwDRRRVPSWj/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Kernkraft 400 (A Better Day)</div>
-                                    <div class="artist">Topic &amp; A7S</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBgECBAf/xAAuEAACAQMDAgQEBwEAAAAAAAABAgMABBEFEiExQQYTUWEUIiOBFTJCcZGhscH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBQT/xAAhEQACAgIBBAMAAAAAAAAAAAAAAQIRBBIDEyExcTJikf/aAAwDAQACEQMRAD8A8D0S606C4nOqQPLGygJsPKnPPf0qz/inhOSNBFpdxvWP5sZ5PUnr7f7VCUZO7PAp5pV3Bb6dcSOreYGAIU43KRwP5FZnLwqT27m5i5PTqMqr0PLbVfC/kxeZYOJuN/UqPXHPPT+6kudX8JSxFfgZ4mBBDJ+r1HJ71R+oJ45NMQ8EGhFgPrzMVbK9u3X9uvvQPFjd2/0fDNlO06S9EWtXFlcXpbTYmigwBg9z69T/ALRSvtRXXGOqpGVPk2lbGumRwhrp7hN6JESvs3Y0afHCba6eeRUAXhSeSe2KxabjaXgQEllA49jmorqH4VlDOrl13KV6ChL+NN+GbBLZba3JJMzZ3jPAHb70z1fToY7KzzKUaWESxgg7XB7g49ePTNIEbbIpOOeua7mmlYQRzTNIkKkRgn8q5zgfcmo4vyM631VC0jBNFbTEGU7RgZopghnZaTvDIQgB3HvWL2QlyjhDs4UjnA7c0UUCXew9m40zhfJJ5yakV/p7cdepooogC2aza+D10ud9MvL178KPLR1+Utkf8zRRRVgn/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Be There</div>
-                                    <div class="artist">Krewella</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAEGBwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiExQWEGE1EicZEHFBUyM0KBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxJRIf/aAAwDAQACEQMRAD8A4vMSzO01lp1ZacaWVp4q7FKA88A135rmsq6lHVHitTXmWpjbp2qfsg7q43AHqQOvf745EdrUtLfNblq+oqIo34v8/nEv7ebEhyER3FSGVK2uMbCsV88dDf2PfDp1t+pvTkJnVGppcitoaYbv3N5/rJ+keeL6c8Y0m6Po7cQ+w24t5aaClqICD24H+u5rzlL0ctJgzmPcpz3EOFnb9RSARYPgnGkqG6uKmS4UtRN+3eo8rUOoA8XhNFWgQX4+qTNOmMALipUp8pVdAeR1JuhzQFmrwx6nVX3YkiBHSgJcIUt1Qon5KiOtdBfQYYNN40/S9KS7/MLj+4XHQqYw8v8AtBY5cSjopu+TfIPfFH6m6xo0aTpp0GClxpuy44wKacSaIF/5EG/FHrmnuvSFRkBL6XG2VWncsIPPUEE2of8AMnia0lEdbUiNFeaSa2e8lJHzVGj+L88Ya2VFGqa9qTc2CyzDaZcKmHHCEbebAJ6qrp0ObJIjIkssxpckkRAUoQwnh1ZNqq+gsnnIdOe0Za1lpLER7de50tr55HBvx8Z6nNtTFOOy9ZTus8BVmvmhhGJ6ozDEhT0lhtEdkK9q9ocNge2juTz35NE4ZWY0zRWpiHp6lTmmyVbAQlCz23AEk0O3Hk4YRa9Pa8jS9OnRHYjbyZFEKI5QQCOCOR+ePg4/Hq70wQFP+jorjhrepKGk39vpPOGGW8luMx8YmMlt9c702RE0/VmX5mnomxmpHvORlgAON8/T9szH1CApw+36fZcIN0ZLtVfAPNYYZFWn3WXGUhmAhhzduO19agR8EE9vGGGGFf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Silhouette (feat. Skyelle)</div>
-                                    <div class="artist">Bad Computer</div>
                                 </div>
                             </div>
                         </div>
@@ -566,7 +566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actuallymentor/battery</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI for managing the battery charging status for M1 Macs</div>
@@ -587,20 +587,20 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        487
+                                        493
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        25
+                                        26
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        79
+                                        80
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -740,7 +740,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.30k
+                                        6.31k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -888,7 +888,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.18822724161533 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.23066392881588 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1179,7 +1179,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 428k out of 109m users</span>
+                                    <span class="gh">ranked 429k out of 109m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -1404,7 +1404,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.27m out of 379m repositories</span>
+                                    <span class="gh">ranked 4.43m out of 380m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1560,7 +1560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2023, 01:52:35 (timezone Europe/Zurich) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Feb 2023, 01:57:04 (timezone Europe/Zurich) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
