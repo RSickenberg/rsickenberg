@@ -39,8 +39,8 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -504,10 +504,26 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACsQAAIBAwIEBQQDAAAAAAAAAAECAwAEERIhBQYxQRMiMlGBFBWhsWGRwf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAABAhEhMQMSURNh/9oADAMBAAIRAxEAPwB7bcGVUDIQMHG4zT2PgLSAtqGAA3o7f3U39vePiVvBqYI6luncZ61MC1WBGkbUirpUGuV9P03KBU15ccquh1y3pyPj90mTlyZmYeTHuFOK0m04Z4mkwlWVPVpOdJzn4rpc2kMaNFrBlOMKMZzTJSasDcVgye55dliTzhX1dNNFXqa2kkkaGMgmP1AEZBPuO1FI5MPVGRw85ymCA+MJJLaVQsmrBKnVnJz0yKm7nnyW4vrNpnihCReI0SnO5B6/iseseNubgJaK3iE6cr/v8Uu7vL64vSjziAoWJOr1ADJJPUjA2xTS4oIZckvDbrTnQ2El1app03h8SU7ENsCScHbr2rsOaULZkmihEagozuVKgEdPisHFzxVriF4OIsY5GKhmcrjG5UAgdiO2DUhb8Yv20rO8ZypOo7bAZOQN+3tSdM7H7KtF849zTNb8Ima2mEsl5IfqJFYhjjBBBO4+Peis8veYp4AElUSQ4zqRice+xAorRGCooc6dFWXiE9nLMfD8unSoIwN9j0Oem1P4+IMWimWCONRCymRMvjykKwBO5GcbkdKKKFLBZ6Li4xCHthJdXErQuWZpIVXKnbAAO4zXNClvN9RFc4jdWVm0Y0kggHGo537bUUUZY0COdje/LPE8pujLGo9SoB+j+aKKKkVZJJH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBgcBAgMI/8QALhAAAQMDAwMCBAcBAAAAAAAAAQACAwQFEQYSIRMxYUFRFCJxwSMyQlKBkaGi/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQCBQD/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRAxIEITFB/9oADAMBAAIRAxEAPwCZ9RIrzdqWz2upuFfJspoG73nufAA9STwtet5TNrG2P1Bp+ptkc4h6+0OdjPAIOP8AFyoyV9nWlGl0b6O1pa9WQTPtrpGSQn8SGYBrwPQ8EghSAyeV580/EdEXKa4QPZNMJH0/SJOHxg4cfpkcE+qvCmrWVNNDPHnpysa9ufYjIS5Y6drxg4p72n6h0fPF0tvTO/8Adu+yE2Om8oRbDaDVcLmyjpnSvPPZrc/mK42i7iugBOGzN4c37jwq+uF/ZWSCSbexvZrccBYpbrHHIHQTbHOBaCe3PHuvKBtsjVzqXw1jKSY/PVviikfJ+gbiSf8ArKuWqrorZQsa0cRtEcbO2cDAVF6glhrNSj4VhFNAWNbG704Cm1TdI3bW5kDWDDWuOSB5J7nyqMytIk412yf01xZVQNkjd37jPY+yFXlLfo6WTc1x2nhzcIU7g/hUpEJdcnu9v7WfjHFvytH1yhCp1QCk2IqutjbcWSR07A8kbiTkHgYKcorrJvHUDMeGoQtzVpWHB6t0KoK+KV7h1Qwd+Yxn+OUIQgcUURm6P//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Untouchable</div>
-                                    <div class="artist">Tritonal &amp; Cash Cash</div>
+                                    <div class="name">DIE
+Explicit content</div>
+                                    <div class="artist">Gazo</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQIHBP/EAC4QAAIBAwIDBgUFAAAAAAAAAAECAwAEESExBQYSE0FRcYGRIlJyscEHYZKh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAgMF/8QAHREAAgMAAwEBAAAAAAAAAAAAAAECAxEEEiExQf/aAAwDAQACEQMRAD8A4LbxjfBprBCGUOAepdxSma8htVOT1SfKPzTzlq6hvgSgIZdHjPhWxXjeCF3ZR7Z4P7O5tBDBEYZRc98hk+Ej6cfmmLToq4J1+qkvFLZbZ42hdmOM6javDLeMDnWpWvIuJGjka1vwoHnXuJ96KmG4jgamismXbfhpqVb/AEg3YsxLEljVv+n1l2js8aOXfAL9Qx5AeNQ4JyMZzTi25i4rasht5VjKbdEYHvganSnYzcJJpFXIqlZBwi8OlcRhlk5gk4Y6AJb2/aljnqJJxgVL8Zkt7Fj28gU9y7k+lTl5zFxi9vDdz3kpuCgQyKAp6RqNhSuZpZXZ5i7udSzZJ/upTsc/WKVcFxa1+DW54rCxISNyvjnFFJqKrHVTBGRuCDr51t2knztnz9fvRRQXB1vjHW38vT7VkzSnOZX13+I/t/g9qKKMA08Sd6KKKAP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">You &amp; I</div>
+                                    <div class="artist">Geoxor</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAQCAwUGBwEI/8QAKxAAAQMDAwIGAQUAAAAAAAAAAQACAwQFEQYSIUFhBxMUIzFxIjNCUaHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIDEQQSISJB/9oADAMBAAIRAxEAPwD5WAJB7IF7/PGUHJQBKoqU1AlwcOa3cFRUROibkkkOAz9kZU+zSup5ztFPy08zj8fhR7rWGrLXSBgkJ3O2DA7KVXnQ3P0xyIioRUUYcFPlHNLSgDIQvb5Di4j6KjVvkmRppy4jaN24fu647KTb6U1FPPMHt9gbthbnKhRtaXe4DjsoS0ynW1otopnp2yfpB3fJ/wARPug6stzQCKKJ4mikMgyWtPLftbDo/S9y1FSXeot9OJ4LdCyWfnBAc4NbgdTn+kRTkbUNjleyOxXTwfrtP6Dm9RbRDcQ8PlcJg7c3GeDnHx0HVcuumnYhbBWUpDmYycIi5OTkqXOjfjxNKtm6+CWk9GajpLmNXXWSgqGbG022URjBzudkggngDBREXPkyNU0aTjTWz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ε. Signaler
+Explicit content</div>
+                                    <div class="artist">Damso</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -518,32 +534,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAEGBwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiExQWEGE1EicZEHFBUyM0KBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxJRIf/aAAwDAQACEQMRAD8A4vMSzO01lp1ZacaWVp4q7FKA88A135rmsq6lHVHitTXmWpjbp2qfsg7q43AHqQOvf745EdrUtLfNblq+oqIo34v8/nEv7ebEhyER3FSGVK2uMbCsV88dDf2PfDp1t+pvTkJnVGppcitoaYbv3N5/rJ+keeL6c8Y0m6Po7cQ+w24t5aaClqICD24H+u5rzlL0ctJgzmPcpz3EOFnb9RSARYPgnGkqG6uKmS4UtRN+3eo8rUOoA8XhNFWgQX4+qTNOmMALipUp8pVdAeR1JuhzQFmrwx6nVX3YkiBHSgJcIUt1Qon5KiOtdBfQYYNN40/S9KS7/MLj+4XHQqYw8v8AtBY5cSjopu+TfIPfFH6m6xo0aTpp0GClxpuy44wKacSaIF/5EG/FHrmnuvSFRkBL6XG2VWncsIPPUEE2of8AMnia0lEdbUiNFeaSa2e8lJHzVGj+L88Ya2VFGqa9qTc2CyzDaZcKmHHCEbebAJ6qrp0ObJIjIkssxpckkRAUoQwnh1ZNqq+gsnnIdOe0Za1lpLER7de50tr55HBvx8Z6nNtTFOOy9ZTus8BVmvmhhGJ6ozDEhT0lhtEdkK9q9ocNge2juTz35NE4ZWY0zRWpiHp6lTmmyVbAQlCz23AEk0O3Hk4YRa9Pa8jS9OnRHYjbyZFEKI5QQCOCOR+ePg4/Hq70wQFP+jorjhrepKGk39vpPOGGW8luMx8YmMlt9c702RE0/VmX5mnomxmpHvORlgAON8/T9szH1CApw+36fZcIN0ZLtVfAPNYYZFWn3WXGUhmAhhzduO19agR8EE9vGGGGFf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Love Thru the Night (feat. Morgan Perry)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Silhouette (feat. Skyelle)</div>
+                                    <div class="artist">Bad Computer</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDAAQREiEFE0FxBiIxURQyM7FCUmFygZKh/8QAGQEBAQADAQAAAAAAAAAAAAAABAEAAgMF/8QAIBEAAgIBBQADAAAAAAAAAAAAAQIAEQMEEhMhMQUUQf/aAAwDAQACEQMRAD8A84XMpRtJAYnzEn3yaWDnTA8m31432FQXJBYAfhGmth8HLqvdJUEdq45W40LVEYEObKEv2U01rfxrrkhuUU79cViyM+SJTJ2LV2KeJGgKsox2rmPiKIR3kmFwM0fS6vmNEVGa/wCO+soYNcqUGXUAHdgKKfbKDPDqGRzFB7ZophNTzFWxC42mlHs7fenW1xNbyCS3leOReoNJeDF1OMn6jfeoc71asdzXcVbqbZc8d4pLwaKVJVDOxQlPXbrWuXc1xIQbiWSRm6uc71k2N+IUjifUVV9X6YrN41Pw8Ifg4lV39SPT+KMijE1BfY/K5zpuZ/PwykhJ1x6fm5i4opbMarmBd8mRR/tFIY9waCxH3g1XcxUMVaRiDjpmoVjb8r/1ooq3QkIBJiiNyM6Hx+2hYZGyBHKeyE0UVLMwKJYcKsWMizvIkKwyKxWXIZt8+XaiiijuxuNx412z/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAEDAwIFAwIHAAAAAAAAAAECAwQABREhMQYSE0FRIjJhcYEHUnKRofDx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgYH/8QAJhEAAgEDAwQBBQAAAAAAAAAAAQIDAAQRMUFRBQYSIRMiMmFxof/aAAwDAQACEQMRAD8A5xBidZtSgglKE8yiBsKeMZHYCp/ClyctMxuS00y+CChTToylaSMEHxppWmc4cbukgSrA24WHDhcRQy4ws9vBT4VtXTtcCF/GYYTH3bfo8V6qhRMBxgc1ixB5tkmkrgBIBIH71urjwhdIvQaMN5x95ZSltA5gQMa5Hz27AZNUFzhvW6YuDcGHY77Z9SFjBHim4JLW5XyhcMDxW45bSZjGjgsNs1Sgpjw32RHjLDo97jQUtP6T2op+aQptQKcKxvRWJIFDUKW2QNpTMJCugg8p1203+lbz8Pr+LNemWppKIrpPMon25GAVeAMfbWsZaZkhMZLKX3UtgEAJWRgHfHxVqILlvtzNye5kuvLUlhJyMgD3/I1/2lr6BLq1a2m0cEfyisgkh+N9/Vdyv0+42u4RLpAjiVEZbV1kleAOYgBQ+d9fGa4/x7fG+IL+uU3GSyCn8/Oc7k5/oquk8R3R+1ptxmvGHoVNkjBI/nHxtVd01YK1q1xSXbvQz0u3WJz5Fc+/xmonSu3TaXjXbvngbaYzUe46I+eXeikzjkL32x9qKtTH6qvTe3pi2PoS42VFOEeo8wyDjXGO+dsVLud5n3R9L82StxxKQhPpACUjsANhRRSqoGcOdRpSyHOCdqisyClwKcJUBnTAFIMt3GOqvH0ooo5Yga0UuwGtIdlBTZBznye9FFFCLml2lbNf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Call Out My Name</div>
-                                    <div class="artist">The Weeknd</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcIAgP/xAAuEAACAQMEAQIEBQUAAAAAAAABAgMEBREAEiExBgdRExQigRVBcZHRFjJCUmH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAHREAAwACAwEBAAAAAAAAAAAAAAECAxESITFRBP/aAAwDAQACEQMRAD8A59kskv8AR9sr0hVpKysmjR17KoqcH2wST99TrP4rGyCW4Sce27aP5OmOltwtFijoayJUnophNM5ZQSZVUbQASGXIGHHBB/LPMynozVRI6qxiycfbvT4pT9Ay214QoPErXPA5FGSB/mjk41SXXwhlikktsjMydxSDn7HTzYLpBRU/wpZY3uElRIjQGIgxoqnad2eiecEc+/GmC0RG51skcmxCF3NxwR1x/Gl1N7Wgad42u/TnKWN4pGjkUq6nDKRyDo1pnqt43HTRm4Uu3MRCy4PJU9H99Gue4cvSOmLVrZ58XuFYbXTxNF8zHBAZI9y5ZFGGIB9iR0TjdgjBJy82CZ0t5p6WKFG3Btu0AfUfy9sk6QPTOerakkiVJIKck07VjofgBX5KO/SncFxyOSO+iyUpapopKS2TJHVFfhFsjIP3759jxq5r4Hc+bPvZfGflfKqGe5VwaonrjSmLIPBViCOeecDPGOtMzWS6QXWqCq8bId/WBszxgaoLTRvZvMvHEu9uMMyyFDVF/jJO2CVZc9HPYwMcHWvXKrV6lJIgm5l2yj/f2ydZiuu+Qn6McPTn4ZP6gilqrBd6shhK0O18jC5GMEfqQNGqL1jvsVLQfgdNtEsz/ElCnOxc5wf1I/bRrclrYeKGkZ3YPJJrRRy0oiMsTyCVcStGUbG1sFewynBByDhc9YNtL5NRLXRVVAaqA7FMqvj+7ohSOOv+Ae2OtGjQp6HaTXZe1Pn1PU11lWpqGkpaOf5hnMZ3j6SMdc96n3b1TjlQ09liaHJw1VOBlR7qmefuRo0avk+yVKM6uMFHUJPWS3pqitf6yjw8u3tu3Y0aNGjLP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Levitating</div>
-                                    <div class="artist">Dua Lipa</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAQCAwUGBwEI/8QAKxAAAQMDAwIGAQUAAAAAAAAAAQACAwQFEQYSIUFhBxMUIzFxIjNCUaHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIDEQQSISJB/9oADAMBAAIRAxEAPwD5WAJB7IF7/PGUHJQBKoqU1AlwcOa3cFRUROibkkkOAz9kZU+zSup5ztFPy08zj8fhR7rWGrLXSBgkJ3O2DA7KVXnQ3P0xyIioRUUYcFPlHNLSgDIQvb5Di4j6KjVvkmRppy4jaN24fu647KTb6U1FPPMHt9gbthbnKhRtaXe4DjsoS0ynW1otopnp2yfpB3fJ/wARPug6stzQCKKJ4mikMgyWtPLftbDo/S9y1FSXeot9OJ4LdCyWfnBAc4NbgdTn+kRTkbUNjleyOxXTwfrtP6Dm9RbRDcQ8PlcJg7c3GeDnHx0HVcuumnYhbBWUpDmYycIi5OTkqXOjfjxNKtm6+CWk9GajpLmNXXWSgqGbG022URjBzudkggngDBREXPkyNU0aTjTWz//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ε. Signaler
-Explicit content</div>
-                                    <div class="artist">Damso</div>
+                                    <div class="name">Inside Out</div>
+                                    <div class="artist">Azteck, Angemi &amp; Laura White</div>
                                 </div>
                             </div>
                         </div>
@@ -567,7 +568,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>sidz/phpstan-rules</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Additional rules for phpstan/phpstan.</div>
@@ -620,7 +621,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>tesla-android/android-raspberry-pi</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -674,7 +675,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>SniperGER/iOS-Wallpapers</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An archive of every iOS wallpaper officially released by Apple</div>
@@ -715,7 +716,7 @@ Explicit content</div>
                                     </svg>
                                     <div class="name">
                                         <span>paratestphp/paratest</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -780,35 +781,35 @@ Explicit content</div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.277777777777775 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.076923076923077 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="259.5444444444444 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="260.3076923076923 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.311111111111112 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.230769230769232 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.9 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.53846153846154 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.311111111111112 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.230769230769232 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😕</text>
                                     </svg>
                                 </div>
@@ -821,7 +822,7 @@ Explicit content</div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.655555555555556 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.615384615384616 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
@@ -887,7 +888,7 @@ Explicit content</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.10335386721424 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.14579055441478 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1178,7 +1179,7 @@ Explicit content</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 438k out of 116m users</span>
+                                    <span class="gh">ranked 436k out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -1403,7 +1404,7 @@ Explicit content</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.76m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.64m out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1559,7 +1560,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2023, 02:07:16 (timezone Europe/Zurich) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 02:07:40 (timezone Europe/Zurich) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
