@@ -1708,25 +1708,25 @@
                 
                   <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2268,20 +2268,38 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQMH/8QALBAAAgAGAQMFAAEEAwAAAAAAAQIAAwQFESESBjFBEyJRYXEUIyQyQ3KBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHxEAAwABBAMBAAAAAAAAAAAAAAECEgQRIVEDEzFh/9oADAMBAAIRAxEAPwDwSu5m6CRJdlGVA5Y+tmGbrXLTMaf1JjduTBceB87xC11JlV7iW4OGVvb9fu/MUfVtmLUturlkvmql9wM444199xBd41j2K9aqcujEkVo/il1lu4GskfvnuI6yLtLmzZSCkDcdMQxLMPP1nH/sVtl6fkpbTb2MwVLr687kND/ofQ+e8IWvp2QaapqUdZyyBybh85OvkaECfOmm+gXp2qU9kuHZrliSS8l/9bYJH1BGu3NKynWYKfg8xnDJx5IewDZ2NDsf2CGMXL4Mi9FZdxczJZbMse3O841mL7o25yLpa7eLsgmyLY7zPSU7YDYGO5GxrycRBX6ZKqqya6CYtRnaO2QdAd/nOYpujL7QUxFulyyKf0S041AA9wxnt48+Im1S3XBZpv0uJNtJoqi/sJyXksKoU6vlRT9vTI/47/Yy+sai323p1npeSpdZ3qqRMBwoA7az3yfrOojz1zUzOshc5zH+LwMgyuJH9LOToec+79ja6uqLfc6unt8ppctVpVaXw2q5OdH8y3zEmNTSy+FO6qXiSEg/3lMVmszGYWbtoDPmCFqR2a/CVVeo7glW4nJLfH3uCOqmmjltbcMcuFvqplU/tYShhiwAGWxonz5jPNtqnqQyoVLf5e4AN89vEEEBpGoto6zbDXvWcJKKebELv25zjWY5vQ3CXMlhSqNLyvIPs4Oc78QQQKlGptj1vs9dRz1rKxG4zFZwxbJGNZODld/kEEEGVwKptvdn/9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBAEGBwP/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEAAUREiExBkFRExQiFTJhgZGh8P/EABoBAQACAwEAAAAAAAAAAAAAAAQDBQEGBwL/xAAgEQACAwACAwADAAAAAAAAAAABAgADBBEhBTFREhQj/9oADAMBAAIRAxEAPwBm+zVB5rnat0tPT0q9yFtRAhIQMqWvYDx+6jE6Kuk6dMioS02uKdLilqOkk7gDzkb1zWnLdYAyqSD6nRv36ayQ7Ace5oa04qFObjaJUZEgvNlsMuFlSiQPkOw8/rtUemOnLdd+krhOvV2uEW4jUr2dvbGtkISAdKSDrzgLwMc0zJ4+zSSoPBH2Z1eUrzKGPYPyUXpLLrWluIy2cY1oKiT/ACTRVPSpuQ6yX2ZAYV6HqNDAUUfHIA4zjNFHuX8LCvyPzsHrD8e53Poa5Q7amYiW6lorIUlSuCAOP95plaeqLb7i5uyHkshb2tBUD80hKUg/1xWmuM6lAeTivORbQEZDyDlWkeMeTSc3ldFNaogBCzUrcVNrs7k8mUeo3vrLb8xDSyGJRwgbFxDitgCdtWR+ec9qOkLF9cblxLROv1oahrKi8SytCHVjJS2SnXq0qySNOMjvUJMBciIhpUhQQCToG+g5O4B2zsaWTrRdFsPMOdQXH0nnEKWkqSVZA0jO2cYPGSCMUvBuRGNlo7Mk052dBXUehE9/t8e3XmRDiNPITHWpslboc9Q5+7ISMZGD3P5orDzDwddVJkOyHVKJUtwJyT3+0AUVU6LFstZl9czY8v8AKlVbs8TprrdU3mudqKKKZQVmUXmedqXvs87UUVEeo6tjFz7PO1FFFexGqx4n/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">On My Way
-Explicit content</div>
-                    <div class="artist">Alan Walker, Sabrina Carpenter &amp; Farruko</div>
+                    <div class="name">Baila Morena (New Spanish Version)</div>
+                    <div class="artist">Zucchero</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQMHCAL/xAAsEAABAwMDAwMDBQEAAAAAAAABAgMEAAURBhIhEzFhFEFRBwgiI3GBkaHB/8QAGQEBAAMBAQAAAAAAAAAAAAAAAwABAgQF/8QAHxEAAgICAwADAAAAAAAAAAAAAQIAEQMhBAUSExVB/9oADAMBAAIRAxEAPwB8nu3RFylhuZJCOsvADp7bj5rw0/c0OhQmyB7H9Qn/ADNNM02dvqy3p8JtlbiyHHHkpSSFEHkn5BFRojlivQVGgz4ksqG4pjvA7gO/IPI/astzAPyCvXsxu5CTDdmKUhyXLZcPKVpfWkfyCcf1WG4aTvISkwbrLeV8eoV/nNXT+n4KUkiOvfxz1VZ4858CsKLaWIaGokmUwGQdqeqSMe/nNB9ggOjHHWMw3Fy0WfUrdziKclSC2l5G8KknsFDPBPNFN0GTKedZYfloKkOIKm1Y3KGRzj/tFMOWG3CPXshqcW6qmuHXN8UpDDm2dJSkPcjHUV8mtwfb40xIv25U5yKttkoSsLAC84J47eye1auuzMWNrvUAmzIre6VIK98cu7AVkg9uDz+1N+iIFsgIYfgXVUiXKVhorSNhSSQpRSe2Bnk+/al5bIyeZ6PFBnQd01/pyzmY3eJaUKikpUtIKt5AyAAOcnHFc36/+r+otSznGtPpk2m1glKG4+es4PlaxyD4GAPNRtc3K9WXVLlu9cyGCpBQ4yyPyB5GSRnPzg1HXcQzKtTjq1NPzEEkJylKjkY8YJ45Gcig4/FxYqeg1yshLEgEipRaJnvsa7sbklU1t9c9gKcLigpWXE988kUVsC23P0mrLTDmxYp3SmVsuenSVJHUCeDjjGMdh8g80V1nJ635gnGV16jQ/orVWnNUa/biaUuF6g3khth5t1DaXEKzuz+XYBZwCCCQMirH6d/QWavStulXifItd1KCHIyozbnRIWoDnPORg/zRRQndw1cqbEtpP0TdaubktF2u07rbkraU0hKE8YGApX9Y7YqLI+3WHeGo6pF2uUOQ0gJSFsIUEJB4B/LBPvxRRUB8mxIcjMKMzNfb36e92mU9qO5y1RX0vJV6ZASnapKsKO7ODjzRRRV/IwmbJ2Z//9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EACsQAAICAQMEAQIGAwAAAAAAAAECAwQRAAUSBiExQRMHIhRCUXGBoTJhkf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEFBP/EABsRAAMAAwEBAAAAAAAAAAAAAAABAhESITFB/9oADAMBAAIRAxEAPwDi3S+zpu0lwSSMorw/MQuMleQUnB84LA9u+O/rTbQ+mk+437NauLPOtK8MwbgoVlYqRknHcq2D74k+NLXQt2xt+7pYqyJHJxeP71ypDqVII99j/wB0+1Otuotg3KxfggglrzRRVeVmMqjfGvESDBB5YJLHOCSc62b3XV4Z8avj9Fm90P8Ag7UVeZ50lkhnmWJuHPEPMSDGfIKHtnuAces0x0rTG3Pda5N8KHiey55fEJOJGex4n377edXp+t5bW4ULVgVX3CkxaO06uQ5aUyNkZxgklfH+OR/vUEe9Tw7faoyVoZYrNh7THk4BZlwBgHDKOxAIIzoE7YzSTC6l2Q7HNFFJITK3ISRtgNGy4yCPI8+fB9E6NS9Wb3Z3hqcdhFSKqrrEOTOVVjniCxJCj8q+APGjTZzjpz2lnhHsargkjvrb3WQ2oadLJc2bCoXz3C+wP67apfT1ZbG/wwQcTJ90nFsYZVUll7j2uRrW64t0qu6F9riKpXnSVVOAyNjHHt6zg/r50NV8GROejzFtXQx6KZxTl+R2EBk+NjIJP57D9/HrSH0vVgr7z+D3VDKsNloVjf8AMPX7gDvjXRNs65WahJfVYsfCM1yDz5AefGP50l9K2dv3KSza3K6m33pWd/kZgGiYgAspb7T2GOJx+oOdK6hrPf1C6XrrUmu0IlgeFebxqMKy+yB6OjVn6pdfQ7j03tfTmz2vxVaCFDcvNHwksy4zjuMhAfXs/sNGmQ6a6hNpJnLqViWnais15DHLE3JWB7/1rSu7nFYtTy/EOMjcuJ0aNG1lgKmgfdppq/w5WJPBwT4/TWbPL9xWMgqPYGNGjV4I6ZCSWOSTo0aNWCf/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Nevada</div>
-                    <div class="artist">Vicetone &amp; Cozi Zuehlsdorff</div>
+                    <div class="name">Wolves</div>
+                    <div class="artist">Selena Gomez &amp; Marshmello</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwAEBQYD/8QANBAAAQMDAgQEBAMJAAAAAAAAAQIDBAAFEQYhEhMxQRQiMlEVQmGRByMkJVJzgYOSo8HT/8QAGAEBAQEBAQAAAAAAAAAAAAAABQQDAgb/xAAhEQABBAICAgMAAAAAAAAAAAABAAIDEQQSITEFQRSx8P/aAAwDAQACEQMRAD8A467TmI+nIDSbbDkF5viU44lXmUHFDbBG2AKyrRGiuMKeVZoBJHRoOpGf7ulba1aeF8s8F0hIMeMX1hIxkc5eQB9M/au+tEKLFhN5bQ22tOQoj1UNPOSDr2E7HEA63IY1BbmrbKC/g8Etvp485eGD3HrrmLjLjcCP2NBxvjzPf9Kb9f2hL1r8QzyxFS4E529ZHT7UO6jhcsBSWylGTjJ7f7rbHlLmDbtSzRgONdL10LNiifOWLZFYLUYqC2eYV+tCSPMo7EKO1VYGj1rZm3FTZHH4bAz/ABWxVVVrmM0KT7+Gi0NsQgE7GKUn6/mrrPucdTUpUBxQ5aSTHBOwB75rndHveDi28KUCCwRn+qukeJHi3KfBlvKB5HVJ+buB968vkZBx5TftNysqNsgR9rNQSEQFhTTUY8Ch3UrbiVj3ov1oUtWpBS8XQ2tXADkeX3GdgM0ka9ltO3i5lSsDxLuNupGwoT1xcnVlqMlw8hIKgjPcnv70hgl0gBKKkdxZXnphwuOTCBhSo6R/naFVazSchSXbieLZLCCN+n6hmqkpQQeFEHJi0jMavU222m3zGU3JDKgplwLT8y1+oJKfT9aSIok2piAuXKjJRM2Z4Ss8Xmx+7tv71VVo3xWPljaQfqSXypCzT1dfaOdW4auk5D1zhtPplOBWzp4TxH2RRVqiFGce41XmAnokZQ90/k3VVWMETY3at6CkmJpaiC3EhxLofi0N5bsYNoQ2h7JVzUK7oA6IPfrVVVV1KML/2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">The Answer</div>
+                    <div class="artist">Kalide &amp; Bianca</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQGBQMH/8QALBAAAgAGAQMFAAEEAwAAAAAAAQIAAwQFESESBjFBEyJRYXEUIyQyQ3KBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHxEAAwABBAMBAAAAAAAAAAAAAAECEgQRIVEDEzFh/9oADAMBAAIRAxEAPwDwSu5m6CRJdlGVA5Y+tmGbrXLTMaf1JjduTBceB87xC11JlV7iW4OGVvb9fu/MUfVtmLUturlkvmql9wM444199xBd41j2K9aqcujEkVo/il1lu4GskfvnuI6yLtLmzZSCkDcdMQxLMPP1nH/sVtl6fkpbTb2MwVLr687kND/ofQ+e8IWvp2QaapqUdZyyBybh85OvkaECfOmm+gXp2qU9kuHZrliSS8l/9bYJH1BGu3NKynWYKfg8xnDJx5IewDZ2NDsf2CGMXL4Mi9FZdxczJZbMse3O841mL7o25yLpa7eLsgmyLY7zPSU7YDYGO5GxrycRBX6ZKqqya6CYtRnaO2QdAd/nOYpujL7QUxFulyyKf0S041AA9wxnt48+Im1S3XBZpv0uJNtJoqi/sJyXksKoU6vlRT9vTI/47/Yy+sai323p1npeSpdZ3qqRMBwoA7az3yfrOojz1zUzOshc5zH+LwMgyuJH9LOToec+79ja6uqLfc6unt8ppctVpVaXw2q5OdH8y3zEmNTSy+FO6qXiSEg/3lMVmszGYWbtoDPmCFqR2a/CVVeo7glW4nJLfH3uCOqmmjltbcMcuFvqplU/tYShhiwAGWxonz5jPNtqnqQyoVLf5e4AN89vEEEBpGoto6zbDXvWcJKKebELv25zjWY5vQ3CXMlhSqNLyvIPs4Oc78QQQKlGptj1vs9dRz1rKxG4zFZwxbJGNZODld/kEEEGVwKptvdn/9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">On My Way
+Explicit content</div>
+                    <div class="artist">Alan Walker, Sabrina Carpenter &amp; Farruko</div>
                     
                   </div>
                 </div>
@@ -2296,28 +2314,10 @@ Explicit content</div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAQFBgcIAQP/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAURITEGEhNRByJBYXEUMkKBkVL/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAAEDBQL/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDEQQhMRJB/9oADAMBAAIRAxEAPwDLdKoKQuQ0DplQFJgCdgSfiveKlaHULKSEpUMk/NU+T1X2Xx4cP3KPZn5yBFEGOnKEuAhxZBwRvpoM5q0OBuJ3r7wcq9Q46WXuqtstKPPgJwAdMZqgp12kv8P3NhkdNEXlSspOArm2/dXf4BM/R+HEFxXn6rri9PnaihOmujXsl1iVe5URT95Qw0VE8qW+3of3vRTzJkBbClN/YU5Boq2ZbZia08W2+22tDCeHLbJmhODJfQVknXXlOnbbA096R3/jC43yImLIQw1ETycrLDYQkFIUAcD18xz307UwNxXnD5UE0tTZ5vT5+gop9qX8r+TnNgkoskph+xOx3MuzXZSXEN7JV5cAq79gPTWtL+HLDkawx4/RajgNgqQ2CU5yTkf2srWK3yi+hJHSdT52ivRKlDXBPpWnbDfBBixPr7jBBLY50s+Yo02GN9fasHHYtoI/Hlo07SPvHQnM8GXNECQmPK6RKXv8p/Ip7HG3Y0VCeOeKDd2RDiBYipPMonRTmNvgZ/tFLx8NTduoDLzgtqvcpzh6FZ5FtbTLlJhyUrwolKlZTjfTPr8YxpvT2piFGf6UOU3KYV9qhnmGnrkAb9qKKTjhMkURmmicFsFVOLKgnAQjB96KKQQzOOLPMVHeiiiosgT/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgQH/8QALBAAAQMCBQEHBQEAAAAAAAAAAQIDBAARBRITITFRBhQiMkFhcSOBgpGhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAbEQADAQEBAQEAAAAAAAAAAAAAAQIRIQMSMf/aAAwDAQACEQMRAD8AW9pJOI4Qpl9D7ao775aAKDdG+3Ct/wCVxKxp5ICHi1qaiAFA8JI8Ry57k325q/XBZmYW+1IZDzeZaigj1BuP7U4/2WuhLpisM5vqAWJv4rAi3268g15yFLnqO3vcMYdKZm4SHVKW5JQzqPoir1C2f3YD3JsK5IqJDjLLr4dYDrYcAcUL2uRvY7cfo1iSxGwRzEYbS0xpnd3G9PyAqv5FE7cG/T3FZ7NZm4KW5as0xRuuyrk8gAW9LDj5pj80obSKT6ZmsjIcq1lWYAnNcHeimM9kaIOXhSf9oparg0r8Pmw9F57VaSUqVc3vyTb3ruTLw955D5VGdcYCpCSrbIUJJzcelr15vgStTGkrJOkGl50gHi53/Zp1iDPd8NnvwiC4uOptxCwT4Vc/yjlfLSEUkeTGc4/iEx6Slb7yyTmKz5yblR6nmr2JLLcbDMUhwS3CjsLakBChmzi1lge1/SlbmCSprEWdGjaiXgtNmxuSmxO35UwwJqWphyGpiSEXKVp01cEb7da1etc0HzS3rKRlqJNw9lanLvvFJUALG99/mipKEl1uaUuOKUEJSlKSeBccD04orDU9HoMDU+ziRkMpzjLlKeovVUZrjyTnZDZsObn7EW3ooo7/AEFoVw33MJmFMZwuoacUtLZzJyqV5rEG44Fdy+1MsI+nHWXjcqcC7EjoPDt80UVPtvNIoQgdU09Mbf7tJbeuApTjwWLfASN70UUUVW6elqFKw//Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Can't Stop Loving You (2016 Remastered)</div>
-                    <div class="artist">Phil Collins</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBA//EADYQAAEDAwMDAQMJCQAAAAAAAAECAwQABREGEiEHMUETJFGRFBUWIiMnYXHRMkJikqGiwcLh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMFBAEG/8QAJREAAgEDBAIBBQAAAAAAAAAAAQIDAAQREiExQQVxBhNRkbHw/9oADAMBAAIRAxEAPwDnRzpppudoKFOu1oYnPyz6yHXs79pABTwcYCgrHnFOw6UaMPH0bhf3/rR0Xc+6zTYBHEb/AGVTgq9QWMhclsrT3Sg5P9KHfqrkUSlAAuaWEdItEqaAGmoQczyTvxj+apTHR7QxThenIRP4BX61BZ19GgTVCTLS7vcBcSDnYO3Hu4p8t94t89sOxJzDqD5Q4DREMBkimXFhLAASmx7xWV9YOl2jbJ0wv1xtlgix5zEfe28kq3JO4DI5xRV91tvcaZ0p1PHjlTnsu3dkAftJ+NFczUmeJ42wRisL0TdrqrStsipdlORm2tqG0Z2gbj4H+abGJU2Rblo9CShOw7QhpXJ+FLek470DRVomiWlKVsbkpCiCOSMVZW24XWfHRi5Jgq9Ta2JCwQo+OwzW62MLRllOoilWt1fXE4SFAqr3nod4rNI0aXE1QGx6pdcWUKQoHJJ8fnmnNHzlCI9mmNOq4x6ShuHwqHe03O1arE24SUvXVpaXuwUBjkYzwRjxWh2XXHy6KJUxhaEqJHI4JTjPGOe493emW0DYJfYV6Kb5FceKjCW0X1S54B4/dJGo5t2e0dd0TA80wWCcrRgKG4cf95op06kXu1y+nd6Qzt9d6N9X7Ip/eHkiiskxXVsKweQvZ7tlkmTS2OKy+y3u0RtKQbeu8BsvNAuo5UGl5PChjt+VeEhywojIWm+MKWAdyEpPBz4yKKKFX2Vu8/n3UWOea1jaGJyFO/o56PIqO1dbWVlgzmnRwhMhSSkFOc9j2APuq1sesbRbpbrMrbLgqyFNKUSjcBgKH4/xDBxRRRPOzNirtndvAFK4JPOfX9xUHUuroTtsuse1PKYYmp2KYDilZGQcHI5888UUUV1nzikeSu2uJdTgfav/2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">I Don't Wanna Know</div>
-                    <div class="artist">Mindtrix</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUGBwEDAgQI/8QALRAAAQMDAgQEBgMAAAAAAAAAAQIDEQAEBRIhBhMxQRQiYaEVQlFxgbEjMpH/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAgQGA//EACYRAAEDAwIGAwEAAAAAAAAAAAEAAgMEBRESIRMxQUJRcSKB0ZH/2gAMAwEAAhEDEQA/AI7iMFw65j0uZe7yKbzmGWbZkEaO3mUYk+1dJjhtbilqabUGtW09YnbbvU4Viykw23qUO0b1i4uW8Uxz0pdcXpIhCCY2Me9a51aQScndJXYQ0ETizBf0CjuR4IbaZPhbxt19KC4pJ2BT08p6Ez61DbjFQqFHSPqe1Wrm8db3+Aa1NhD/ADAGm3N1q0mVBJHQwN/pFRy8QzesIuGEANlAHXqR1J9aEornNxnwzHPj0rduhZWQB5CrvL2lqm2ZDBHORPMPm/kM7RIgQKKaZe3AUaKQNa1u2VGS2YdsvRqrRhpzVJnvCZj3pRfWrD91s48SuUctLMAHoNu9SS5bEE96V3b6WWit1aWwjdK1Doe3vWfp6iXVoDzv6/FC72+KojdO/oMn6Vd51ejicxcuzZWqlW7vJ1BtYUQo6Z+YzvII/fLAY+1+BJU/dPpUtalEeHA09O2r81tRlMU1j20quEu5K6DXNOk+REypP3kfk04vNC2AWQC2oSCOlGSRSCZzi4g7ePxJ2fSaUaDsCR/FXmdtLBDLihdPl+PKjkCCdup1fftRW3iC385J60VAmQdxS5YFfi+WoAqcSn0M0tv0sKZWC40uR/UgkfqiiuzCQ4EI18QewtdyKofD8L/GbvN2wywaylo5rZbKllHLJIAIKdtx1B77064XyF1jbt3D5i6YL4ICUjXIV2iUwQfQ0UVeqvnK8Ht5I6znhxRFvdsfrr7WeIkt6HV+JZUofIAqT/oj3oooqoVocr//2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Whenever, Wherever (Radio Edit)</div>
-                    <div class="artist">Stockanotti, Marc Korn &amp; KYANU</div>
+                    <div class="name">Right Round (feat. Ke$ha)</div>
+                    <div class="artist">Flo Rida</div>
                     
                   </div>
                 </div>
@@ -2363,7 +2363,7 @@ Explicit content</div>
                   
                   <div class="name">
                     <span>arrowtype/recursive</span>
-                    <span>starred 1 day ago</span>
+                    <span>starred 2 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2574,7 +2574,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.31578947368421 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.135416666666668 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                       
@@ -2587,7 +2587,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="263.2 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="263.8854166666667 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👍</text>
                       
@@ -2600,7 +2600,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.926315789473684 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.854166666666666 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👎</text>
                       
@@ -2613,7 +2613,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.16842105263158 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="30.84375 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😄</text>
                       
@@ -2626,7 +2626,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.926315789473684 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.854166666666666 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😕</text>
                       
@@ -2651,7 +2651,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.463157894736842 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.427083333333333 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                       
@@ -2754,7 +2754,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.18822724161533 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.46132785763176 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#B59151" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#B59151" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#FFD576" cx="16.5" cy="2.057" r="1"/><circle stroke="#FFD576" cx="14.5" cy="12.057" r="1"/><circle stroke="#FFD576" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -2787,7 +2787,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.695 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.78 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g stroke-width="2" fill="none" fill-rule="evenodd"><g stroke="#FFD576"><path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/><path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/></g><g stroke="#FFD576" stroke-linecap="round" stroke-linejoin="round"><path d="M47.01 41.009h-4M45.016 39v4"/></g><path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#B59151" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#FFD576" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/></g></svg>
@@ -2864,7 +2864,7 @@ Explicit content</div>
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 2.39m out of 118m users
+                      ranked 2.40m out of 118m users
                     </span>
                   
                   
@@ -3202,7 +3202,7 @@ Explicit content</div>
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 4.79m out of 56m repositories
+                      ranked 4.86m out of 40m repositories
                     </span>
                   
                   
@@ -3387,7 +3387,7 @@ Explicit content</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 25 Aug 2023, 02:07:10 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0-beta</span>
+          <span>Last updated 26 Aug 2023, 02:06:45 (timezone Europe/Zurich) with lowlighter/metrics@3.34.0-beta</span>
         </footer>
       
 
