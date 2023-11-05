@@ -1706,13 +1706,13 @@
                 
                   <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2268,19 +2268,28 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAtEAABBAECBgEDAwUAAAAAAAABAgMEEQUAIQYSEzFBUSIVI3FCgZEUMmGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEIRIxBUFRcYETImGhsfD/2gAMAwEAAhEDEQA/AFoRix8Qw4nF4x4NxmiQqGgmumLJNX3Pf3p53H4mTBfyTWCiNlPKpLZZHy2TuPjXf2QKP41rx+VdaxETlhPTehFaUphpSQp4dMAgnluqJ9/g6SYzk3ILnmRincdEeabXHQt8lQ33Kh2IIFDYVXbSaWQ0qCM/FUG+IpeBebBCQI8in+LJnDi0xOlAgxnSA2lBhtoSK7J5v1E+6G+tSuFA3hTKONxzaJASWSpCAGyQa9/xqNnsLmMeZkiXHBWFKQ0K52pABrbbZSdxYO+3itdyJEt/AIQ+2UY5ppvpyOdQHPQBBUn1avHjRw6pKR6ZEDelHbNWn3qkqhXLcYrk8vCx7WAyTTmPxjkxuMsuFthKekooJ8pG1Cx6N0dGrZlRmMdxCFNJcclQFoC2RfOlLalAgA7C97HYeBo1louiSNj5rBaZUBrEEdxVLA4RpvF4t+PJSt5cZoPNqbWByloWLur8aZyDMbKxJLMeFGjCPaW3UOFVfLek+tjse/Nel8Zk4quH8amBJdMv+mZ5k9ADlpsXSiaP8C9OOMyImDgJLqqLam1blQtPKCPkbB9gUL7aXZavLglRMTgY6eKK69a8PbLRSY3PnH7UziLI/Xgyt+Qtltk/baKLANd/7tuwHjv71obmITAYisvyI6LSp0BIKVqSCEqomx3NiyD4A1hkcuhicGGj8U7OKJJAPgVfjTpyMVICkr6hT+ltV9waNE9rrVAWaG0ltJ2/ulSg7eJCHVIIS5sYn6mp6nRFhTZHWc6q474txugq2VJIAB2ABA/fRrzMLdmcP5Z8R5CkBh5JPVCAPtk0Bfj8G/8AGjSPrafaDEfIq83ZvqQkqM9xn9qfwvkcfITiGPqURlQjpSpReR8ftAGxf/P967HOzManEEt5nHEx0qKEIkglV13sAeL96NGny4pWZpW+tGmTpSJkc+9fOXJsBx5bhyUFPMboOpPgDvzDWbGThtvgCbjihSQkrDyQqwb7XVfvo0aGpIAIpS14rcvrbYWqUyMQOVUpE7GO8Ly1N5CCXUJf+JkovlLW1C9zfoaNGjUPQCSOldU88qRX/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">The Motto</div>
-                    <div class="artist">Tiësto &amp; Ava Max</div>
+                    <div class="name">Don't You Wanna Play?</div>
+                    <div class="artist">Seeb &amp; Julie Bergan</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDCP/EAC0QAAIBAwIFAwMEAwAAAAAAAAECAwAEEQUhBhITMWEiQXEHI1EUFjKhQ4Hx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgQBBQYAA//EACARAAICAgMAAwEAAAAAAAAAAAECABEDIQQSExQVMUH/2gAMAwEAAhEDEQA/ALVFaWV5A83EuoXcc+QIrWAetwfyfbPn23pFfaZp1nbXawaIZ5LgN0ri9nDiNcdxj/vmn5hsTIs0k1x6XDMWjDDv4bNdLFhrtrcWvT6QiyQWBwycuDg42O3ufetKmJVF/wAmR5PLy9qEyRtOgubXlg0WN5isiCUXBALIBzNjP5IPmlX7Nv1QszW4Az/lGMAZz8Y962LTeFr8WsH6ezV1XqEGJ1kBDBd9j4qHcW0cSNHdBon9Uci8uOUdPJPztipGND+GF9nmRupFCYbPasmVOOcHG24xRVwv9NgDycrbr2OKK8vOXI5YqahxPxmsVhG9irWcuAnJEAI9u5B758HPzUfg3iaz1FLhdW1NLaRF5ueZ3PVBzt8j8Css4o1JZ9Pj6LhiHzlTnA370l4fv7VNQB1QTmz351h/n2OMZ81wcKOg1E34XdS5no1ba5ezto9L16Jo2HOn3WX0nIBGcedqT3Atobhje6zpnO65ZSjt3Hjvt5qtfS/ibSLrOja5KEKfbs7pxy5QtkK2+AQxz8bZpB9QrabR9WWB50kCxqqlWzzAAb7VKZRsXEvgsclMNS2GHhu2meV7mfUWO/TjXpRj5Y5P9f7orOdBuZbu7jhVxhyc53GwzRQtmAOzHl4hqVmxvoY4THdq/U775FcpdUInYw5EfsCPb4ooquGVruXfQESdOsMlgtyupWBflDtb4cS591/jj+6gTXyTzqJ06ijCcxJPpHzRRRerGAUAOpe0vYdZSaSymRGeQFFa2VWjQZBXmXfBG2TRRRSoZl0DGvNTup//2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAQFBgcIAQP/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAURITEGEhNRByJBYXEUMkKBkVL/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAAEDBQL/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDEQQhMRJB/9oADAMBAAIRAxEAPwDLdKoKQuQ0DplQFJgCdgSfiveKlaHULKSEpUMk/NU+T1X2Xx4cP3KPZn5yBFEGOnKEuAhxZBwRvpoM5q0OBuJ3r7wcq9Q46WXuqtstKPPgJwAdMZqgp12kv8P3NhkdNEXlSspOArm2/dXf4BM/R+HEFxXn6rri9PnaihOmujXsl1iVe5URT95Qw0VE8qW+3of3vRTzJkBbClN/YU5Boq2ZbZia08W2+22tDCeHLbJmhODJfQVknXXlOnbbA096R3/jC43yImLIQw1ETycrLDYQkFIUAcD18xz307UwNxXnD5UE0tTZ5vT5+gop9qX8r+TnNgkoskph+xOx3MuzXZSXEN7JV5cAq79gPTWtL+HLDkawx4/RajgNgqQ2CU5yTkf2srWK3yi+hJHSdT52ivRKlDXBPpWnbDfBBixPr7jBBLY50s+Yo02GN9fasHHYtoI/Hlo07SPvHQnM8GXNECQmPK6RKXv8p/Ip7HG3Y0VCeOeKDd2RDiBYipPMonRTmNvgZ/tFLx8NTduoDLzgtqvcpzh6FZ5FtbTLlJhyUrwolKlZTjfTPr8YxpvT2piFGf6UOU3KYV9qhnmGnrkAb9qKKTjhMkURmmicFsFVOLKgnAQjB96KKQQzOOLPMVHeiiiosgT/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">One More Night</div>
-                    <div class="artist">BROHM &amp; Krstf</div>
+                    <div class="name">Can't Stop Loving You (2016 Remastered)</div>
+                    <div class="artist">Phil Collins</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQC/8QALBAAAgEDAwIFBAIDAAAAAAAAAQIDBAURABIhBjETIkFRYQcUgZEjcRVDwf/EABgBAQEBAQEAAAAAAAAAAAAAAAQDBQIA/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIAAxESBCExQSIyUfD/2gAMAwEAAhEDEQA/AMYlpytTDTwkgzDcdvBx34/WmnV9nShtNtq1WZfHycyqOTtU+Uj055B7EaeU9nCVnTh6irxRWuup2lWojiy0S4O3PBzyE/B17+pNspqOhtoF1gr5Y96qlPKHiWPjDHbyCx9PYamxOQAi1AKH71Ivpuyy3ivSBXSFW/2Snav701mts9sqa6GSMRfbSeEWWQ5JyV/o8j8as/pJXV9BVRVFyWJLcg2/yKoCrgg9+c9hjXL1jTwNSdRXD/LOVaqR/CKYNQ5LHGM5Azz6j11zmS2M6FIKmREz25VBkZYOdq98ep+dGno6feq6fluf2r07xBW379wfnBBHccYx86NWWxHMg6NfcSn+qF3tdzpOn4rPUF46SBotjIylB5cZyPjUdBHLPCxhQuyEO3HHHPP61zVMiMtPIh8pj/7jVV0HD49uukiyRloJI/4cedwwbJHuAFyfYc/0eqSAWG9oygFuEJtKOzvSVVrmhp6fFdIWbPiERxrx3HYng/k6h+sUuFHcqqklhaNIZE8QEDGcZU59jnvrWLFYopYJ1hnkQBY3TEeVG+Iv5jnygYxnB1mP1IFRJHa67dNI9bTrHMNmF3x9wBnPG4dxg+hOj6clnJ6itWwVMR++Rt1VVVlB0Tb4KaOkjhuCMzFCDI+1s7e+cDceT3/GjUNRUdVKsJZZVXPhhiDgEg40aYoCC0zzlUORFpyPIGt8OCN6ZH7Ou6zT0i3CnMcVV4+9OfEUrkctxjtj50aNef1Mmh8lmp2S5qHKqu1nwCMLtOPjGpvrGlpobm0css7qGFRGu8eVW4ZRx74OjRoGnPM1a/IiGOolks2YmjQmcyKGbB4GBgZ+c6NGjWgqi0DUqNlP/9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Kids (feat. MKLA)</div>
+                    <div class="artist">KSHMR &amp; Stefy De Cicco</div>
                     
                   </div>
                 </div>
@@ -2295,28 +2304,19 @@
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCAwUHAQQI/8QALRAAAgEEAgAFAwIHAAAAAAAAAQIDAAQFERIhBjFBUWEHEyIycRUzQkSRobH/xAAYAQEBAAMAAAAAAAAAAAAAAAAGBQIDBP/EACARAAICAwEAAgMAAAAAAAAAAAECAAMEERIhBTEyQWH/2gAMAwEAAhEDEQA/AHqUR3do8J/qUqa0v4n+lU096GtHEiu3Wx2K2dZZSKO3SSRjtyFVQNsxPkAB2T8Cly/z2eyoefCNZY2wj/vLtwxJ1yA4jZB13rXkR33VF0rxwevB/ZEqstyGBTe4n2P0kyD3rQXkimIDZ0COXxTh4b+nkWEv0uucSKnYjjU9n0JJqVj4kzdxBaRXmRsIbsyhJpIYuXBQhaTls8Qw/Ee2216Vj8L42ziLI2cxjXFmjIrXNuAHVnP4gJv89gqegCOQ6o5kKX/Ftxdh2BfGGo53icdstFUzXUM8P3IpOSn40QfYg9g/BoqSUIMvIoI3PP8Akslm7bKWl61wjC3bnCpbShv296utLDMeIbVbs5MW8U9yLdUiUhFccQN66XojW/MLUriM3EX22XkD6GutbR5HBgG2tBNAZFdtDTEK6trfr+n18tn3pxkLV0GcbgX4+0EcHyWReBs1OFY5IfbZU4sZSem4Fd99fzP+1C6scx4bhS9XLtKYtbicsyaYkeW+xtRsfIql87lFxht7W2voZ2gELSK2taEa9a78o/8Adcucpl7dILq3McICqxG+TBewP81w2GkD6lhFX9emW+DcpnpMxczR3Rmjmbnc8v0k+/XQP7UUwY+BrO2SKGMRxj0FFS7OXbYEq0E1pokzC4m/R2XlokGtoYC5sZrdRIqE/NFFIXPVezAgHF2hGWP+ECAhrePZ+KweVFgeRijRR8CiijOSSWjTCUcxJzuSt7VDxIBooorZWg1M7LGDaE//2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBA//EAC0QAAEDAgUDAgUFAAAAAAAAAAECAxEABAUSEyExBkFRImEUFTJCcQeBsdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAEQMSBCJRE3H/2gAMAwEAAhEDEQA/AOBs2DemMyTqGII4/f370liGHoTdNJSdMrnMVEQmO/4q/bvqbaJuGG9kwM0kD/GpDuIOjGU3ZAcU0oQlZ5A7H2rWdKEEkRJrCdS5W0blpAT9x4PH90pc23w1wttS0rCfuSdjVj5osSPh0zz9R5pNQ+OvSS25KyJS0nMriNhSghg3PmiwSUhThUCqCAkUVfLFuq2SrVzDLtvBB/FFP+M6SJp+qbAW+qGbYMsrV6QFTMePYHaoKcC+aNqNqptLzaAtSVGCe2UeTvMeN61+HW9tcMli5uTKFu6YK+yTtHnztsZpTCbVauonbhVmFWs5laaCQlMxtAMCYG4NXcigqGhadZg77DXmGdZpK1MA5Ssj7qcwCzdbcefWFtOtpBRl2UDMz7cV0HBbFVxZ3VpetPhC/WhttsqBXHeB34mvbrDbS207bSeGJLBDiUI7AkCZO1K1UGDpcxN9Y3aMNe00AsITypMkeYJ4orZ9WYI+q0YLaHNKCHAAQAviKKVm7HrD1PkbxHpfHOhWigItsSbvU6IllSktryhfpUe4B889uKe6O6ZxxyyuLi5tsrN4yFQ9mIMGQv0n+fNFFUxlYuq+zc4vGxtdj2VMB/Ti7btmcSxu7uEMKU3nSwrKtMmAjfcHKJkbGYO81rsd6D6O6XR81xXFsQS423n0lubvkHcTySfpMHvRRQtkbarmO6iif2cxxTrnpFvE1LtrXEAwq4KiDEJakmAJnNJ8/g0UUUYNSLmcKADP/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Something Stupid</div>
-                    <div class="artist">Jonas Blue &amp; AWA</div>
+                    <div class="name">Wildlife</div>
+                    <div class="artist">Jauz &amp; KARRA</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EACwQAAIBAgUEAQMEAwAAAAAAAAECAwQRAAUSITEGE0FRIgcUYRUjMqFxkcH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQMB/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxEEEiExQf/aAAwDAQACEQMRAD8A2VJLDl9alPPBqDorK/FiSRvfb+74cp84+1lh+5VHpyWUsFs172GxN8RdUqWaKn7ypqQONUZsgHJ1AXB/rHOj8nStSWRpjHqjIplilLMUJIDMRsCbXxC5easIMHuMutZm+yzfPaQ61jjPcF9I0nge/Q/OK6fO5bgzQLHEf4sUJDbXFrc3P42xcL0ApzR6oZjoSVVZwVNyQANrEb7eb4zubdPVHTz0k9PVRVcdbMY/tpUEKiwNyunb8nji9sb3UBV3J2pgThM8Fv1CZYZIY43Kdy4udS2PHo38esGLPIrz1M7rGqxMxj1BNmKC3I/76wYjX8qu2gZFJcVGAyfPI/v62OgmcRU7w6WbT8tLXBKsBsfxiP6bxKiVUVAZ1ptazK4XUSxLAg3HoKbf4wnnFVfM1kSEMYR23Y34I+NiON7722t7w/091NNR1T0rUVTWrJoYyQhQE8FQDueL384rc9orI39gLKyx9fk3scNX2LCrq9YsNRhFztY+MZDrqqOWZTE8sxqZnk0xx1Eahm2AOm9tJsCb384foOqVr5IRLlNdROryR6J7BviLhtvBv5tjB/VjNsn6khosqWCdawy/tSyIS6i9iQvBHxO5tbnDrXRx4bM01Ts0PS1XJWu7EkQiLuKq20g30+CdXHNyPWDFX9PKf9NoftgytEsRjTXtJ8TubcEWI3GDEu1grZErpkdOGzGpQLHD2WBEplkYFr240niw49jDlP0/OZJXbtKYyXptDEHWrWRmN7cAG2DBgnHezoA006KlVyRJanKc7zGOUV2YcoFZCdIfbxa43839/wCln6Z1MqwpDS06qq2DfMKRdrMbn+Xja/vBgw0uR7EwCj5E8ohrMqqpzUKFh0lVHcLab77X58XA8+9rGDBiJ2dLmyUeepfCf//Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Make Me Move (feat. Karra)</div>
-                    <div class="artist">Culture Code</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBwEDBgj/xAAxEAABAwMDAgUCBAcAAAAAAAABAgMEAAURBhIhMUEHExQiYSORFjJRgSRCUmJxsfH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhAxIi/9oADAMBAAIRAxEAPwCuLPF3zgsZS21lTiz0SnBH3/3TG0O6dbDHrI81x5tQ3hxxK2lHudpbOBjtnNPdKafGqLMtuKt2H6En1EhYSGCVZ2lS1KGDjjHPArDnh1d497atVufiTLg635zbOQPMb/qSrO0j967eSjVNlVFUtJM6dpIQklmPCzv938KngcZx9LrXD3mVZ0vPybY5MQ86VKQ2yvy0Mq4xxsHHXgf9ZP6RvcnVEuxxYaRdmmyXIpeSlRIGTsycKOOcDORWuP4c6pkCHstS0LktqeQ264htaWwcFa0qIKU57kDPap9lFP5CfnKFtn1XeLW95kaa6SRghas5A6fNFY1VpO86XXHF5iBpuQCWXW3EutuY64UkkZ56UVGyZa3glAkSYepjDmONx2FMFZYK/NUDu4SAoJ7fzA/HerQgWhab7NdZehsXFUFLja0s7nCwVElLgyCs5JHCgBhPcCvN34jvWjbjc4NoktMsyigvtqYbdQ5tGRwsEYyTUiD4lamRcETl3QIeSwYiSiM1tbZJCilKNu3kgdqZNgsLQ1Ey7cPE7TrYgJn3qS0tPqiFR0tFBGHtoJPsGTgEZ4yTTS8PtR9YMN36TBcRfICYPrltO7LiCvaWtiB9NSTj3EnIV9qhk641S1NauCpiIDz8ZTTS2YrTai0ojJylIwSRndwf0wKTytY6jlMQGJd0flNxJIlx1yMOrbcHfeoFWPgnHxTSjKlY2nVeOMi2QlW/TNkXEbi2lx1DkRhDmWnDgkqWs+7Oe3Siq7ukmffrnNucoqfkPuFx53aE7lH4GB9qKkIStSNFm5PokuKLqMJSnuE9gT/ikoUUnIJBHNFFDdAOZ7apUBuU9fITziWhiMSsOp/t/Ltz+9JkqP5dxCT1waKK3029NvTt1SmrRZ20sBKDHc8xpfCionGc/r0zzxRRRTdUk8Ld0lLEf//Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Mr. Saxobeat</div>
-                    <div class="artist">Masove, Brendan Mills &amp; Tess Burrstone</div>
+                    <div class="name">Closer (feat. Halsey)</div>
+                    <div class="artist">The Chainsmokers</div>
                     
                   </div>
                 </div>
@@ -2362,7 +2362,7 @@
                   
                   <div class="name">
                     <span>cstate/cstate</span>
-                    <span>starred 10 days ago</span>
+                    <span>starred 11 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2409,7 +2409,7 @@
                   
                   <div class="name">
                     <span>vatsimnetwork/vatspy-data-project</span>
-                    <span>starred 16 days ago</span>
+                    <span>starred 17 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2748,7 +2748,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.59411362080766 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.67898699520875 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#B59151" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#B59151" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#FFD576" cx="16.5" cy="2.057" r="1"/><circle stroke="#FFD576" cx="14.5" cy="12.057" r="1"/><circle stroke="#FFD576" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -3196,7 +3196,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.03m out of 97.9m repositories
+                      ranked 5.03m out of 94.1m repositories
                     </span>
                   
                   
@@ -3381,7 +3381,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 4 Nov 2023, 01:07:12 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 5 Nov 2023, 01:07:52 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
