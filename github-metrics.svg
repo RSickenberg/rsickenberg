@@ -2019,7 +2019,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 26 commits)</small>
+        <small class="h-details">(computed from last 9 commits)</small>
       
     </h2>
     
@@ -2028,10 +2028,10 @@
           
           
           
-            <li>Mostly pushes code around 11:00</li>
+            <li>Mostly pushes code around 22:00</li>
           
           
-            <li>Mostly active on Tuesday</li>
+            <li>Mostly active on Thursday</li>
           
         </ul>
       </div>
@@ -2118,14 +2118,14 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">14</span>
-                  <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   11
                 </div>
               
                 <div class="entry">
                   <span class="value">2</span>
-                  <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                   12
                 </div>
               
@@ -2137,19 +2137,19 @@
               
                 <div class="entry">
                   <span class="value">1</span>
-                  <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   14
                 </div>
               
                 <div class="entry">
-                  <span class="value">3</span>
-                  <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   15
                 </div>
               
                 <div class="entry">
                   <span class="value">1</span>
-                  <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   16
                 </div>
               
@@ -2173,7 +2173,7 @@
               
                 <div class="entry">
                   <span class="value">1</span>
-                  <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   20
                 </div>
               
@@ -2185,7 +2185,7 @@
               
                 <div class="entry">
                   <span class="value">4</span>
-                  <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                   22
                 </div>
               
@@ -2220,20 +2220,20 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">17</span>
-                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                    <span class="value"></span>
+                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                     Tue
                   </div>
                 
                   <div class="entry">
                     <span class="value">1</span>
-                    <div class="bar" style="height: 2.941176470588235px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                     Wed
                   </div>
                 
                   <div class="entry">
                     <span class="value">4</span>
-                    <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Thu
                   </div>
                 
@@ -2245,7 +2245,7 @@
                 
                   <div class="entry">
                     <span class="value">4</span>
-                    <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Sat
                   </div>
                 
@@ -2281,55 +2281,55 @@
             <div class="tracklist">
               
                 <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAMRAAAQMDAwMBBgUFAAAAAAAAAQIDBAAFEQYSIQcTMUEIFBVRYYEiMnGRoVJigsHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAfEQACAgEFAQEAAAAAAAAAAAABAgARAxIhIjEyE0H/2gAMAwEAAhEDEQA/AFvrGxyLta9JzI0sXC5PMLjPbklDiykKWknPnjendnnbnzVpb71quPoR7S6rMHLctfc7hbSopVkeFg4znAx59KV9ivkq33+A5Mfc2sbmwon8TQUCCQfIxuJpo6C6Vao1Cy7NN5mR46XFNjDysq5OfWpfnQ0tNZxdiLpUhYG4sO7SM52nxUudqy+L04jTrKnPhSXvefd+0ACv+okDJ+5rc6n6Jo05d2I9wukx1l+OpxpMVguuuLCgNgSPoScnA4rLdTOm7ujbPBu7U4vxJb3ZShwbVhQSSQofTFEum9P7F8u5qejNjl2tbeqpSAHdpVH3eNpSeaKZiIL8TpZZm5Kmy+mAMqbGBghRT/BA/WiuRnBfISZXjcBZzM7bXrvpi43lpG9cCQ37xtHhDoICj9ApGP8AKnD0T65W7Tdh+EapakBuOkqZksJ7inOfyqHofQHOPnil101h3qTb7oqFJ7doSECYyTw6TuCOPoamSel8yRbVT2ZDKCWVyFJPAwkKV/qu2WF0ZEXANGMmT16tV+1vCedjSbfbG45aaeUQHUOqVyVEEp24CefTn58ZW4JunWHWz8WM6oWC1KW8XV8gqVgHkAZKikAccJGfnlIV0Z7Mc5XwC+x1nJL4cJJ5JKRnP7UDYwpOQdxjuQlS1n3iUz0mhLmuqW6hl5tRPnCHnEgfYACioXVec2rQqA0nYktLT996wT+9FTriD2TBVtovekty7VkvcPPK+yvGf7iP+Vur/d1wtJrKEpIMF1KiTjaC2oD9eSBRRT3HOTOOc5zpsez9Ocj3S7stq5cjhQB8ZBIz/NFFNfzKMvgy16kTw/oSCdqUlXdBAPGe64KKKKXiG0xOp//Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Desert Rose</div>
+                    <div class="artist">Sting</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAEHAwQGAgX/xAArEAABAwMDAwMDBQAAAAAAAAABAgQRAAMFEiExE3GRFEFRBiKhIyQyYYH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AKhJjiPFRq7eK9AariQSQDA4n8V2OO+m8TbYt3OSyZ/XIHSRZUVI3EnaeJ3gk78CvDJrq4zV28U1dvFdQrCYVNs3VZVyFA6i39GudMxGuOf8581t5D6axNxk4cY3JEGwSDaXYWFq5g7xzG0kHbg0xHGgyfaO1KkjTcUkEmJHEfilRWzi3JZ5Rs4SjqG2sHTqifbn2q2XLp/lrDB61ZN7uq0puuwHKdRStSD9wIkfxiTEexqm1c1mbOr7WfT3FIJ+K1LiLMN3M9By7GOT0Ly03FfubZEiQUweZmCDtH9719Fs4fYoZfJvGdlF2+AFWlOwVEpKiSkDeN9okVT3WudfrdRXW1atc7z8zWRy6vuo9RdUsj5q9GMuUcl5lHLhVvpm4snTMx7c+9K1E80rCpUJ+PNRp7eaUoGnt5pp7eaUoJSIO8RSlKD/2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Bend and Break</div>
+                    <div class="artist">Keane</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwECBQP/xAAvEAABAgUCBQIEBwAAAAAAAAABAgMABAUREiExE0FRYXEGFBWBkdEiQkNSoaLB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAIFAwYB/8QAJxEAAgECBQEJAAAAAAAAAAAAAQIAAxEEBRIUUTEGFSEiMkFCgaH/2gAMAwEAAhEDEQA/AH6Xbml1J9spXwhjgMdLkdfMTDLrBI007Q4vU1SEkspus2Ce1za8eU7RAuX4aL256bx0IxykzlmyOoenWKoDJYKAse5C9tLY2+8alhfT+ImmhLE8lAQMQ2VHXXcCGGTpGLRCtr3EG9p/ExnyCuLarfUUOAu+0EOvwlOe3KCDfLE7hqczrsOIeXdp5pxOIN0EHTrodoi0qpsz81NSqk8N+XWUrQTc+Yr6n+mZenOD2M5UGVcih+xPbbWN3qXMSU+Jinzj7s9+sXnMv7cyOnyiWMExNtUqU87DC5TwljT4l5FlycfWEoSgJ27xwqBXW6nWXm2FZNrbzQn9toSfVJ9UVyVTKlDTTYtkUu6HqfMcuk0GsyynUzCFIbWLZS0yEK8XttYRomXeQlmAPEVu0Ch9KKSOZc7rqLjF9pGYxQVW1V9dfEEVc76bYnZpb0yZxla1Fw4vpIyPyghNkw95m2ei/p/YxOuutJUphorcIsFAi6fAPPvePFlS0fhTLu67k4/eCCKIAEgM5KBZIsq2tvFowrifkUkac08/rBBHszmEhwk8RSSOWII/2CCCCF5//9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Moments (feat. Adara)</div>
+                    <div class="artist">MitiS</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBQMGB//EAC0QAAEEAAMECQUAAAAAAAAAAAEAAgMRBAUSITFBcQYTIjJRUmGBoRQjYpGx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIREgQTMVFxkf/aAAwDAQACEQMRAD8A+E5Tl2Qz9FsXicbjjHmbXO0M1gFprsAM3vDjsLhWitt3srmWC6PYbUyPFTvc9v23xvbIGn8gP5fuvM2paC7ugk+gQtMtM1jZXiN5ewHsuI02OXBUCGxsNg8ktCcHRnV9VJq1dZs0Vu9bRc7RAdsLLHE4ukhbKeAcTXwtB2aQvjLJMBGD4xyPb8XXwsqkO02VhwTdnohqZwjgqrxGgcZh3OqTCh8dVpdK678Qd45KJp8vewiLL3sf5vqCR+iFn0p2jdaYE35dL4i0wjBuIvryu4e/FFUhFpHGTydi1Ie4CrNIipLoa3X3jfNC5x3uNc0RC2QiIhD/2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Ferrari</div>
+                    <div class="artist">James Hype &amp; Miggy Dela Rosa</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAIEAQMFB//EACUQAAICAgEEAgIDAAAAAAAAAAECAAMEESEFEjFBE1EGYTJxkf/EABsBAAICAwEAAAAAAAAAAAAAAAABAgQDBQYH/8QAHREAAgMAAwEBAAAAAAAAAAAAAAECAxESMUEhUf/aAAwDAQACEQMRAD8A86giZ1BE5g9JImRI/cmZgwAhqJkiIwN2o9yzThX2oWQKeNgdw2Zso6XmXXPStRFifyVuDDizE7YLtlKutrLAlas7HwFGzO71bpmGlFK9PD2OED2WjbckcLrwD7l78eqpwcW/qGbbTiNhM1JJO3tZgdgDx4+vE5nUOtfBlfFg2McftXXceeBrgjXHMsRrShsvSjZfKdvGvw4R4iZY7bfkH9xK+GyT1Ewx3xvcs4ufkYuzTYVJGt+xzuIi1roUoRksaKmeEyqq1PerjZZt7232PfgzVh1piFDUqsUXtHyDuH+HiIkubwSqh+G6657VRW7AqkkBUA1v+oiIm2TUUviP/9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Therefore I Am</div>
+                    <div class="artist">Billie Eilish</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
                   <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAMRAAAgEDAwEEBwkAAAAAAAAAAQIDAAQRBRIhMQYTMkEHIlFhgaGxFTNCQ1JTcZLR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAgEQACAgICAgMAAAAAAAAAAAAAAQIRAxITITFBBDJR/9oADAMBAAIRAxEAPwDho9lYTwxmaF3kVMsAQoPxJ5PuFMotN0ruy00EqJkhWDBj04yB7xS+wVhBHtLAbQeD500iEhBBkcg9Rk81Juq8G/wycn2ScMQbW7dAg2OsuQRxwwFUKWEePuk/qKU2K57TWMYZeY3O3zOWf/Kfdn9Sh1eS+SKMxm1maEhnBLY/EAOQP5oWw8MbdNme4sIltZm7pMhGPhHsop7e2+LC5OPyn+hopTki6ONpE9YMO4i5HhH0ppEygE5qHg1UxgLz6vHWtT64Y7aZ+m1D16ZxSbn+DovF32YNcls2uwbmSaFoI2YSROYz4ZDtDjp1FKfRc8ydtHuLaRHtUijt5QDnKtgAjHsbHzpJbX82pamBMDHaZZWVlyGyDgc+dUvowmttFguYyhS4kWF97HqrJnb8G3VRKbhja9mPhx8/yISTpWz2G/2/Z11j9l/oaKmJ9cSS1mTd4kZflRUW7Ok4UeLlTB38sMc8d73j4dUf9fl5Y21guRdFpZUjund+WzGwLHzoorTgzkM0U3RhZ9SmdRJb3TIMDGxug+FNRdainrLHdZ2hfAckDp5UUUV+hMcddps62t3qJv43Mc6K7+sNpwATz1ooopcqvwV4Ntfsz//Z" width="32" height="32" alt="" />
                   <div class="infos">
                     <div class="name">Only You (feat. Alexis Donn)</div>
                     <div class="artist">DEXTER KING</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBggDBf/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAxEABAUSIQYHMUETIlFhcTJCgQgUkbHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EABoRAAMBAQEBAAAAAAAAAAAAAAABEQIhMSL/2gAMAwEAAhEDEQA/AHAzAWlMKk+2389KlsPtz55RA31djEx8xUG1K3PHSFgGYHeKTfMrmNmcDdXeHFku3IVqbuiFEuD7dPQdjuNqjT1YhUnR8sXzDzrbTSyFq826ewE9/apjbgUYMaiSEpBkqA7+3+VlDhnjbJHOs3jltcu2IISrUiVNp9Qrv3MbCnbwPxk9nLhbLzZtkuOy29BKlJ1E7xt81Les+9FR+DKCNulFdW9KkJUlYWCNlA7H3orquklRsyrxXZAjVttS2/UOy8rAY19LIVbtPKDjndJI8o+DB/NMuxEuPgAABcbd6rPOXDuZXl9f+ClxbtpFylCD9Wn6pHfykmKQEFiLxWZ4ZdxFiy81feIlxKlbtkCep6j+qtnJm3v0cVDGotg2+YWpDrepKUxCjufSD6UtcFkXbHI27rOrVqAKE/cK1ZygxFmpm5zjOrx31FkpmQmIkj3IgfitpVQyfaXrFE/sWEqSpKw2kwUaYHYQNtukUV6EUVOflQX10pOQXkrW2WrG2KLy4WvZBcS2Ej1JPWl3xPkOYeRsbiztuHb5gOJKCu3CSlQ6EdZgjvRRVAKhHLXjUXIVb8MZFtWoQdAAn5JrQvJbE8SYK2vbTiDHqYt1rCmzrSdwInYmiiszDQKRRRRQJ//Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Elle me dit</div>
-                    <div class="artist">MIKA</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcDBgECBAUI/8QANhAAAgECBAMGAggHAAAAAAAAAQIDBBEABQYSByExCBMUQVFhItIYIyQ0QnFzsTJWdIGRlKH/xAAYAQEBAQEBAAAAAAAAAAAAAAAFAwcCBv/EACwRAAEDAwMCAgsAAAAAAAAAAAECAwQAESEFEjEGQbHBIjM1UWFxgZGh0fD/2gAMAwEAAhEDEQA/AHjxN14mhoKGV6BqzxTMoAk2bdoHsb9cUSPj4spYRacmcqCxC1F7AdT/AA9MZ7UH3HIf1Zf2XCwolbTebQVORZjSZhDU0ziTeNoRCAD3i87C9iPM2tb1JkSXUulKTYC1aBo2iwJGnoedRucVu7kA2PwwKa0PG+WfL6iui0zK1LTlVlkFULKSbD8OOL9IGH+X5P8AaHy4VUSTRZBWRRSViZTPKrSz+C+q3X+EBid1rgf46YnbL63UU9BlWX09LTwUdPu7xpQEYHm0u7qQSPTl0xEynzaxz8hSaen9KBJW36IJzuVgAd8837CvRfDLXi65grpUoGo/CsqkGTfuuD7D0wYo/ZkQpS6gQlSVmjW6m46N0PngwrFcK2gpXNeC1yK1EnOMsCyRa32FbdpaCWpp9OwU0byzSTSKiILliQvIDCYzHKa7JqStpK6Ew1IaF5EuDZCGPl77b+9sOTtOMyUen2RirCWUgg2INlwnoXy6lyBazxklRnE0pRqcqSixjqHv1v15e3pgmYAXlf3atB6aUtOmNWyCTi2b7r89hVmoHlk4G5mJGdlTNECBiSFG1enoL3xSZndcmpAWILPKBz6x/Dy/Ldf+98d1mdXUZOgy6pavSBo1k8Ilc3c7WG4Ara/n0/7jaOvq8hakzBoaOspMxptvcsgKKqtzjte4sbfnfnzviKyFWHuFjSkZC2tygAd6ioZ5uOPOmp2X/uOffqRfs2DGezG26k1AwAUGWM2A5Dk3TBhmF6hNZl1P7Ud+ngKvPEzQaa5goYnr2o/CszAiLfu3Ae49MUIdn+IcxqGS/wDSj5sGDHTkVpZ3KGahF12fDaDLDlkjtYeYqet4FNXVLVFZqWaWZgAztTAk2AA/F6DEB4ARGwOoZCByH2UfNgwY5MJg52+NXT1PqYAAd/Cf1V94ZaDXQ0FdEle1Z4pla5j2bbA+59cGDBi6EBtO1PFESZLkt0vPG6jya//Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">One</div>
-                    <div class="artist">Order of Era</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcIAv/EACsQAAEDAwQABgEFAQAAAAAAAAECAwQABREGEiExBxMiQVGBYRRxkaGisf/EABoBAAEFAQAAAAAAAAAAAAAAAAUBAgMEBgD/xAAjEQACAgEDBQADAAAAAAAAAAABAgADEQQSIQUTMUFRcbHR/9oADAMBAAIRAxEAPwDSVxkXG53GMFSYwSG223sp2qWQndtz8f8Ac1F13ebBpiSr9TMYjJLQaSOSVqPZwAfb65qr3V+W5fJqWJDgWhRS00hPGcZ5+c1htmgy7rqyNGvju1dxdWpLm9LmSCd3RwCCMYNG2RtO6kNnPqZCuyvXUuHTG32PP6nRVo1JYbhCdkW1xL6EcrKXyCnHuQRkD6pMzrWwOPJQ1eIanHDtSlK+STWWabT5Wo4zUdWwOrVHUR7hQKTkf3VMu1tcsurHYbKy8qLIAS4E4zgg5xUz6l6wDjPPMqU9NpvYqWIwMjxOo0SCFJ3E8D4opPHUpEjc5JdIUot+WpHGcZBB79j+KKIcHmAShBnlp1gapnB99SYT4Vl1tJKhgYKBz6SrrIB4qnajuWgNP3aIwyxIj3WPFCY8xlkuR2FHIBTlXqSMkkgHJ3Z5yKdXBl1uXLcZJQUqV1/Nc6wLj5E+Mqe2qbDZdU6YzjhCFE9/tk4z80J1rlNp+zVdJqW3eD4Hr7+Zt3hLYrVNTAuc28OvOsurU6WY6thwPSAVAEkk564x1zmoetbZpuXrFmExfHYsmbJbTIW/FJ2bj6ggjjI9I5wOeCeqNKeJLdznwrci0tRW3VpaSEO8IH4G0CqZ4iSvL16uTHWA9Fkg4J9wQRSWbeyCrZjqO4dYRYm3g4m4htUSWIiUyStIAy6BlSRnbgDn79/x1RTZb+XTJAJc27eR0PgUUVQMBMxa1ZcnxIUqOhElW5Jz0ofNIZmkdPTVoRJtkRPWSlvaf84ooriisBuGY4WPWxKMRJlv0RpOA+zIisNtvtLCkrSyokH5GVVDuejtOy7o9NlW5t59xe4uKUsFR9jjOPqiim9lAMYiNrLic7jn7k/2PFOEpOSc9fVFFFTytP/Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">21 Reasons (feat. Ella Henderson)</div>
-                    <div class="artist">Nathan Dawe</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAtEAABAwMBBgUEAwAAAAAAAAABAgMEAAURBhITITFBUQcUImGBMnGRoSNC0f/EABoBAAMAAwEAAAAAAAAAAAAAAAMEBQEGBwL/xAAhEQACAgIDAAIDAAAAAAAAAAABAwACBBEFEiETMRVBgf/aAAwDAQACEQMRAD8AcMQEuKwl0Y96aQIKo0tKVJ+odDwI71VbXfIReQklZUeWFYNXlwJdt0OXG2943IShaTzSk8Tn2x1rljMHJtsanQMl5oeu53vJgDOMUqfZcmTFQ4ZO0kZdWOOwO33pve7k3b7VIlEghCfT2JPAfukFnZbvkVuPNu7lviR1Bbqm053y1pSognPAjuc86PxPB2c0Fx1WT75F6DYGzOJVqgw0gPt5z/Ykn9jhRUV3b03bp/lrLOlPqcTiQ+69/GlOQQkYAyokfjPeir+Rxq13NVHYjuMbNWLM2DEekrvp7Tt0fTebUyqSpe8jylI3gCcD04PAYPUCtDF7j6nt8uQyFIZdUiOgoykgJyoq/YFecrTcX3JLbc3afbUoAKUSN3nhnFbV4evuSrQvZQlEVDhSykc1d1K+56dAK2tmMaJ6kDyKZOMo2+eu9mLfFuWqJpplKSQHZCU8OwBNRaHnMMWpcaVIZMmXsvAFQPApAx8EEU/8RNPLvemnUMgqkRzv20AZ2iBxH4z81it7ntPRLcGA6H4rQQvIwGyDjA6+/wA0fAwF2R0H3+4tVywzTDoSwaunRpUtyKwwrcx3Cj0KCAVDmSo8Piis/mzFv5Dzi1AqKufU8zRXq3FAHyOfl018A3/ZJaPNOOpCGyCD9Z41qyLmq26biG2zyzcmnQQ0jC0uJONoLT26550UUVlu1xU/UnPbemITvZmj266eZiNuKwlzA2055H/KrWotP2mUJMlMVCJLww4tJxtdeI5Z96KKifOxTzWh17MoAZQGwmO3vTyIry92v0g9TRRRWxUymEbMNXBTb0if/9k=" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Uranus</div>
-                    <div class="artist">PNL</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwECBAP/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMABBEFEiEGEzFBUWEHFSIygRQjQnGh4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIAEQMEEiExMkH/2gAMAwEAAhEDEQA/AJVe6K8B3Kd4z4Ck2oWMixlo0BJPOPKrF1SPa7AYxVafEdrxNGENjcrbTzSbN+7bxtY4B8vDFTJmYgk/JW2BVYAfZm1sY4hv7ri7z4bfp2/3612CApbOsI3NGfOoZ0Vp2p6ZdWvzPUP1CanEZUibJ7ZHIKknkbTz4fmrD01o3j3xNuVj93rSrDG7uNI2jbXEddOafJeQxu4WOMjHvRTbQiGCBQVC8CigOAMb6hDNQqc95cHsky4w2cVGb61t761dryKOcx5kSORcjcAcHFPLva8ZQ5Hvmks8JUP22IJHFY6GiBGq6tRMrL4h6rPa3On3tmDGpj2K4IyokTyH8eKc9CyXFvZWsjJNMSrRiPu4GfEHBOPbJHFeHVFtEdZ0qN40eIIqMhHBUqVqUaRAiwwlR+33cKfPZghf8qQk0BKaFSwNBguHtkdoTESobaWHB9PeitbXVsoqQqRswOfSinrqHAqRvp1JuKJ54hG2M5AyDScu4lDMyKjHb93rn8Dmiin6deyZuU1wJCdU0276l6gT5fIphtVCSPkgFhnKHzzUqsd1u8lvOGDx7dvGB/2iihoczmYkVH1hPtJ7I3Ov1Hiiiioc3uPx+Z//2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Liar</div>
-                    <div class="artist">Camila Cabello</div>
                     
                   </div>
                 </div>
@@ -2769,7 +2769,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.18822724161535 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.27310061601644 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#B59151" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#B59151" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#FFD576" cx="16.5" cy="2.057" r="1"/><circle stroke="#FFD576" cx="14.5" cy="12.057" r="1"/><circle stroke="#FFD576" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -3217,7 +3217,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 4.88m out of 70.7m repositories
+                      ranked 5.09m out of 60.8m repositories
                     </span>
                   
                   
@@ -3402,7 +3402,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 11 Jan 2024, 01:07:58 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 12 Jan 2024, 01:07:51 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
