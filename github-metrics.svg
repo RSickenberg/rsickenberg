@@ -1882,7 +1882,7 @@
   <section>
     <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/></svg>
-      22 Languages
+      25 Languages
     </h2>
   </section>
   
@@ -2066,29 +2066,46 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAMBAAAgECBQIEBAYDAAAAAAAAAQIDBBEABQYSIRMxB0FRYQgUgaEVIzJxkbEWIjP/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAf/EACARAAICAgIDAQEAAAAAAAAAAAECAAMEEhExEyFBUYH/2gAMAwEAAhEDEQA/AFD4J6apNRVmbfPQJMlPFGQHvxuaxIt52Bt74aFf4daZQzRvSFInVRAyFupckbiwtaw9Bzb3xUPhYzWgyjVmazZtO8dI9KsYj3DY8hkG0kHuRzb0ucaO1DX6bzOny6eiqItszmOI/pLsCC1r4r4d3CBCPUm5dvjJOx+epnPK9Jaen+co8wo2pZlV0inTqEh9/wDqTckEbLE8eeLDPobSSvK9HAxDMirHKW/LsDv54uSbefFjiLHT1k3iPLSAUzU8hkkUNNHuK82sl72t52xf6NKCmyOklqnUCRyDJbddrta/H39OcUMdUccy1h4lGQm4tI/omd/FvJsvyjNqH8Ii6dLPT7weRuO4i9iSRxbz9/bBhmfE9l9Dl+Q6dihkhGYC3Wi2fmhCp2ksOLX3cd+cGIGZqbTrB2VhG1U8gRdeFGYwZfTZ4ZVBldYek97MjKxa6+/Fvrhy/wCcrTR6dFNTLT09HAOihiDdSQgdRmubkG4I7c84zRkdW9PWqikBJSEb+h/eGCzGSEiapQ/JKIobycuN5PHqLcfthnFca8EdSfdUpfZpRqytqajVk1YzMKmSrL3FwQS/YemH5Dqakpsklg6lTJIqNHa4IUq36gRyePt38sJF6VBmDVokUlawR2vz2HP7X8/bFgZjGXgWdCstg7K1xxyefphjCsarYfpjtfHydfxy1DT6h6U8MRWRXiWRj3JEZB7d7m/PoBgxSNYnqQ0VQ0qtJKXDKO67QoFxgwhlMPIeRMy6mRKefJlyLZJTn8St/wBbt33g9r2ttuO3fFlXWGUpRmI5RBNKXDdZ1sVFwSoA4txb64MGOJaR0IJqwe5xGz6mNBNGKKJZXqesH8wN+638WH0xOfU9CZw65dAqAg7FFh53v9v4wYMErvdeoVHK9TjamzeDNZITTUiUwQG4U8EnBgwYWsc2MWMzsWPJn//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFBwIEAQMI/8QAMRAAAgEDAwEFBwMFAAAAAAAAAQIDAAQRBRIhMQYTMnGhByJBQlFhkRQzgRUWUnLR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABwRAQEAAgIDAAAAAAAAAAAAAAEAAhEDEiFBUf/aAAwDAQACEQMRAD8A80xxqi7iRnr/AKiiOMuwYjGeg+grNFEzA4AA6jPiP/K3VTHuLyx689KYIsnV0CM46HaOKO7rfMji2W3LkQb94TPG7GM+eK4jgaSREQZdmCjzJwPWu9Y+02ezLSgZ59TkXhB3UWfqfEfxx/NFPvZ/S1s7C3tF/bhUbz/k3U+tFKaCNVqDnj/TsNsFzG+er4I/IrMyoozbzSFmwGymPXNXHpOj2kskxawilVGCoPfZH4ySQTg4Jx8azPYCfXtQZ9Nj0m2CKB3AtwX+7cnJ/jpUdWc5ftT4V7iURLKZHAONvGR9sjOabOxGjyLqy32sXCiO1UFDLIMBug/AyfPFWDN7M9Rsoh/TdLsJrrbgzXE/dgeSLx6ioSX2e9sllWR7O23L4TbNCMeWcVgtlma0FNz9s+z+mLsa7eeRfkgjLc+fT1opZbsLrFuWkutCv5m8TNkSE/f3Tk0VVI4exrmlhjTZBCqxrxkKMfEKPVh+DSzFFcAxS2oMlxtd441fY0picpKit8r4Cup+u4HhjRRVBEzjonaqPuLQ6vKslhckLb6nswhbpsmA/bfPGfCT9OlS2oaNqf8ActreW968WmCIxz2pUMjtk4YHqp5+HBxzRRUZeJcHdINZt8rA+dFFFc3Vov/Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Leave (feat. Luma)
-Explicit content</div>
-                    <div class="artist">Dion Timmer</div>
+                    <div class="name">Here at Last</div>
+                    <div class="artist">William Black &amp; Rico &amp; Miella</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBggE/8QAMhAAAQIFAgQEAgsAAAAAAAAAAQIDAAQFBhEHIRITMUEiUWGBFBUXIyRiY3GhssHR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIB/8QAIREAAgICAQQDAAAAAAAAAAAAAQIAAwQRIQUSE1ExQWH/2gAMAwEAAhEDEQA/AL3XrhekKq7LodSlKQk4KQeozGNufVRugz9JlXpptT049wclKAVlGCMjcAeIpG/XfEJtU6g5L3vOISpWAhvofuCOddXKgtd2UieJUOSgDPfKXCf5iEvmsyWXuIHMrGhEoWzXqdiC8He7p9moYyNyl/PE6cJGT9XiII1ci3d0rPD+cPaDXFufEjxLKWioenrCS35aNy2443T6iuxL3JzwfWEhYJI8oIn1sXDzbhlWCpXC4EgBQx1gi3iZXlQlvkSNk45pbUwOskyG7/qCT1CGv2COcNUZnnVtlsbpQ3xe6if6i4a91NljUuqMKe5TgbZ3x+GkxDrrqsp83ljLyrM3wN+NL6VEFR7bEHHf3jlVfbeW1HbX3jKu/Uf0uvNs06VCwoqDSR4VegjU2/c0r9pbUlzjdbIbJxgHB6+XtvE1cytUuCzyXFpClJxgZPkPKNTRJIsrS6cjHfEYsRRzD1WudL9Sy2/UE/SBQWmEqCC40jc5yD39IIylnTj8xqTbi15AVOtJVgYBAO20EborXRMVzmJcA+o61z02u+49SqlUqLRnJqQdbZSh1LzaQopbAOxUD19In8pohfgm1PP0F8LySlfPa8IwdscffpBBDbIOYotp0Pye6b0gv1wSizQZt1LWxR8QzkDO+Mr/AMjW0fTS7kS/BMUN1lQ6HmtH9OKCCAvQrDmFXJcHYjq1dOrsp160afep4EozNIW8vmIBSnOScZ39oIII3XSFGhA33NY2zP/Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYFBwgCAwT/xAAyEAABAwMCAwUGBwEAAAAAAAABAgMEAAURBhIhMUEHExRxgSIyYZGhsRUjJCVCUVLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFAv/EACERAAIDAAICAgMAAAAAAAAAAAECAAMRBBIFISIxQWHh/9oADAMBAAIRAxEAPwDMjMhtKUBURhwp5lW/KvPCvtTFpPR101fcC3bYzbLeMqWSUtoHmSagLRH8Xc40c4/NcSjOcczirzvOo4cexogWZZjstIDe4ADaoc/dPL70t9xQgAfc1PH8FeQC7nAJDTOwm6R20/usEuH+JCgPQ44ikLVGjrtpSQ2bpEStk+6rJKFj0II+lWhoO+vLbWxOlrkut7u7XnI2kg8STyyD0zXo1DdzcFLhzUl5lTe1QSNwT0B/5XS3r+ZafEhq+yn3KHdkNqaKRFYQoj307sj5qx9KKlNW2CRYLl4eSgp3pDiM/wCTRSqwYaDMK2lq2KMPYnPQdlVqLUsa1tSmobrwWpD7oJSgoSV8h8E48zV5WouWq26e03FkW2f+LJcU05h+OEtPFQ3OpGAs5QoAHiB0xWbm1lCwpJwR1pm07FckrckkqORzAx5mjsTTuxKFNvwmgoDl3vjOy8Wa2219GYbcdCHArucApLhz7KARgK8xiuuPBbXIhuFiAVNICY6kKcWVtj2lZSTjmrbk8TSHpaEtSWWkJLwdWE4SDlQB+P3p81JZ48FyM8++1FgsoUtQSsZAGeJ/s+dTEAnpNWvxttIFq2Z+s/sqnt0miTqBhshIU02U7R0BOaKTNY3Ru632Q/G3eGBCGt3PaOAJ+NFV1VhFyZnMuNlpO7IKpiw3+XZ3B3Ox1rqy6ncg+nT0oopGGiTV2NW3ZfuPMbtduEVju4tvhMHBG5CSDSjqXV121Av9dIPddGkeyj5CiiiWpQdltvPvtXqzeouk5oooppBs/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Feel</div>
-                    <div class="artist">Robbie Williams</div>
+                    <div class="name">Call It Love</div>
+                    <div class="artist">Felix Jaehn &amp; Ray Dalton</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEBAAMAAAAAAAAAAAAAAAYHAwEFCP/EACkQAAIBBAICAQMEAwAAAAAAAAECAwAEBRESIQYxQRMUIgcVI3EyYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEBAAICAwAAAAAAAAAAAAAAAAERAjEhQXH/2gAMAwEAAhEDEQA/APqmlKkfLfJLvGXH2trauWbiRKiGVgp3shAO+xr3870aJFWqJLiGOaKGSVFll3wQnRbXvQ+dV2rO5sRmPI7d7q9hSG8URPClwCiMvJjxZR2DrifZIb311VB4haZewjltMmyNbwjULA8t7JOg3sgDQ7AP/KVnSkpSlMnis4yV1PnfJmiuZHjxNvKqx9Ki8SCpYsew5YMqgaPyAPdRvlWYy9p+ps1xFPepYW12v1GT6jIqAJv8QeLaHPrXWz81rPl2GbJYi5/blCZDiWjYNxDkjRDfB2u12fW+tVPMqiKezP8AClsyIz9KnOTZcAke9De/7167rsLhTefbqCSE5MwI0vY0Nb33/VRmOy2ZixV7A2PnkvIJAAJWMv096ABIBLHl+Q7P4kEnqunjGDykl+Mhm5bqKWHiIleVXZjo8tkbCqd/4g96B60BRZerelKVRMpz3jRl8pvLuawWT6lwr8vsZJuSAr7KsAQQW2Nb0oFVWIzOZmy8UF5Y7s3XRlW0lhKN+R2eRI49D52eX+u1KnHGMddtNwrKUpVMylKUB//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgCBwMEBQb/xAAsEAABAwIEBAUFAQAAAAAAAAABAgMEABEFEiExBgcTcQgyQUKRFCM3gcJR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQIRMf/aAAwDAQACEQMRAD8AXqPEQ6hKly2GgfacxV8AVuRsMaeWEsonSV2GiGg2m+26jt+q1YWJyYTK24qkozqCirICq4IIsTqNRUJOIzJN+vJdXcAEZtCOwq1I4yyI8txgMdAt6KQXOob76qGnxTKeG7XluLX0mPfzSvq1BpoPDb+Nu017+am/AtMXoo1tRWJkQoO21SQdCPWpEqJyAHW2ldAYF3sTbSmb8Nz7SeXpaW62HVTXSlsqAURZOw3NLpGLjqW2NV2WbN37XNv1V18nEx3sHgsy4+HuvLk9TrLcQXmkix0GUkCwv5gRfapvwsXmmQyoqSl1tS0+YBYJHcUVWUQ4Y+3JdRDwYiO2XHHWpDBzi4FlkAWCvW5I/wBorLAXDCsJnYrI6GHRXX3T6ITevaQeUHF0jK4qG2wnf7joB+BRRWlrTB470Hkbj2VDr+IwWFp9qcy1HXtarS4a4HRw5w7FhMOmS+y85IDikhNlKRawHcCiipmdJ0cS4YiyIkGImM0WW2PpHQRYFoqQVJ7HJRRRSD//2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Caramelo</div>
-                    <div class="artist">Ozuna</div>
+                    <div class="name">Là-bas</div>
+                    <div class="artist">Jean-Jacques Goldman &amp; Sirima</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBAf/xAAyEAABAwIEAgcHBQAAAAAAAAABAgMEABEFBhIhEzEUIiNBUWGRBxUycYHB0RZSU4Kh/8QAGgEAAgIDAAAAAAAAAAAAAAAAAgQBBQADBv/EACQRAAIBAwMDBQAAAAAAAAAAAAECAAMRIQQSIhMxcTJBUWHw/9oADAMBAAIRAxEAPwDjTccbd9akRk2udq35My3iOaOmriS4sWPDShTzshekWUbbAC5NgTbwFOkZLluYZE4igH5MplgvAkoZSUFa9Y7iEqb2P7TR7rRtCp7CR0hxDVxcEVjdcW4jq2sKeRMsyJ+NNwo6lhLyylt15ooBQLniW8NIvarKJ7PMMZfUiTjRL3EZSlSI50p1lRFyFbdmnWd7AfS8Gr8TeunZjzwJzNmNuC6SPK1FVGMZXESMmamUFRpEktRytJC3WwkK4hTc6R1ki3ffyoobEyRSU+kXEno0OUw5Zl1ab/xOc/TzqwyZiGIYTjC5apj7Tr1+IXElYdubnULgnfe4IN9xvUpFxFKFiyHD8lAfan8TF5rhRoSk22SFpB2+dJ1WqHEc0qUU5KbnxOjRsOcxORIcS0rt0aFOt3UbH4t1KKt+XPltWfGMqT9MdMp2TKhR9IS04spTpFrpAvYbbX8KxQcUzLDgiU0220wOSw2SgfajGfanj70BMN7oBSBYuBmyj/tV46xbiQJZPUBHIXH3EOYxMcnMaECPDjp4bLKesEC9yb2sST4ADkAAAKKRTM0THAUqcB/qPxRT69cjJEUFTRJgEj95ks0ysK7VQatz1c/T80/weRDasrpTSHUrAvJClADxCQCD9aKKc2gjM5xajL2Mp/1jJVFLPvZtSNXDKLK+G/xC4tbyqQxl5hawrjsuLVz4GoAfMEAelFFQEUe0Nq9QixMUFpbigGFB1R5JGyvTv+l6KKKy0DcZ/9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Inside the Lines (feat. Casso)</div>
+                    <div class="artist">Mike Perry</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">New York City</div>
+                    <div class="artist">Owl City</div>
                     
                   </div>
                 </div>
@@ -2098,24 +2115,6 @@ Explicit content</div>
                   <div class="infos">
                     <div class="name">Where Are You Now</div>
                     <div class="artist">Lost Frequencies &amp; Calum Scott</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCAwUHAQQI/8QALRAAAgEEAgAFAwIHAAAAAAAAAQIDAAQFERIhBjFBUWEHEyIycRUzQkSRobH/xAAYAQEBAAMAAAAAAAAAAAAAAAAGBQIDBP/EACARAAICAwEAAgMAAAAAAAAAAAECAAMEERIhBTEyQWH/2gAMAwEAAhEDEQA/AHqUR3do8J/qUqa0v4n+lU096GtHEiu3Wx2K2dZZSKO3SSRjtyFVQNsxPkAB2T8Cly/z2eyoefCNZY2wj/vLtwxJ1yA4jZB13rXkR33VF0rxwevB/ZEqstyGBTe4n2P0kyD3rQXkimIDZ0COXxTh4b+nkWEv0uucSKnYjjU9n0JJqVj4kzdxBaRXmRsIbsyhJpIYuXBQhaTls8Qw/Ee2216Vj8L42ziLI2cxjXFmjIrXNuAHVnP4gJv89gqegCOQ6o5kKX/Ftxdh2BfGGo53icdstFUzXUM8P3IpOSn40QfYg9g/BoqSUIMvIoI3PP8Akslm7bKWl61wjC3bnCpbShv296utLDMeIbVbs5MW8U9yLdUiUhFccQN66XojW/MLUriM3EX22XkD6GutbR5HBgG2tBNAZFdtDTEK6trfr+n18tn3pxkLV0GcbgX4+0EcHyWReBs1OFY5IfbZU4sZSem4Fd99fzP+1C6scx4bhS9XLtKYtbicsyaYkeW+xtRsfIql87lFxht7W2voZ2gELSK2taEa9a78o/8Adcucpl7dILq3McICqxG+TBewP81w2GkD6lhFX9emW+DcpnpMxczR3Rmjmbnc8v0k+/XQP7UUwY+BrO2SKGMRxj0FFS7OXbYEq0E1pokzC4m/R2XlokGtoYC5sZrdRIqE/NFFIXPVezAgHF2hGWP+ECAhrePZ+KweVFgeRijRR8CiijOSSWjTCUcxJzuSt7VDxIBooorZWg1M7LGDaE//2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Something Stupid</div>
-                    <div class="artist">Jonas Blue &amp; AWA</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAQGBwECAwj/xAAoEAACAgIBAwIGAwAAAAAAAAABAgADBBEFEiExIlEGBxMUMnFhgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSIjH/2gAMAwEAAhEDEQA/APnKIlXE4v3vKYeLsA33JX3/AJIE2a+k/wBN+nq6Tr9TrNy5vy4wsWkPlZbb14QeZqTlqExeTy6KtmuqxlXfnQMdpb8s3fFcLaRLERBzEt4RzVzOBYoPUl6MP6YSKUccbUzKrKAxsRwy9K79QPbsYa1YWXjTM/z/AI6ymZ16+6kgAjxNf597ZWbfe/52uWP7MyPmaCuXWxw2qe/190BHfY9/eY1kqVtbalT7a1OtOOiUolVyVbdvTyiInICcqSp2PMRAKbLqXRVYXkKNd3H+SWIhFYiIgh//2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Just for a Moment (feat. Iselin)</div>
-                    <div class="artist">Gryffin</div>
                     
                   </div>
                 </div>
@@ -2372,7 +2371,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.352941176470587 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.16504854368932 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                       
@@ -2385,7 +2384,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="267.7156862745098 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="268.31067961165047 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👍</text>
                       
@@ -2398,7 +2397,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.450980392156863 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.388349514563107 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👎</text>
                       
@@ -2411,7 +2410,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.029411764705884 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="28.74757281553398 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😄</text>
                       
@@ -2424,7 +2423,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.2254901960784315 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.1941747572815533 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😕</text>
                       
@@ -2449,7 +2448,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.2254901960784315 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.1941747572815533 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                       
@@ -2555,7 +2554,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.95208761122519 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.0369609856263 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#B59151" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#B59151" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#FFD576" cx="16.5" cy="2.057" r="1"/><circle stroke="#FFD576" cx="14.5" cy="12.057" r="1"/><circle stroke="#FFD576" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -3003,7 +3002,7 @@ Explicit content</div>
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.04m out of 64.5m repositories
+                      ranked 5.02m out of 69m repositories
                     </span>
                   
                   
@@ -3188,7 +3187,7 @@ Explicit content</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 20 Jan 2024, 01:07:54 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 21 Jan 2024, 01:08:37 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
