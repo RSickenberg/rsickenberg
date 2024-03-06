@@ -1718,9 +1718,9 @@
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2281,46 +2281,10 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAwEAABAwMDAwEGBgMAAAAAAAABAgMEAAURBhIhEzFBUQciIzJhgQgUFkJScZGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBQD/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQxEiEiQf/aAAwDAQACEQMRAD8A+d6eWW1InRlPEBRQVApUopB+XHIHbJP3KR5pJTfTyrrIlpt9mLhfkHAQg4z5PPgcZPjjmi+ik9j5enIBbK2Y8zBcVgOkhQTsSUHgYwSTnyBwMkcqL/a40GMlbSH23dyELQ523bSVYzzjOAMjtz64o7horVEOL1pDkXqdEPdAv4eKUkrHuHk4OVY9aiZM+VKZS0+8txCVbgCScHn/ALRn30xVpfhqUV7iimTLGDpBMrRa70zcEqkgKUmGhkk4ScKyvOBxziqn8PkZ6PrSXMMdrfDjguddWwNoX3UM+cCpmwaimo0y7YGlBtpxSnFOuK91tsDKuO+c+Kz0PfJtmuc+Yyh2XHebIkfE2rKBznJ8/wCam8eSk1or545aey09sKpLV7t12fhsQ1yHNyUsyur1kfyCe4479u9cleZEadIYOQpLhGT6VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPLivNspecbIaUdoXjgn6UUwvdyiybVb40aOEraB3uKUSo5x/qiqonSW+zPTsViXcB+byY7Y3KSP3egqoky0FkIhtNI3bm8YwkD+h9KKK08STWzI5NNXo0NMWtuNqWG+hZWpn421Pu/LnnPjmqT2nR4j+nbbIfcBuKVhLpJ+ZCgSMfUcfaiisvkSpzpI1OPTrE9nJFDbwe9FFFJnH//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgMFCAH/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEAAUREiEGEzFBUQdhFIGRobEVFyIy0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMCBQH/xAAfEQEAAgICAwEBAAAAAAAAAAABABECAwQhMUGBFJH/2gAMAwEAAhEDEQA/AHXyk15yUqOBgk1SonqTwzKUA3do4J7OZR+RUqd6hWO3xmnHrnG5bn9NGFk++wO1Yhydt04v8mx+XWliS8KtUXSSXSfbIrSSI7aVKBxkHFUD96eGxfv0sPLOVBIl8scnVjznPtnGKnXb1PsEQBDtxZc1dmU6/wADameRtaDFuGcbV2uRUsT8dG+32opd3Djjh69IKk3d+Pp20h0tfPGKKs27a7E+SHRr9U/Yi+IbjYZEhJsbcqCwE4Uh1ZeUpWTvnCcDHbFa+C8y9KQ38cUajspxGE/PxTIs/pjbI621XRb8g9SA4EJ+nX71cY9h4WhJJbtUJakef5H8VrXXqZQL4ZzfKCky3c7K1noO+e1W3iNyImM0ECFHKcFKY7ilrwQMhWfffc5HTpWliyHbpxXHecA5j0xB0pGMDUNgPYbU+Z1vtT7ZLrLuPCsGpxxxe2Vk5Hic/wA6ZFdKPhGnWCEgLy4VBRwMnfpvvRTilWe0srBZjujJxsE/5RS46gOmFltyvsJgdv4W3pamJWCMp0u5OPNYZl5mCK6pnl4CFZ1jUrp2IIoopAKkuTcUECQuLMYktKIcacSsH3BppO3edrB1xtJPVIOfrRRUaTzO7mqkSXd1FB5r7wX4BzRRRT1AWf/Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Oh Woman Oh Man</div>
-                    <div class="artist">London Grammar</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Make Me Move (feat. Karra)</div>
-                    <div class="artist">Culture Code</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRAAUSIRMxQVFxBiJhgZEUFTJCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9Gw1dsasqFZn4ztVzk2oTlsQHOjXXWClv0B9T9B3yiRj4jhydff0qMvqPR1BDx8JUU7tvvVH742eUKzmegNtR5D+pKUNyUdJ2Qoj5nOSkqJ9Ae/1zU6DrZ1TTgt5BaltqU280e6VA1+D39sC/LVd4ZUkO2e+GBUQaPge5xU5rPXizjGZC1tb0oJ/tQr8X/mS6vIU3pcpbCCtzYQACPufxnN3PiDWYS3Y0ONAcZaaKnyXVJ6SQOVA1SgAeas89sDo6ITL+lxwlIQppIO5PG/i1X6gm++LdS1I6RMjymYhUlxzpydn8loqkqHg5kZurazqM1uDNYgvBvn9PGeUDQNbimwFCx5581XOMNW1ecmVDbGnByG6ylRS/YXtKkp4o1YKh8pFjA37D6JLDbzStza0hSTXjDK2mPLMNBkNBlzm0g8e4F4YQlMvcCFHg8Zm5uhJkBwNzXUhwq3Badw5BB49iRfesMMqqqtBnlaz+7I2q3bqY5UCSSCq7qzdXX0y6jRl7lF3UpCtyUIIABG1JtI+YG6Pa+cMMB+xILTKG96lhIrco8n3wwwyD//Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Electric Glow (feat. Skyler Stonestreet)</div>
-                    <div class="artist">Tritonal</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QAKxAAAQMDAwIGAQUAAAAAAAAAAQIDBAAFEQYhMRIiQVFhcYGRIwcTJDJC/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMBBAUG/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACEQMSITEi/9oADAMBAAIRAxEAPwCoi6dbhqkPBsONvq/cBHKFePxTSzJaQ+UoAANOm0fxkk7gp86ibhIcgPOyWD+Jp7Dyc/1B4P3WJ1b2QnQU5cAZcTW20xx04UpQxzUg5Jejvkw1BbqO5IPgrwzUzrHWaYim2Y0lSpi1DpbRuRn0FXWjbOxPZbfckOLcyA52gHPO+1D0TFje9aiM0aNtL0vT1uflSZaH2HnVrCFYDpLhJ6/MUVeMRkMR0tNJCEJ2AFFWCzM6wWViBDIMQcgYrjGtrRfLne5zFrcDUFKUuSlrV0p6QrKRxnJI8K7pBSHIiBj/ADUjqDTUq5zpMZp9xhl1KFdTY3yCfih4hL6RimfqIf050tGXiS2yVvnvW+sbk+5q4021Mb1DKEp1bzRSAlRaUhOQfDJIPxWaXa77GtQj2xxUYhBAcZbSvJxgZyRjff3G+1bbWxdHNSQpEiUBGaiKS80kDvcJTuRv68H7qU99jL32rnyVhGxooJx7ZoqZViO0qBit4Oe0UzZIC+oY6h6UUVA57DfSaxMz+MNnJ57Tj74rJEihhx1wq6luHPGAB5CiimWVzYsOvye6lDFFFFLhT//Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">no tears left to cry</div>
-                    <div class="artist">Ariana Grande</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgGAv/EADIQAAEDAwIEBAQFBQAAAAAAAAECAwQABREGEgcTITEyQVFxFCJhgQgjQoKhUpGiwfH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAUG/8QAJxEAAQMDAwQBBQAAAAAAAAAAAQACAwQREgUhQRMiI3GxMUJRYdH/2gAMAwEAAhEDEQA/AGNqlE2PBjm3IS66loflOdPXt6n70obxqW5pU4mXLVEGdqk55eMeXqKf2pVCHDbcUAo7djbeejiznCR71nDizwv1AuSi8Xm7NPSZZ6IQhQYZH9CfMAA9/PvQVUee+RAT6TrFPpuXVhDjwTx8qKbrGuDqC5IjynUnKVcwFxJ+igdw+xqcxom36sCg0pr4tAA5UlJCtvYYdRhX0+YKpU3DQuoYJKhCU+gfrjq3/wADrXacItQTIV3aTJLvxUJ1PReQraflIOf90LMoe5rrt5Wyauj10OjYwMlsSC39cH2vGpOD023uL5ZfjBHcvJ57WfTmNDI/cgUVq6Nb+asqcQppA7qSrP8A00Vo4hceJpRsq/i7bJjtpt8+DdGrY1bpAlPqU1zOaB4UYyOhPfzx/ObuNvFaTrCHFtDEYx48dfMUQ2UFSvYkmtZ6rQq46VubbCHXXOSotttOFClKHUDcOo6+nXFZpc0xc3Yfx11YmuPNJ3OLSytewdepV9Ae5o5Gm12i6enjgdN53Yj82uknDu12MpvbKmO9erfOUN48x0Pp0pm8LmZOttcBSI620jYlZUsq5Sc5UM48I2nGe2cZqDcnLJZpDcddyUhCBtSFQlkkEgnJ3d8jNX/BuRp+TOl2Fd4fJca3MvBgthYSStYIUSPQ/tz7QyVPYcmkD0f4t2ljpIJWzRy32PHK1LdZzFsjkI2cxPhR5J+vvRSJ1LcoDERyZBvSZriVnYW0ZSoEqJ+YEg+M0VbFL1Bey5+rijD/ABSgj0QrHSf4jtNOpS1eYk+3Lz49ofR/dOFf411I436Tu02NaLI/JuEydubGGFIQ2NqiSorAz0HYA5oooquRzYHub9QD8KhkTcgFkvV16t91SsMRZEeQleAlzBwPMeoNW/DNhNmgXbWExRSxAaXEjISer0h1BSE+wCsmiihrSXRBp+4gH0TukhYI9guEYkvsDDLriAe4SogH7UUUVYjIB4X/2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">She Doesn't Mind</div>
-                    <div class="artist">Sean Paul</div>
+                    <div class="name">Dancing In The Moonlight (feat. NEIMY)</div>
+                    <div class="artist">Jubël</div>
                     
                   </div>
                 </div>
@@ -2330,6 +2294,42 @@
                   <div class="infos">
                     <div class="name">Searching for You (feat. Karra &amp; Eric Zayne)</div>
                     <div class="artist">Unlike Pluto</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBAYBAgf/xAAtEAACAQMDAwIFBAMAAAAAAAABAgMEBREABiEHEjETQQgUFSIyFlFhgSMlcf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQEBAAMAAAAAAAAAAAAAAAABESExQf/aAAwDAQACEQMRAD8AZbO6LWiu2xZp6i6UHzdbRxVHpSUEbyfcoJwe4E+fONX63oTboaugRaqkKzyNE3+rQBR2M2fy85TH96xk9TQUFgtdOppTfjSU9XBWOkgniX0lcBZAe3geFIxgYOTrdbJ3mNzXnbghrSs9VHUGqTuYkSCJsNySBgkgYA0svazC2p+Ge11FRLL+oqqLvbPpxUiKi/wBngapUXw022olq0O5K4CGb0lxTJ9w7VOfP7tq1Y942yw7uNIlW9LIIGjqCzHFRMGADvl25wG9gT/Y03vHUqz1VBJTTzvSmrqfVcc4dVVQUyCCMsuDyMDzqZThjt5/D1btvbUu93i3BWzyUNK9QsTwIA5UZwSDxo1xuXdjJ01vPylXP6NWZYY4JpmaP0G+3CK2cEHJz3H+OONGtSVNiXbexLdvjZVNc6a8qKiG3xUlRH2YNOVUZyCeDgfkeCDxpF08orDad528WndlPLMkzw5eMqO51KjDYGRnABBxk6msdXeLttysh29bVqo/pNJS1Yjq3BlKr+KqCO5sZ4HgcYxnWdtNfb7ZaJqT6NT0lWcqr1Ct8zyn2nPn8+cYA/7qo9G3/sOi+uwXC4Xyks88IXt71SNXbOe5g3kk+dYazWqgl3jBtm6XITenI8lJI4V4JWkUM2SvPPtg441L1cju9yutqud4trz0CxqBJE5ZZCcOwkwSUYg8jjHtxqSese5Weittgs0Xygd2WrSGTtWMIAwUnJBIDA45zk6Drf8AY8jbPrXpNyU9yobbG7Rxo6N2KoJIUr4z+2jSiZrZtOkvlFLZyK+aCWnimLNgLIox9je4Hv50aBtsfrJbNp2KS30u1mYyxIk0iVXZ3uqdrP8AiSCefHjJ1BF1Ts8lzM8O2cTyqU9etuDSlcqQD3MMqBnPHuNGjUUzvnWO33q0U1HWWVwsEfb/AILm0RfwCD2oMjjGP21HZ+stJaaKjpksFK1NDK7rHFVdpXvQKfKccDk++dGjRPWe3h1AoNwJXyvaStVUKwy9ezohIxlU7QM6NGjQf//Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Eté 90</div>
+                    <div class="artist">Therapie TAXI</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAH/xAAvEAACAQMDAgUCBQUAAAAAAAABAgMEBREAEiEGMQcTQVFhFCIIFSMycSRSgZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQH/xAAiEQABBAEEAgMAAAAAAAAAAAABAAIDEQQFEiExE1EyQcH/2gAMAwEAAhEDEQA/AOi7xcLjR3CXyIRNSrRtIqCIktNuAVdwOADntj5zphJerwtEjfRATrTkzYidlWVZVRioByy7dzgDkgDB1apI0ljKSKGU9wdR5ttDUQgRLGVRsAj7gCOMfGDow4fYXKKgWvl1+ho3KLGJJJFNR9FLJvCkeX+kDuXfzyT6fI16b7eI7ld1logKOllhELiFi0kbOokZcE7sLvPAGCBwRphL1PaBfprXAkslzpCUSMxbWYrjAU4ORgHk/wBvzp5Q3WxSpAaeHzGNQYmBXYYMKzFm9gADz8j40yqF0guzVp7Yrrcqy6Qw1sQhjNBHPIppnXErdwHJ24A7juMj50albJcLbcKTNoqYJ6eI+XmFtwUj0/nRpTjyjCS6lvMFhtE9dVZ2Ip28cFsEgE+mcYydc8x9QXZ7rdJUusdvpLmY53joqssFfGXAJGUbdxnsQO/bWh+PMt3orbT1FppZa9akinemdswJjc3mOvr/AI9sHvrBkej31qutVWQRwsUkhJiKNwA7AZwoJ7H41Ti4seUHBxII9KbLyJ8cDxAEO7tXzr7r+uk6tsdvsjLPVwUTTwVIXdJO5HJ4B5ARsg8HvpKk6vt5elnjpUql2iCphqZcQqWyzTGP9rfcoyCeAc4OANS/TfTljS22SvslzqZZqgK004wkjyrIeOclCCdvB5HuDqp1dVb6ejr4XmSiMSMYoI4jh3Lcpx+3ueTrOydVEe7FiaSRxfS1NO0Z2W8ZD3V7Hd3+LafCus/M6+61Ud/p6lo9kM9powpp6JsZUo4HJI7kEqT/ABo1WfwxU1MLJeaqCkWFjUiHzlyPMUDcAfQ7S5574OPTRoo62CkGUwxyuYa49LYrnQ09zoZqSsjEkEylWU+2qJa/CDpy2JcVpnuH9dSSUcheYNhHxkj7e/A50aNObI5nxNWpyAe1I9DeHVo6Phnio5KisjkcSKKzY/lMPVCFGM8f6GmfU3hN0x1Dc3rqqGpgnkO6UU0uxZD6kjB5+RjRo0t9PO5wslOimki5YSFbun7LQdP2uG3WmnWno4h9ka/9JPck+50aNGi6SySTZX//2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Telling the World (From the Motion Picture Rio)</div>
+                    <div class="artist">Taio Cruz</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EAC8QAAEDAwMCAwcFAQAAAAAAAAECAwQABREGEiExQQcycRMUIlFhgaEjQlKRweH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgMEBQH/xAAgEQABBAMAAgMAAAAAAAAAAAABAAIDEQQSIQUxYYHB/9oADAMBAAIRAxEAPwBL6b07O1Le27bbW9zy0klSlYS0kdVKPYAU1YfhDp9Mdth+8y5lwU4lChG2pCc9SEkEqGPSuPwelNW3T2rJbSUmcG2m20qPJR8RI+5AplaQkxGIBkym0e+3dBS8pJO7bjBAI8opZXG+LPzZpWPOppoSE1voN/T8Nm5wZCptmeX7NL6myhbS/wCLiex44PQ1k4qmozq/eIzclGMbVLUADnrlJ57jrXrvU1sau/hzf7fb2S6XGglAKslToIKeSfnXnzWWi4WkbBFM+UqTfJSsJaYV+i0kcqJJGVHkDjAzzzTRP2FH2rGHlNnY3Y9KyD0mG9GcbatsaM4rBDwddUU4PQAkjn0oqFxooynYUlPUKPf0oqXWld1pXGmL+5Yrop9LXtYzo2Px9xAUnrwexB5B5pj26/2tKo64l5QzGcSTtlRyp0KzynY3nPPckZpNbznnOcfir3RTLUjUUZMhaG2kZcUtZASAO5JpnakWpp8aKVp3F8TSkaqu0Zx5iG8lbBVuSS0U57ZxnjisJ4gTpU963uzCnd7JSRgYHmP/ACtHP1dpyG6ptsPzVjqtpICT6En/ACstq7UVovNtQiLFlMym3NyCsgpwRhQJB+g/qnBaKoLC8bjStmEhi1b9c/VnloyoISnJVg+XHJ7UVxrkL2pGfLwDk9Pl6UUFb5YrO1SLMiGBcUuqfClbSlvIA7dxnvUpkWIMPNuIeQ8CUpKWe2cZ5VkHHb50UVWtOR8rklizJjqMWXNce/albKUj7kHj81WhQJV8Q2/U0UU4cUC1GME8A0UUV20L/9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Steal the Moon</div>
+                    <div class="artist">DubVision</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQB/8QAMhAAAgEDAgUBBgQHAAAAAAAAAQIDBAURAAYSEyExQWEHFBUiUYFCcaGxFiMycpHB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHBEBAQACAwEBAAAAAAAAAAAAAQACEQMhQTFR/9oADAMBAAIRAxEAPwCN7UFt5zy19U0FUs6NCeHIABy2evn8vHrq7bU3Pbai0xQVdSY5gSAWjZS65PUDt+uoptqnstYkEdwqI6Ofj4uYzFg32C9D+Zxqs7ev+0pnpLLTtUVfFmNpWLj5VBLHwAT6DVmLpSap0N2y7YtN8iWpp7kOFHbqyZVn7AZbGT6anW4bLZ7ZWypUVXvVYc8MUfVfPfGfTyNaOt3laIrVRi3qot3vklOlPGSJIozw/MQT1H069T50i9oc22/izLZFaGCKNDwIh/nP+LiOen20nDictvyecphoe7I334ZxxJQFkqM8LR5wB075+v8A3TRp/svbNBft1ua0kULAyrGrYLfQEjsNGjON9heY8JDQWumqI443Mp65xxY76s/s/wBi2KOinqOW61KwvwTPITy2ZSCwHbONS20z0qsrGhPFgD5Z3/3nVBSsrKixGns1RLRyyI0bq+HVwwIxnGR9tatH5ZFf2l21uX/Eluoq2VZLa9anNQjAcKTgn/P186bbz92uO5ahreqrFEvKIxhVK+fv++snNBLSSyFgwmppuFwPwnPT9QdVqwyUosTVAtcUNJK3MVYIi5ceGZj3PoO2g30kb9G5vZ3JVW2KIxvSpXCkciGQ/wBSluhJXzo15Re5UFvvNzWomWpqUWlSORAjR+fkBOcaNSlnbVTSqUzE4wB3U6pG1hHFw8aMD/aRo0ad5Jys1RbNrbhd9yzXKEJHWIwhZVwpfiyGwOvTH76d+ze2XOhtFRQ3VGRInPJXh7A9T189dGjSwiV1Lt02WmapaZqYPL2DlcnRo0apCLF6v//Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Complicated</div>
+                    <div class="artist">Avril Lavigne</div>
                     
                   </div>
                 </div>
@@ -2769,7 +2769,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.50924024640656 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.59411362080769 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#B59151" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#B59151" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#FFD576" cx="16.5" cy="2.057" r="1"/><circle stroke="#FFD576" cx="14.5" cy="12.057" r="1"/><circle stroke="#FFD576" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -2912,7 +2912,7 @@
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 2.47m out of 131m users
+                      ranked 2.48m out of 131m users
                     </span>
                   
                   
@@ -3217,7 +3217,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.17m out of 88.3m repositories
+                      ranked 5.17m out of 104m repositories
                     </span>
                   
                   
@@ -3402,7 +3402,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 5 Mar 2024, 01:07:36 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 6 Mar 2024, 01:07:50 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
