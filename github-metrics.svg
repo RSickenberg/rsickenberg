@@ -1706,17 +1706,17 @@
                 
                   <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1758,7 +1758,7 @@
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            673 Commits
+            674 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -2019,7 +2019,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 85 commits)</small>
+        <small class="h-details">(computed from last 72 commits)</small>
       
     </h2>
     
@@ -2112,8 +2112,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">14</span>
-                  <div class="bar" style="height: 36.84210526315789px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                  <span class="value">1</span>
+                  <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   10
                 </div>
               
@@ -2232,8 +2232,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">19</span>
-                    <div class="bar" style="height: 25.675675675675674px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <span class="value">6</span>
+                    <div class="bar" style="height: 8.108108108108109px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                     Thu
                   </div>
                 
@@ -2281,57 +2281,56 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCAwUHAQQI/8QALRAAAgEEAgAFAwIHAAAAAAAAAQIDAAQFERIhBjFBUWEHEyIycRUzQkSRobH/xAAYAQEBAAMAAAAAAAAAAAAAAAAGBQIDBP/EACARAAICAwEAAgMAAAAAAAAAAAECAAMEERIhBTEyQWH/2gAMAwEAAhEDEQA/AHqUR3do8J/qUqa0v4n+lU096GtHEiu3Wx2K2dZZSKO3SSRjtyFVQNsxPkAB2T8Cly/z2eyoefCNZY2wj/vLtwxJ1yA4jZB13rXkR33VF0rxwevB/ZEqstyGBTe4n2P0kyD3rQXkimIDZ0COXxTh4b+nkWEv0uucSKnYjjU9n0JJqVj4kzdxBaRXmRsIbsyhJpIYuXBQhaTls8Qw/Ee2216Vj8L42ziLI2cxjXFmjIrXNuAHVnP4gJv89gqegCOQ6o5kKX/Ftxdh2BfGGo53icdstFUzXUM8P3IpOSn40QfYg9g/BoqSUIMvIoI3PP8Akslm7bKWl61wjC3bnCpbShv296utLDMeIbVbs5MW8U9yLdUiUhFccQN66XojW/MLUriM3EX22XkD6GutbR5HBgG2tBNAZFdtDTEK6trfr+n18tn3pxkLV0GcbgX4+0EcHyWReBs1OFY5IfbZU4sZSem4Fd99fzP+1C6scx4bhS9XLtKYtbicsyaYkeW+xtRsfIql87lFxht7W2voZ2gELSK2taEa9a78o/8Adcucpl7dILq3McICqxG+TBewP81w2GkD6lhFX9emW+DcpnpMxczR3Rmjmbnc8v0k+/XQP7UUwY+BrO2SKGMRxj0FFS7OXbYEq0E1pokzC4m/R2XlokGtoYC5sZrdRIqE/NFFIXPVezAgHF2hGWP+ECAhrePZ+KweVFgeRijRR8CiijOSSWjTCUcxJzuSt7VDxIBooorZWg1M7LGDaE//2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Cool for the Summer
+                    <div class="name">Something Stupid</div>
+                    <div class="artist">Jonas Blue &amp; AWA</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEBAAMAAAAAAAAAAAAAAAYHAwEFCP/EACkQAAIBBAICAQMEAwAAAAAAAAECAwAEBRESIQYxQRMUIgcVI3EyYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGxEBAAICAwAAAAAAAAAAAAAAAAERAjEhQXH/2gAMAwEAAhEDEQA/APqmlKkfLfJLvGXH2trauWbiRKiGVgp3shAO+xr3870aJFWqJLiGOaKGSVFll3wQnRbXvQ+dV2rO5sRmPI7d7q9hSG8URPClwCiMvJjxZR2DrifZIb311VB4haZewjltMmyNbwjULA8t7JOg3sgDQ7AP/KVnSkpSlMnis4yV1PnfJmiuZHjxNvKqx9Ki8SCpYsew5YMqgaPyAPdRvlWYy9p+ps1xFPepYW12v1GT6jIqAJv8QeLaHPrXWz81rPl2GbJYi5/blCZDiWjYNxDkjRDfB2u12fW+tVPMqiKezP8AClsyIz9KnOTZcAke9De/7167rsLhTefbqCSE5MwI0vY0Nb33/VRmOy2ZixV7A2PnkvIJAAJWMv096ABIBLHl+Q7P4kEnqunjGDykl+Mhm5bqKWHiIleVXZjo8tkbCqd/4g96B60BRZerelKVRMpz3jRl8pvLuawWT6lwr8vsZJuSAr7KsAQQW2Nb0oFVWIzOZmy8UF5Y7s3XRlW0lhKN+R2eRI49D52eX+u1KnHGMddtNwrKUpVMylKUB//Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Caramelo</div>
+                    <div class="artist">Ozuna</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEEBQYHAwL/xAArEAABAwMDAgUEAwAAAAAAAAABAgMRAAQFBhIhMVEHEyIyQRQzYXFCkbH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQABf/EACARAAEDBQEAAwAAAAAAAAAAAAEAAgMEERIhMUETQtH/2gAMAwEAAhEDEQA/AMc0bh0ZBYQUyeK0DVGjmMVj8e6pAHnKUnkdgKgvCODkY4PA/wBrXfGFlTmL00w0n1PXK0ekT/EVC+sxrRD5b8QPpcqXP3awHI4llCyUACo8WDajHFXPO4nGs+eUZQPNpUE7gB1+R161W2bZZyX0pWkLSrlS/bA5kntFUy1TMiGniGnpHmIOKjcpi2re3ZW1cNuqcSVKQkEFs9jIif1NFPczeIvbh58MMsbz9thO1CeI4HxRSmTG20p92mysfg0oKzO2R7R1/da745Xr2MxGlbu3jzmr5e3iZ9AkVgOgMunEXjt2pJXsQNqJiTPf4qT1br/M6mu2PrXUotrZRUzbtiEoMcnuTx1JrlyUkrq/5vqBZdUTsEDWdO9KZ1ZqhCnFsosmG1B4qWjbCyogD44P4ppoTUasff5p64BCbyxctitDAcUiekTx8RJqsXWRbfCV3KFuOI9hB5HbntSYjKrsVLBaQtLkTPB/uqJosg6w2gicMA08TC5fXsCZ46UV3zSGYTcMrb2uyfLTMo/c0VTGSW6CS+IX6oayug0y4gj3/mujTyZJooql4QtaASlLwiZ6ECvS7gTNFFBiEYKc2rtu4y6XlHcPaImiiisNaCzhcr//2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Talking to You (feat. Rynn)</div>
+                    <div class="artist">R3HAB</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUCAf/EADIQAAIBAwIEAwUIAwAAAAAAAAECAwAEEQUhBhIiURNBcWGCkcHRFDEyM1RicoGSoeH/xAAaAQACAwEBAAAAAAAAAAAAAAAEBgACAwUB/8QAIhEAAgICAQQDAQAAAAAAAAAAAQIAAwQRIQUTIjESQVFS/9oADAMBAAIRAxEAPwDXRkCnmQse+cUM0ZHShB/ln5VR1K6lthb+EQA3NzdIPbuKgF/cEDDg+4v0pu0fYiKtexrc1EKg9alh7DiuuaLH5Tf5/wDKxNWvrmHS5JIJXN6kkbRxpGp8RebqB27GnTgy+s9XvjY3+nQW74zC3Lu+N8MTsduwH3UFdmLUTsHiHUdNazWmHMxXZCo5UKt35s/KimnjGwtrO3jNvDGhMgHSuNsGit8W9civ5rBM3FfFtNbHcQddyRajG3X8qqRLnAGa1L6PxHtF2yzMN/dpntOFDHqMSyMsltszSDbbzHrV7MhKV8jNsbFsvPgPyKsen3F0qLCjZwx5lUswHngDcn0q/pfDN1PaG9ZLmHkbqSY9RHkWXJ5SfIHBp+STS+Hy9zNcWltZJ0808vKR/Z+tLl1xVapLLacK6PcahFKqGQ28TJDtgAmQ7t32+PnS/ZmMzllHEY0w0RArnmV767ml0tLa7mMtxCytk/i5CGC5+BoqlNptzard32q3EU2q3kieIsIxHEihgiL7Bk7+f+6K6vTyGq2B9xe6uGXI034JCsjpsrsPSpft13+pn9PEP1ooo0op9ic9LHHAOp413csCGuJTnu5oF5dKuFuZgvYOaKKnbXXqTv2f0ZxLPLKMSSu4/cSaKKKsFA4AnhJbljP/2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Money For Nothing (Remastered 1996)</div>
+                    <div class="artist">Dire Straits</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBgcBAgMI/8QALhAAAQMDAwMCBAcBAAAAAAAAAQACAwQFEQYSIRMxYUFRFCJxwSMyQlKBkaGi/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQCBQD/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRAxIEITFB/9oADAMBAAIRAxEAPwCZ9RIrzdqWz2upuFfJspoG73nufAA9STwtet5TNrG2P1Bp+ptkc4h6+0OdjPAIOP8AFyoyV9nWlGl0b6O1pa9WQTPtrpGSQn8SGYBrwPQ8EghSAyeV580/EdEXKa4QPZNMJH0/SJOHxg4cfpkcE+qvCmrWVNNDPHnpysa9ufYjIS5Y6drxg4p72n6h0fPF0tvTO/8Adu+yE2Om8oRbDaDVcLmyjpnSvPPZrc/mK42i7iugBOGzN4c37jwq+uF/ZWSCSbexvZrccBYpbrHHIHQTbHOBaCe3PHuvKBtsjVzqXw1jKSY/PVviikfJ+gbiSf8ArKuWqrorZQsa0cRtEcbO2cDAVF6glhrNSj4VhFNAWNbG704Cm1TdI3bW5kDWDDWuOSB5J7nyqMytIk412yf01xZVQNkjd37jPY+yFXlLfo6WTc1x2nhzcIU7g/hUpEJdcnu9v7WfjHFvytH1yhCp1QCk2IqutjbcWSR07A8kbiTkHgYKcorrJvHUDMeGoQtzVpWHB6t0KoK+KV7h1Qwd+Yxn+OUIQgcUURm6P//Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">DIE
 Explicit content</div>
-                    <div class="artist">Demi Lovato</div>
+                    <div class="artist">Gazo</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgMBB//EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUhMQYSB0FRcRMUIjKBoRVhkRb/xAAYAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EAB8RAAICAgIDAQAAAAAAAAAAAAABAgMRMQQhEhMyUf/aAAwDAQACEQMRAD8Agatps+nuzSJmIHHeOKWtpRnkVsvEIra9O3M5BwJkz7b1ntFjimsYXVEdWXOcc119vCMs44PYpV7dyKWvtStbBC88oyeFG7H2FVr1Yra0lkaNRhTjYA5x5ZqH4baada1m51C4SO4+WACK6ZXuJOD2jnAH+1S2z1omqvzeDnbdQWVxJHGTLC8n2iVCAT6Z4/dFfTerLS3vtBa2urSKZ3BBUMF7T5FSw5/r90UK5Evw0PipPZG8Vwv/ABk4zhnmGPxUToSKNunrQtyF9fervidMlv0/FLNEsyR3Hc0bcPuNt6OlNVsbnRYXi0e3t1ZdgpH087cYp45Ug5pMndURltBulgRHft4Y+Wd/1Vbw7urL5ITWMS2UcsSQssgAHxVyCRvvyOd6rW9quoQfBj0lZUcYZ32H+42pnTujdNg0I6VJEzwJM0n1Me7u9QRuKDkvLQ1CaeRfqK7/AIzSrqWdhMHyg+IQMu3248gM0VnesehJLiF00+a5nYOrLFNMWwnBC59xzRQxjlF7LWmL+LDs3TzZyF78/utp4XdNDTelLB9QiVruSMSdrDPYDuB74NFFaLW0+gq1l9m2KfThcD8UnIpVySdz/VFFBPtDrZxMPfIXHOPT80UUVav5Ils//9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUGBwgBAgP/xAAqEAACAQMDBAECBwAAAAAAAAABAgMABREEIUEGEjFREwciJCUyQ2GBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAIBAwQF/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAwQFERJBISMxUf/aAAwDAQACEQMRAD8AzpB+upDbnK4+4/7Udj2YU8tzq08CnO7CtlfiCZzcObBf2as6jjRPoJpFRR3pp42zzkb1le8zfIWPNacvFyWb6ZroCo7BpAQ2fPBGKy1cWXtwCc75qYdhsxFc97xZdYTIdR0Ync7miuN5ooyTq+aZ2tvxcJ9Gl8UUk00cUKNJK7BVRRksx2AA5Oad6Xp+/LrBELPcROP2zp3Dc8YzwaLDcER1nZwwlm6vqfNgXSFz2/Hiqh1rAyvj2ak8tmv7RyK1t1ncmA6/C2VJxgEY2zkUnl6cvryMos9wZh5A07HHHqnQoTHWsdEzBmay53bsxEeaK9OjRuyOCrqSCCNweaKkc+kc0mm1Ec0EjRzRMHR0O6sDkEH3mpPZequonnSBr3cTGSR2mdj588/zRRRu8AzbH82KJbkkdzSyvr45tQskiZeRdQwZiFwCTyce6qC69T39NS35xru5dsiU5wOM+tzt43Ps0UU9N9mmixvvIzz7CV1C6sfAZGZpXmmeWZ2eR2Ls5OSxJySf7oooqTrE/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Nevermind</div>
-                    <div class="artist">Dennis Lloyd</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEAQII/8QAIBAAAwACAwACAwAAAAAAAAAAAAECESEDBDESE0FCYf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A9F5yttiolK8oYvDE0YZazino1vQunnQCbSdZA4vM08+AairZsVXJxt0vtUud1hrKFxTyNml+fDKE3XGpafardY1S01nXhy+xwrlSrklePbKHe2L/AGTwAnvciTWGtgS96m+XYFwXJOaaaeQ+XoABqfmQqtABUQdnFP8AoAAI/9k=" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Σ. MOROSE
-Explicit content</div>
-                    <div class="artist">Damso</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EADEQAAIBAgQEBAUDBQAAAAAAAAECAwQRAAUSIQYTMUEUIkKBMlFxofAHFWFTYnLB8f/EABoBAAMAAwEAAAAAAAAAAAAAAAIDBAABBQb/xAAiEQACAgIBAwUAAAAAAAAAAAABAgARAyFRBAUSMTJBYXH/2gAMAwEAAhEDEQA/AMLq8unh1eRioA6/43wyUORrLCHhgRFFrsbeXuN/pi9qKaAqVsl9vhU/0z+fbBRZhBFCIEUyzvEjNEhI1EbdO5vfEbKZ71cKI9niTOB8yNCKryI7aguoxgn4WPUsPz7seY8VS0rT1QikkZUUEWKD4j1KOQOvfCdV070U837jRrRPOomjiIjfy2YAgnb09sVldERTRVymGSJpGi0aEksV3udJG2/89MYAVFTa5cbIGHzO2fVIzCJqjlKDLqbYSMPUerbHr+b4MU5mLKRZU2ICrqUdD6TtgwF8x42J0zHNnSqZbhioHU39FsN/B2S8R5jlllyyt8Ikok2sm/YgN1sDcX2OE+r4eeF+fW5jHTaTddwWv9OuJWXCLwmhc/ngViQV1Oob2Ujb2wQKt7pJ1GPqDpaH6Zq2ZcPU2dwZbLWUs/JijJDk6E0g2AYmxF7367YWONKbhtMizCOgeHmQKGbwxMoEgNtJLbfO4uTv7YraKCorwKODNo6mGGIKqszaVH0J397jE+o/T2urTMFnp5airY8u7EqFB1HqOm3bbDCykUBIsXb8mPZbQ+9TM6SZSoGobg+ojsex/wBYMPVZ+k3EkAZoKeF/7Yphb2BwYSVbidTG3itWIlVKvMS88q6j3LXP23x6pqKfNpaakpIl5ijTr+EMb3uSe9sGDBekCvNhc0DgjhjL482WB6jxkkacydyjcmM7FQrdGP8A3GpVtPQV0MMBrKzL2RtQlpGCM5+Ra24/j7YMGGpqMKBgRLPJg9BTyas1qMwckBTUhQVX5eUAHvva+DBgw0GSnEtz/9k=" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Sweet but Psycho</div>
-                    <div class="artist">Ava Max</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcGCAQFAgMJ/8QAMhAAAQMDAwIDBgUFAAAAAAAAAQIDEQAEBQYSITFBBwgTFBUiI1JxJDI0UWFigaHh8P/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQD/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIRIQMxQf/aAAwDAQACEQMRAD8Aq+22Vq4qZaF0hZ5hNzfZvIe78XbKShTiUbluLPRKB+9RzGthSpMxTy8t2EZy+p30ZOXsdZgP+goSgudiR3/1QzXXKnjxN9udxofCXOnnG8Po/Nup2BSMgpSQtf8AUUHt3gGkVn8UvF37jMqU3J2lQg/Yjsa9Ly/aotAsKQGeggcfaBVQ/NRg7Ow1NaXlk2htF62VqgRuUDB7fahiOL73J1mPNVeQDNFbN9hKWgoxyKKtR1d2HXtCuAYHSrLeAei8TqbQTzzWQu7W/uropulMrBgtOSElJEQpCk8EEd6q7a7myoSQqmb5ctUXGmvEu3S3bPXjWRbVbuMtfm+oKAPBI29O4o5E8X5XWVhrReMOHLT3sez0wriAI/7tFITzB6MwmnvDbb7TdPXNo9+EVcOjcpx51JUkBIAgJSowAAKcata6XSj1jmE+1T+lG71930+lG+f4iqleYjV72qfEdTDtm7ZMYxsMIafjeSqFFSgDAPI47CidZdJZXbnyNp60Vj3a/i29aKpTWn11b6etGUgFL1w0pK/ibI9U8ykn9p/wK2mlNY4vSGo7bNt42yvH2HFKQg/JOwgp+AgRIHSZndz/AAUV109LTx5027Y+8bjD3bTe8J3oLayJEyeQRzI6dppHeIOoMTrrV68xj8e3YqcBTcpUkOOO7TCXDI+nsOen9iiiAWrYCcdiW2ru7tiwtaHt2yExsAPSQeDwYEGZ7UUUVtl//9k=" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Let Me Go (feat. Chad Kroeger)</div>
-                    <div class="artist">Avril Lavigne</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBAECB//EACwQAAEDBAEDAgYCAwAAAAAAAAECAwQABREhEhMxQQYiFFFhcYHBBzIjkaH/xAAaAQABBQEAAAAAAAAAAAAAAAAFAAECAwQG/8QAJREAAgICAgECBwAAAAAAAAAAAQIAAwQREiExEzIiNEFRYXHR/9oADAMBAAIRAxEAPwCsk3aPH+JRPuY/w45e/p8ScYBOdaP6rrCuUe6IZcU47GbedUzFcUTxeSkD37+pxnzURHisFqzomRum9HcKX0uI54UtYKckjCs+7Z1nFVl8cZnX6NPcuKYkRuP8PHwDteSVEII8Y19KobN2dL5m1MFRov7dTR6WkqvRfQtSmmkuKDC3FqytCTjkcDA3/wAp8lmDAUpTkyMFL8IayVfs0XC8xINqdMJ5pTraAri2QdA7UQOw0akodylXPrziw2QR1GCyCUlK/arIP9SCATvXfzUWy3QfEe4y4S2EcRoRyL9AckoC2kohvEpYkcePNQxkEHGP9/eik7oi3b1XGEqTxix0qEhsoyg8sD2kZ3nHbYHeiktuQRuJ6qEOjEfqOQ06/HejNympk5xTKQ2FcHDyBBKSda32zWu326POjybfeHgtht9KEONuBQ57JIJB1XB+Fdn9aQVB+GstuLSMdYgb5Y0dazTWyWGNLU+nkBCKg+kA4OVAKyMfKhzpysKr7hCotIxyPofERTGGE/ER2XQyOfwrjSN82lHIKfIH08Uvt9wtFnZuLdqnS5ymW1pDCkqKer/VKE477341W+0dOdd7imClTjzb/Jka9x5HGPx+Kx/x56Uft/qGV148pMpS1NrSnaUFQOV/LOD37VZWoI23ejKbWdOh1GP8JJ60x5mVgpLyFb7a3gD8UVW+m02O0MzHrFHffUwlKi8vSncq4jGcDZyewGqKMWWbMDGvuRtxaS1PlHpKQ28vrJQU6cKsnX2IJzsU3scJ6Y0JKuQQk9PmCOKU/LxvPjFFFALGPrmdGvyo/H9ja3ptNiTKm2thfWedDPN9W1HuSlIGtH816LC4mK2UZIV7uWO4OP1RRW/EcsNGDM1Ao5DzJ5FvZt82fbGUpRHeT1WsJAIx3BPkYIP2oooqVRJ3+5nvOuJ+4n//2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Never Going Home</div>
-                    <div class="artist">Kungs</div>
+                    <div class="name">Whatever It Takes</div>
+                    <div class="artist">Imagine Dragons</div>
                     
                   </div>
                 </div>
@@ -2377,7 +2376,7 @@ Explicit content</div>
                   
                   <div class="name">
                     <span>blocklistproject/Lists</span>
-                    <span>starred 15 days ago</span>
+                    <span>starred 16 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2424,7 +2423,7 @@ Explicit content</div>
                   
                   <div class="name">
                     <span>JVital2013/pihole-router</span>
-                    <span>starred 15 days ago</span>
+                    <span>starred 16 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2761,7 +2760,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.25462012320331 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.33949349760438 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#B59151" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#B59151" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#FFD576" cx="16.5" cy="2.057" r="1"/><circle stroke="#FFD576" cx="14.5" cy="12.057" r="1"/><circle stroke="#FFD576" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -3007,7 +3006,7 @@ Explicit content</div>
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 458k out of 133m users
+                      ranked 459k out of 133m users
                     </span>
                   
                   
@@ -3209,7 +3208,7 @@ Explicit content</div>
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 5.19m out of 80.6m repositories
+                      ranked 5.19m out of 82m repositories
                     </span>
                   
                   
@@ -3427,7 +3426,7 @@ Explicit content</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 30 Mar 2024, 01:07:35 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 31 Mar 2024, 01:09:01 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
