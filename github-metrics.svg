@@ -1710,25 +1710,25 @@
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1882,7 +1882,7 @@
   <section>
     <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/></svg>
-      22 Languages
+      25 Languages
     </h2>
   </section>
   
@@ -2281,28 +2281,10 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDCAL/xAAxEAACAQMDAQUGBgMAAAAAAAABAgMABBEFEiEGBxMxYXEUIkFRkaEVMkNigbHB4fH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAP/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIEAxESQSEjMoH/2gAMAwEAAhEDEQA/AJ5pnSIkE8L86z0zdakl4Zrdo2C3MAk7xsDYW5APmRWmVgqe94YqQ7P1t7+8uYruVYrZXR5GI5IUscDHh607n0sbYJW85EX0fGlHtB1AwWAs1/WRpGP7Vxx9T9qYr69EOlzXcG2YLGXXnIb6VQVp1rqfVuq3PtUCKlum07fdCAt4euOSfKi68OU030J2Jag9HmWYFmBkDjAYOPjkUUv2+sW11PKCWRWYlc/L4UUz4CUn2Nt1a2xt4t3fd40YJ2+HP8VMdm2kWt5NqSpcSxQTMsXAJZiF55xgeNL8lzcKoVZnVAuAA3FWN2NyM+h3wJc4um5Y5ycf6qWzyjjb2UVXFz1oYdQs0tNDewtsrlNoAP39a581DRZenoNRsoH2/iMwbOSWCDxB8s5rojWyVJfI4/LVKdZXnt/UJ2AI0UQRj55J/wA1PTTcim29QFrS9ItlQNKCZAMYzxRUjpySLIzF155PFFJNaDObfZISRswGMYx86s/sls2t9EupnOTNOceg/wC0UVLdfq/SmkvYT/VG9LNZIlDNuC4IJ/qqP6h3HqW9Jj7sNsHPxG0DNFFYUfoquLcDTbxtGW3Yx60UUUkwpI//2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDCP/EADIQAAIBAwMCBAQDCQAAAAAAAAECAwQFEQAGEiExBxMicRVRYYEUQZEjMjNCQ1JygsH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhEDEhRBIVGh/9oADAMBAAIRAxEAPwDzpt22/FbpFStKsCMGLSHrxAHy9+mtxYfD0VNja4VVc0UonMKxCPI/yyTq28OLHbZL5TJIhDSgZAPpU5/U69I3Ww2q07Qqfwq0zMYyytKejMQQB099AI+3bMguFBBAlkp6CQsqGdqzzJZHBIeMx47gDlyHT8s647j8Nls5qapagPCi+iIL6uXQDP0IOdVUNdcob+lba6xkrolISPP8IscHy8ggn3zpt+HfiDR7k8iw7noFFxqSY0qUKlJCM45D+U9O3UHI0AtbHMLFE9VzVKyRSF6dEGMY7dO+jWz8RLZYqK5iIO6jAYcQOJz2P6/bRoBHbWvEyzrxbD8hxDIGXP1+empftx7lksFvpoxTywScZv2UHFjxIB9QbJ7gY4jGlTs/b81fUo8hZIVYM7ZwEHfvrRblrFtdTEKWpEsRhqGBjzlQQoUHPTv11RxbfhnVizY4walG30Uq1F4p615IYC1Uxb+iSUJ7n7al7eqrlFWrcHC8o3582iwAR0z+Wo1HumsaGXyaSCoaTrJ5mMK39wAAwfbUv4lV27bBkqPKDOSxUooLM2QvYff/AF01fsciN3ovp23huK5NVGWqlpHSVQFEA6Ajv986NLOqmdpCWYn76NSlXZjPIpO0khs1VeKW1rT1U0VPO7NzWPqUB7dv+5+us3fnRbfTvSNyUxhORbJz5hJJz3/c9ho0asZlVtWhFVeYTMGNKhDyBWAZwCPSCQQD76nb7qoWipFp45UiSoqI/W2eYBXiflnGe3bRo0BjajiUDISQSR16Y0aNGgP/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">In My Dreams</div>
-                    <div class="artist">Menino</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcGCAQFAgMJ/8QAMhAAAQMDAwIDBgUFAAAAAAAAAQIDEQAEBQYSITFBBwgTFBUiI1JxJDI0UWFigaHh8P/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQD/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIRIQMxQf/aAAwDAQACEQMRAD8Aq+22Vq4qZaF0hZ5hNzfZvIe78XbKShTiUbluLPRKB+9RzGthSpMxTy8t2EZy+p30ZOXsdZgP+goSgudiR3/1QzXXKnjxN9udxofCXOnnG8Po/Nup2BSMgpSQtf8AUUHt3gGkVn8UvF37jMqU3J2lQg/Yjsa9Ly/aotAsKQGeggcfaBVQ/NRg7Ow1NaXlk2htF62VqgRuUDB7fahiOL73J1mPNVeQDNFbN9hKWgoxyKKtR1d2HXtCuAYHSrLeAei8TqbQTzzWQu7W/uropulMrBgtOSElJEQpCk8EEd6q7a7myoSQqmb5ctUXGmvEu3S3bPXjWRbVbuMtfm+oKAPBI29O4o5E8X5XWVhrReMOHLT3sez0wriAI/7tFITzB6MwmnvDbb7TdPXNo9+EVcOjcpx51JUkBIAgJSowAAKcata6XSj1jmE+1T+lG71930+lG+f4iqleYjV72qfEdTDtm7ZMYxsMIafjeSqFFSgDAPI47CidZdJZXbnyNp60Vj3a/i29aKpTWn11b6etGUgFL1w0pK/ibI9U8ykn9p/wK2mlNY4vSGo7bNt42yvH2HFKQg/JOwgp+AgRIHSZndz/AAUV109LTx5027Y+8bjD3bTe8J3oLayJEyeQRzI6dppHeIOoMTrrV68xj8e3YqcBTcpUkOOO7TCXDI+nsOen9iiiAWrYCcdiW2ru7tiwtaHt2yExsAPSQeDwYEGZ7UUUVtl//9k=" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Let Me Go (feat. Chad Kroeger)</div>
-                    <div class="artist">Avril Lavigne</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcBAgQFBgMI/8QALBAAAQMDAgQGAQUAAAAAAAAAAQACAwQFERIhBgcxQRMUIjJRYSOBkaGxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAHBEAAwEAAwEBAAAAAAAAAAAAAAECEQMhMRJB/9oADAMBAAIRAxEAPwD5Ybo07g5+iqejI2d+6tWxtlufVskeB6WYRS3pC1SlazXHGduiLavtzmn2rDrKZ0BGQQCi5aBNqvDFRESjlVLPIu22y6y3aC7y+FE2FkjXBudw7H+qJl2nLbiSmsFwmNZE2SKZug5Gcbg5xkZOQOuyeHjJc0/UYTPV8C8PSnNHcYng9i1wP9KJebVnhs9wpIKaSORjoQ7Uw5HuP19LupOLaLxamSGutTKWSfzDGsbIJGH4btkDBcMbYz9KPOaHFDOJ7uKlgGGjSMNA2znfHckk/qqW3nZl4Yyk+zhkRFA3m0oqe2PpmPrKyaOTXh0ccWr07dDnr1+VgTBjZniF7nRgnS4jBI7bIib8AvS3WflWk5KIlCe/4/Ke4eLqxp09vnP8YREROP/Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">3am (feat. Julia Viktoria)</div>
-                    <div class="artist">Landis</div>
+                    <div class="name">Club Can't Handle Me (feat. David Guetta)</div>
+                    <div class="artist">Flo Rida</div>
                     
                   </div>
                 </div>
@@ -2317,20 +2299,37 @@
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAQGBwECAwj/xAAoEAACAgIBAwIGAwAAAAAAAAABAgADBBEFEiExIlEGBxMUMnFhgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSIjH/2gAMAwEAAhEDEQA/APnKIlXE4v3vKYeLsA33JX3/AJIE2a+k/wBN+nq6Tr9TrNy5vy4wsWkPlZbb14QeZqTlqExeTy6KtmuqxlXfnQMdpb8s3fFcLaRLERBzEt4RzVzOBYoPUl6MP6YSKUccbUzKrKAxsRwy9K79QPbsYa1YWXjTM/z/AI6ymZ16+6kgAjxNf597ZWbfe/52uWP7MyPmaCuXWxw2qe/190BHfY9/eY1kqVtbalT7a1OtOOiUolVyVbdvTyiInICcqSp2PMRAKbLqXRVYXkKNd3H+SWIhFYiIgh//2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAQFBgcIAgP/xAAxEAABAwMCAwYGAQUAAAAAAAABAgMEAAUREiEGEzEHQVFhcZEUFSMyUoEIIrHB8PH/xAAaAQACAgMAAAAAAAAAAAAAAAADBQQGAAEC/8QAIBEAAgICAgMBAQAAAAAAAAAAAQIAAwQREiEFMUEjkf/aAAwDAQACEQMRAD8AeXuOrFbrk/BlyHUSWVBK08onfyNOcvje3XDgqdIsUhfxK1JihakFBbUoZJ9qWWCCxPcU4/CZUvVv9MEHzydzTN2wy7fBatUFrlMupeLikNoCQpWCBnHhuazLvBHDch+Jxg7h9ep12fzBaI7bcOc4oylBt5laMnVp1FwKIznfvyMDFSW/8QwGIDDtyUpsuqUgAIzun08qgNkvbrFut65KVKXlMUoSBsTtnOc/7mprwPy7paZsd8IeLby9GpIUUgHG2e7NLEsZLAQY+y6EdCXGwIyJvFsbnuQmlr5wXpKdG2onHX90UoTHRDlvFxCMayvmaRt/minlTsV7Mp17YytpVP8AY9NtKVw1NipfLPOb0F1P3JTjfHmapntLmrt85j5qg6y02I7Z3Ucd588Df1q5GlJkJjDJCUHC092T9qvfb91XP8irK7L4PbucdIKre+lb3joV/TkehI/VKaEOQxsf58lpFwwuNCDo/Yvcl2yLwE3PYlRn3vhA4gc0AqcIACc/kCenWvPsvvnylbbTanHAnWl1Shk92fXx9Kz6qLqYXLSjU1oDn0zgJPiR4+QrSfYvYSjgW13V7U5Mlcx8E4zgnSkeyB70S3BGujDWZwrTbDcmd4joeYMlrSptzc6T0NFeC0pt8eQpTh5SzhtnOyfyI8s0V1TllF4su9fYjy/F12PzVuO+9GNdgmpwhL/XGAT/AGNIO1/h+88ScGvQrFKjBTikqW04opW6lO+gHpnODv1xRRQ8n8XDp7kzxbG9ONnevUz3wvY5dzluWEqERacplGQMFrQcqz/2tO9mUG32S0McMQb4mY9FbU84yvHNQlSsnYfanJ2FFFausZ3Ck9ajNlVay2uxOOLwRJCRnGkjr6UUUVIoUBdCVzLJawkmf//Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Just for a Moment (feat. Iselin)</div>
-                    <div class="artist">Gryffin</div>
+                    <div class="name">Loba</div>
+                    <div class="artist">Shakira</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAYHBQMECP/EAC0QAAEDAwMCBQIHAAAAAAAAAAECAwQABREGEiETMSJBUWGhBxQVMnGBkrHR/8QAGgEAAgIDAAAAAAAAAAAAAAAAAwQBBQACBv/EACARAAICAgEFAQAAAAAAAAAAAAABAgMREiEEMTJBUWH/2gAMAwEAAhEDEQA/ANXSkFptNv2pALjIWr3OTVEcl2iFH3TZ8NhKR4uo6kY+anGkZKnHGAsjDSQhPHlXHqmP+A6bvC2rVEfmLdCWJG0OKZQoElwpPmADz6iptxnkWgvgywNd6fdVKM9bcaM07025AXvQ6OPFwMgf5WpizXwKFpuMSUvGdjToKv496lWidTw2/p3KdL7DyWlhLbaow3Z3FCEZJPJO1WSO1WewWS2tXv7yLaosZ7oJUp1lISN2MK8OOMkjt3xQ9sMfgtWv0Qr7Yuluyn4op01cW0tq4FFEUmWSrgS/Sb4S4nmnvUdtg3axJdmLLamsJCw6WxgngKORkZ9akljndNxJBp+kSG7vpa429xAd6rCtqCe6hyn5AolkNlg56qaXBoFqyRbI1DcXZW2Fr6CnmAlI8Pi2lwHI/sU/WYxY9o6sJ4PMveJDgVuG3yAPp3rzxYdYWtOnGoYtjTqGgQpv7fPOPzZIxn3zVKsmrrdK0rENscZCGmw2tttQPTUO4496BXTrLI4pKKTOzq6V1EvYUMoSVH9KKR7ldkynJXUXjDKlJ588iim1BEPqW+xP4Ugtkc81rTr07GsFwUy4UOdBQSrPYkYzRRWMrfZGHnJLYSwiUXG3OyUuHH7g07fTl9y2ruLZeCkrQgkJ7ZyfmiitYcjMvDI0tTEKMsuKwVMqCfdWRRRRRQKZ/9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAgEDAgUDBAIDAAAAAAAAAQIDAAQRBRIGEyExQRQiYVFxgZEVoTLB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADESExBBITQf/aAAwDAQACEQMRAD8A8126K8QYMN3kYp/oFpHc3sUNxIIoXJDSHpt6Hr+6Q2oy46DJ+ao9Ph2orFgM9MZzU9zYJZ46+0urXS9BiTatxEW3d+c5BHX46dPv4+1JdYsFN3Klq55I/wAcHcO3189a0WdqzN7V9mAen0rddmCwtxJcHYp6L1zmua1utglnzwcmQ95psyKMMMj4oqjeaC9gMtsyuoOG8EH5FFMPIZRhmCgMS8HaTaajYXcN1G/OHu9igOR4wT2/FYLHntJshUEbsKpPX8/NOeHdTn0sP6K609GZSrFoS7MPOSRWmBYv5u3nnki5nMXcIYtg++O3emf2BYn9iIgKqAMzudg4O4Z9Bpkr3QDTSxBQOgKuR2ye4z+qg+NxBo/Glj6oSzafFs56RJld+csOvgjB+avbDiBEsI1kD8qKRWGfr/yuO8UcQXWoarc3U0iCF5jhWIZlXsFI+O1cymh/oSeY9xzviPuLbSxstZmu9H9P6C5iRtkTDCt56f3RSK/4jtHtOYli0jIwjJ3gA/gf6oqlKbCOoZNY/ciPR30pN/qonk9oxucgZ89qZ6dqlkusJLDaQxooDsCWYZH1yaKKvKg7snVyAMlHq3HpmtjbpLZW6t3225z/AGTXKLu6JuJWGHy5O4jv+KKK3UijqB5VjcQe9nkQI0gVfgUUUU3qJMbGPJM//9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Let Them Know
-Explicit content</div>
-                    <div class="artist">Mabel</div>
+                    <div class="name">Shyer</div>
+                    <div class="artist">London Grammar</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBggE/8QAMhAAAQIFAgQEAgsAAAAAAAAAAQIDAAQFBhEHIRITMUEiUWGBFBUXIyRiY3GhssHR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIB/8QAIREAAgICAQQDAAAAAAAAAAAAAQIAAwQRIQUSE1ExQWH/2gAMAwEAAhEDEQA/AL3XrhekKq7LodSlKQk4KQeozGNufVRugz9JlXpptT049wclKAVlGCMjcAeIpG/XfEJtU6g5L3vOISpWAhvofuCOddXKgtd2UieJUOSgDPfKXCf5iEvmsyWXuIHMrGhEoWzXqdiC8He7p9moYyNyl/PE6cJGT9XiII1ci3d0rPD+cPaDXFufEjxLKWioenrCS35aNy2443T6iuxL3JzwfWEhYJI8oIn1sXDzbhlWCpXC4EgBQx1gi3iZXlQlvkSNk45pbUwOskyG7/qCT1CGv2COcNUZnnVtlsbpQ3xe6if6i4a91NljUuqMKe5TgbZ3x+GkxDrrqsp83ljLyrM3wN+NL6VEFR7bEHHf3jlVfbeW1HbX3jKu/Uf0uvNs06VCwoqDSR4VegjU2/c0r9pbUlzjdbIbJxgHB6+XtvE1cytUuCzyXFpClJxgZPkPKNTRJIsrS6cjHfEYsRRzD1WudL9Sy2/UE/SBQWmEqCC40jc5yD39IIylnTj8xqTbi15AVOtJVgYBAO20EborXRMVzmJcA+o61z02u+49SqlUqLRnJqQdbZSh1LzaQopbAOxUD19In8pohfgm1PP0F8LySlfPa8IwdscffpBBDbIOYotp0Pye6b0gv1wSizQZt1LWxR8QzkDO+Mr/AMjW0fTS7kS/BMUN1lQ6HmtH9OKCCAvQrDmFXJcHYjq1dOrsp160afep4EozNIW8vmIBSnOScZ39oIII3XSFGhA33NY2zP/Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Feel</div>
+                    <div class="artist">Robbie Williams</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcBAgQFBgMI/8QALBAAAQMDAgQGAQUAAAAAAAAAAQACAwQFERIhBgcxQRMUIjJRYSOBkaGxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAHBEAAwEAAwEBAAAAAAAAAAAAAAECEQMhMRJB/9oADAMBAAIRAxEAPwD5Ybo07g5+iqejI2d+6tWxtlufVskeB6WYRS3pC1SlazXHGduiLavtzmn2rDrKZ0BGQQCi5aBNqvDFRESjlVLPIu22y6y3aC7y+FE2FkjXBudw7H+qJl2nLbiSmsFwmNZE2SKZug5Gcbg5xkZOQOuyeHjJc0/UYTPV8C8PSnNHcYng9i1wP9KJebVnhs9wpIKaSORjoQ7Uw5HuP19LupOLaLxamSGutTKWSfzDGsbIJGH4btkDBcMbYz9KPOaHFDOJ7uKlgGGjSMNA2znfHckk/qqW3nZl4Yyk+zhkRFA3m0oqe2PpmPrKyaOTXh0ccWr07dDnr1+VgTBjZniF7nRgnS4jBI7bIib8AvS3WflWk5KIlCe/4/Ke4eLqxp09vnP8YREROP/Z" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">3am (feat. Julia Viktoria)</div>
+                    <div class="artist">Landis</div>
                     
                   </div>
                 </div>
@@ -2376,7 +2375,7 @@ Explicit content</div>
                   
                   <div class="name">
                     <span>spatie/holidays</span>
-                    <span>starred 3 days ago</span>
+                    <span>starred 4 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2491,7 +2490,7 @@ Explicit content</div>
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    8.86k
+                    8.87k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -2770,7 +2769,7 @@ Explicit content</div>
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.3579739904175 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.44284736481863 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#B59151" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#B59151" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#FFD576" cx="16.5" cy="2.057" r="1"/><circle stroke="#FFD576" cx="14.5" cy="12.057" r="1"/><circle stroke="#FFD576" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -3403,7 +3402,7 @@ Explicit content</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 13 Jul 2024, 02:09:31 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 14 Jul 2024, 02:09:12 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
