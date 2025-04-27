@@ -1706,11 +1706,11 @@
                 
                   <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1720,15 +1720,15 @@
                 
                   <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1774,7 +1774,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            332 issue comments
+            333 issue comments
           </div>
         </section>
       
@@ -2133,14 +2133,14 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value">2</span>
+                  <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   15
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   16
                 </div>
               
@@ -2223,8 +2223,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">3</span>
-                    <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <span class="value">2</span>
+                    <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                     Thu
                   </div>
                 
@@ -2235,8 +2235,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">1</span>
-                    <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <span class="value">2</span>
+                    <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                     Sat
                   </div>
                 
@@ -2272,28 +2272,38 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBA//EAC4QAAEDAgUCBgIBBQAAAAAAAAECAwQFEQAGEiExExQHIjJBQlEVYRYjJTOBkv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAjEQACAgEEAAcAAAAAAAAAAAAAAQIRMQMEEiEUIjJBUWGx/9oADAMBAAIRAxEAPwBszK/IuootZIT4dwUgRa00bX0p0oCnd0nclJskb4kTnY1ZSI2eFiPkCDZNGqrS9JfIslGpQvqugKPpG6cJYqmXoHYUBaZ/hdFSVVNRP9VtQJcWATZw2OhXlH6w7cp9liPOjflPDGMyl2JS456spKiAQoBJ6igFKUd1cHjE2CvoMot4OSZEufNj1DOyG4mY2VH+KBvyolK5QVAEgjV0/UU+rHOvNFQkyFpaT4iFr+/Mn/E3T9tRTY6NWgNekk3J/ePZql1h4oXWojtWMxJcy042gByitbBK3QdJBTrZJA1nyH63XvpkR33qXUZJNZpiBKnZgSNqy2N+ySvYqJBCdNz6OMFVoy0TGae1mWC/kZiQ8zDrLaKtT3t3ExYCCnpM6SQoHbjgX5vfBiI9TalXo72XKA8mJmN1KKu3ILha7WA5siKFpGoaSR5QAnbBjaf0ZoQ0wR6vNk0/Jrhy9ApjhNUhPmzc/wA1tPJB2QpJubWUMT4dWfm3rVGador7ae3h5ReSE9+R80AgEer4p5b5xSp+ZaBUJbNBzHIMjLtMQFRZsS/XfWEgAq5HBN7AbjnAM/mpInTa1EkS65H1NUSpNIDQhp3sTuAo3IPBOFo9ZCQcr8uT0zHm7OIqUmI/NaiFlTbrkBtGpTJHm6SlAXFvfexB5xfJiXafHjRmmY0yiIkIcoURgkrYqKx1A66bizWpSuSRZQ2xl1T/AC1diQ1R44fkqRaVUnLNKfPuVb3VYbEkewtho9JkQXvxWW5T8isTWCw8/qsXdQA0j6FwLfVhgfiKlXyUpbdz0reUXiBJmlzo5bn9AUiQmr1SqhenuI7iip9hJSm5CFBY03+P3gwgoVQFWQ/HddNFy9QV9Sow1FxLrzLwtJQsA3PnBPHy9jbBhpSJTNKplJoNNQOxo1MYI+QjpUr/AKUCcZv4kV5vMzLEmLBlPUujyFByWkgIKlaRpSn6vpN8GDE2EnLIfa+rl7ozp6tPCS62zoQxuroOXGrYgXKSCSOeef1ixUfKVfy9X6XKqkJ/tnnmFiWhJUiy9JFz7Hfg23wYMMRgqHdfUl+m4+KfhhHzhCVKo6kRcytMFGu+lMxu1ihz7P0T/vbgwYMONEjkz//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHAwQFAf/EADEQAAIBAwMCAwYFBQAAAAAAAAECAwQFEQAGIRIxE0FRBxQiYXGRFSRSgaEjMkJisf/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQMB/8QAIREAAgIBBQADAQAAAAAAAAAAAQIAAxIEBRExURMUIUH/2gAMAwEAAhEDEQA/AM6a/wBZeNhbb23RjE09OxMgbhiGPc+p51IN9WwWXcFTQxkyLH0/EVweRk5Hkc8aafZ7e6KGGktyKwr5qhEjlY4EZLDvnsNM3tZtFPFfqeupIYpIqqMJKzMGy/rjPHGklY1ufIyqfIAB3IKysOo/PvplprHV1m30mpaSV1/uaZjxjOMfTj699Z3C1kPKtKqyIzdMYVstn0x5nVz9n1se2bSko7vGRKkZkAiTqGGGB388/b10lu24/VrVl/ST1Km26MZOLB0JH9qW5aOad1n/ADQUx9OekEeYz5gj+NGu3cUqU94niicyCMiNmxj4h5fTRqhTbmgb2T9TSKrSi9T0bjsZrNY4qyRpXrDGv9PGB4jHhR54A5/bXiJb1pKqNcLkqDLIz8Kf8uT/AN1Qd5bseqKkTpT24yI0LVvwyKwUhlACkH1z/t8tIt/3FR5c0Yt0jh+tnck9YxxhCvSD9+eeNNVEBT7EWByHk2W6Wx73BX0lBUU9NFWxrHMhygjGS3V3HV29ONV3b95ilpq25e+UiskCxQJ1jLE5I+HJ7kjjULvVTd45IBOyxxTxCRWgAC4PGCRxn6Y+mtZLZe7dSPWe71tLSxqJGJJGB+o5xkZ1E1uzpqQAW6lirc2QEFe58qkdLtIt0SeOUMxxKhQuxOe5AGjT/Lszc+47Awhjq7jR9QkpqkSL0EcZyCc98jIx++jVRUCjESfba1jZNHqpsm29xItvqrRSUxCdS+7pEqORzk9R6geewY6WrttWyVC+BJUvMoHh+ClU4wBxjozj+dGjRq3B4mBX+xfbb1qSXwkiyyKEQTMZQAOw5J1lLZ0gH5cUJb9IhAx9xo0a0I5E7zjOm2fiKluho4UiUvgnoVseQx3Py0aNGiCwC5n/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">seaside_demo (bonus track)</div>
-                    <div class="artist">SEB</div>
+                    <div class="name">Feel It Still</div>
+                    <div class="artist">Portugal. The Man</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGCAIDBwT/xAAwEAABAwMDAgUCBQUAAAAAAAABAgMEAAUREiExBhMHFEFhcTKBFSIjUaEIYpGS0f/EABoBAAICAwAAAAAAAAAAAAAAAAMFBAYAAQL/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBEhBRIxQRMiI5Hh/9oADAMBAAIRAxEAPwB3I63sVtuT0CbKW3KZICk9tR3PGD60zf63ts7o2fJsMtSpRKYyVFBQW1KGc7+2a32KBGuLy3ZFvYU5q3y0lWfkkZNKvF+RbbdFtcFkMx3A/wB1TbTYSFHSQnVgfJ+KzLv2OzchdJxg7h9eJn0BPNrYbSxcVPLlENutup1LSvTqKws7+vG4wMDepJf+oLezBYcuKyyXVKQBoJ3T8faoDZL44zb7euUlRc1JilCQNlHbOc5+2Pepn0WGrtZ5jEgNvll5ztlYCikA4wM+m1LK7GSwaMfZePW9ZLjYETN3a2InOQWXVd8OaCnQfqyBzxyaK3Nxm4ct4uNt51lfcKRtn35FFPamYryZTbzjK2lU/v8Akdxm1Hp2bHS/2VPNlHdHKE43x74rjXiXLXbpcf8AFUHJZQmOhR1KVjgn+7A/7XYmVJkNxkkkJQr849N+Ff52+/tXPf6h7I7M6LFxjgFdvfS46CN9B/LkfBI+1KKFN7Gx/XqWpbhhBKKxwfc9S5lsi9ANXBiVGfe8oHEDugEuEAafZQJxjnajwvvn4SpDTZccSnWl5ahk7Yzxzxn43qvZi6o65iEBTegOHtnGg/uR+/ptVlfBmwlvoS03R3U5NlhcjJ5wo6Uj/VI/miW4I1wYezOFafcbkwvMZDrHmGtKkObnT6GitDiUW+LIKnD23D+m0eEj1I9s8Ciu6MsqvaRvXuIc3plb2d6trfOjFNgmgBKX88bH59D7V5vFnp+69TdHPQbJOjNqdUkqadylTqU79sK45AOSPSiihZX4m+RPMmdKc3r8dnIHiV46Yski4THbA863BUklMovkfplB3HIH81Zzwzi2mz2xvpW23vzj0JtTrzC8F1sKVvnH0jUfpO9FFatdnYKTxGjgKhbXMw6vSfNgb40kc+9FFFHqUBdCVvLYtYSZ/9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Loba</div>
-                    <div class="artist">Shakira</div>
+                    <div class="name">10:35</div>
+                    <div class="artist">Tiësto &amp; Tate McRae</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEAgEH/8QAKxAAAgEDAgUDAwUAAAAAAAAAAQIAAxEhBBIxQVFhcRMiUqGx8SMygZHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAEQIhA//aAAwDAQACEQMRAD8A8SWoT+YxDcN2kVOpniAO5lIRhUSm4KFrH3DkeHfMt6zyRzptpm4jA8yeqxGcEEcpVVqldgUhAcK5S+84vcnz9JLrW/VwE2C23bgHuYjvXKn5IbSs3eEZVUVKS1UQKP2sb2F/5hKsY0Os9Ekuo2fL/Z3V6pWqbqZUgjht5+JJSVU05NSoAfhbMS1N9vqqwVL8AfpE2h5MqvU3AbW93y5xiUXYlzvUdeP5j31+nei1Iqd3j7RFLVVKNQsKrbeh+xk+TFbT1ioCOuAMg5ueotCJ1NQPZlPsOQLQlFC60zVGvgn+4vnfnCEJzR6foltxFTpMlyRkm3mEIRZBxxx0hCEIv//Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">New York City</div>
-                    <div class="artist">Owl City</div>
+                    <div class="name">Low Life (feat. The Weeknd)
+Explicit content</div>
+                    <div class="artist">Future</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBA//EAC0QAAEDAgUDAgUFAAAAAAAAAAECAxEABAUSEyExBkFRImEUFTJCcQeBsdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAEQMSBCJRE3H/2gAMAwEAAhEDEQA/AOBs2DemMyTqGII4/f370liGHoTdNJSdMrnMVEQmO/4q/bvqbaJuGG9kwM0kD/GpDuIOjGU3ZAcU0oQlZ5A7H2rWdKEEkRJrCdS5W0blpAT9x4PH90pc23w1wttS0rCfuSdjVj5osSPh0zz9R5pNQ+OvSS25KyJS0nMriNhSghg3PmiwSUhThUCqCAkUVfLFuq2SrVzDLtvBB/FFP+M6SJp+qbAW+qGbYMsrV6QFTMePYHaoKcC+aNqNqptLzaAtSVGCe2UeTvMeN61+HW9tcMli5uTKFu6YK+yTtHnztsZpTCbVauonbhVmFWs5laaCQlMxtAMCYG4NXcigqGhadZg77DXmGdZpK1MA5Ssj7qcwCzdbcefWFtOtpBRl2UDMz7cV0HBbFVxZ3VpetPhC/WhttsqBXHeB34mvbrDbS207bSeGJLBDiUI7AkCZO1K1UGDpcxN9Y3aMNe00AsITypMkeYJ4orZ9WYI+q0YLaHNKCHAAQAviKKVm7HrD1PkbxHpfHOhWigItsSbvU6IllSktryhfpUe4B889uKe6O6ZxxyyuLi5tsrN4yFQ9mIMGQv0n+fNFFUxlYuq+zc4vGxtdj2VMB/Ti7btmcSxu7uEMKU3nSwrKtMmAjfcHKJkbGYO81rsd6D6O6XR81xXFsQS423n0lubvkHcTySfpMHvRRQtkbarmO6iif2cxxTrnpFvE1LtrXEAwq4KiDEJakmAJnNJ8/g0UUUYNSLmcKADP/9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Wildlife</div>
+                    <div class="artist">Jauz &amp; KARRA</div>
                     
                   </div>
                 </div>
@@ -2308,19 +2318,10 @@
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUHBAYBAgP/xAAvEAABAwIFAgQEBwAAAAAAAAABAgMEABEFBhIhQRMxIlFhcQcjkaEUMjNSgbHR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADBBIRITFBUQUTImH/2gAMAwEAAhEDEQA/AJjMy1EeccdwxDiofA1HUjne43FiDfyO9qWzcMRh8J2QdV0DYGxBN7d6peX8MciuMKc1aSkJPsOxHrY29tqxPing7SMLjfhEj5i9am0D8yRbsPc9qbNbr3hCLsQJqWQGY82e2idJW51flpSggBKz2vyRVbwLKrqpcliSkMiM5oXYi6+QU+YI5pb8Pspw8Pw5tzEYDKpX6rae60nnUQbEenFbdCWWZMx1S1KMhzV4jcpSBYD+6AFxLnrCshAqAdjM1xlEGIGmY6kNJPAJ25uee1FeLklxQ8JIJoqW8X6znC4cOQ1HSpLusKPWsNkp3sQbf7Wj5tcYTmrCYKlPFIXaWU3BDajc6drWsBve5PcW3qhrSzHaSGSHEcFJG/8AJNSX4lZbW7jCsxMJd8CUpca1J2sLagRerS25I8Syk6uDKfh6YkiMpPTUtaHSls8FG/f1psjCYziT0S6dIsdX7vCbe25qGtZvmYSzFeahkthQ6pcvsn0qwQsejKwZiZDKem/ZSlK30m3almr1vx7jPLrDrsviPF4Qw0HNCjfV4Ljun6d6KQDMaCfFIQn6Cii/pf3FG38kjVm6SgFzrFlJ3OrfWPPTz7/el2KZziYlBdgvKLCXRZT6rrG242G4396KKZGtSOsmRx1nfKcdt6SwhzEWzHFtwhV1je9vp96qpjMSEPxm3UiE4LAJBBHqBwb0UVhvmM26q38HjiFWZDrXyDIPnHFpuCZgnYa4sqLK7IWU2ug7pO3mDRRRWywmNuOjv3IEA5n/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC8QAAEDAwEHAwEJAAAAAAAAAAEAAgQDBREhBhIiMVFhcQcTQYEUJDIzQlOhscL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDMQQhQRITFP/aAAwDAQACEQMRAD8AfoQkDQ9abq+O1ro0QVAOJ4Ycn6Zwu9o9X5tGX7lx3a8c/iZgNx4xyVD42SrOH+qCdUx7kgAk4AHdK/bn1at9nbVi2QNmzRw+6fymH/X9LC7f+rUi9RHQrTSfDiuGKjt7jqDpkch2+Upq9dzySSmYuP7ME8zk6hotdptpbptBLdXukyrIdnhDjws7NbyA8IVA8oVi66QFEnwo9SST7dagwj9ypuZ8ZWptmx064PaY1AyQRo1kykNcH69PhYRrtein264TI9Zn2Su9lTeG7g657LEr8N/WjR3HY2529oEyFJY4DiLHtcP4Co5VKLRkH7rLDB+lzxrp8nd64TouE6q20RTMdv3AR2srVM6ufgA5PzqEqr9cGmQ5rye3dLxzctivk7pGYcMEAoXuu7edoQWoThy0cFLtddkabHrVAHhlRp3T0zqhCLXQfBi3m6NcwnUNPInl515rA3aQ6pWOgLCOiEJcEkT49lb4yEIQmFB//9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">My Heart Goes (La Di Da)</div>
-                    <div class="artist">Becky Hill &amp; Topic</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHAwQFAf/EADEQAAIBAwMCAwYFBQAAAAAAAAECAwQFEQAGIRIxE0FRBxQiYXGRFSRSgaEjMkJisf/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQMB/8QAIREAAgIBBQADAQAAAAAAAAAAAQIAAxIEBRExURMUIUH/2gAMAwEAAhEDEQA/AM6a/wBZeNhbb23RjE09OxMgbhiGPc+p51IN9WwWXcFTQxkyLH0/EVweRk5Hkc8aafZ7e6KGGktyKwr5qhEjlY4EZLDvnsNM3tZtFPFfqeupIYpIqqMJKzMGy/rjPHGklY1ufIyqfIAB3IKysOo/PvplprHV1m30mpaSV1/uaZjxjOMfTj699Z3C1kPKtKqyIzdMYVstn0x5nVz9n1se2bSko7vGRKkZkAiTqGGGB388/b10lu24/VrVl/ST1Km26MZOLB0JH9qW5aOad1n/ADQUx9OekEeYz5gj+NGu3cUqU94niicyCMiNmxj4h5fTRqhTbmgb2T9TSKrSi9T0bjsZrNY4qyRpXrDGv9PGB4jHhR54A5/bXiJb1pKqNcLkqDLIz8Kf8uT/AN1Qd5bseqKkTpT24yI0LVvwyKwUhlACkH1z/t8tIt/3FR5c0Yt0jh+tnck9YxxhCvSD9+eeNNVEBT7EWByHk2W6Wx73BX0lBUU9NFWxrHMhygjGS3V3HV29ONV3b95ilpq25e+UiskCxQJ1jLE5I+HJ7kjjULvVTd45IBOyxxTxCRWgAC4PGCRxn6Y+mtZLZe7dSPWe71tLSxqJGJJGB+o5xkZ1E1uzpqQAW6lirc2QEFe58qkdLtIt0SeOUMxxKhQuxOe5AGjT/Lszc+47Awhjq7jR9QkpqkSL0EcZyCc98jIx++jVRUCjESfba1jZNHqpsm29xItvqrRSUxCdS+7pEqORzk9R6geewY6WrttWyVC+BJUvMoHh+ClU4wBxjozj+dGjRq3B4mBX+xfbb1qSXwkiyyKEQTMZQAOw5J1lLZ0gH5cUJb9IhAx9xo0a0I5E7zjOm2fiKluho4UiUvgnoVseQx3Py0aNGiCwC5n/2Q==" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Feel It Still</div>
-                    <div class="artist">Portugal. The Man</div>
+                    <div class="name">Lost Control (feat. Bianca)</div>
+                    <div class="artist">Tyron Hapi</div>
                     
                   </div>
                 </div>
@@ -2366,7 +2367,7 @@
                   
                   <div class="name">
                     <span>richardkunkli/revisual-releases</span>
-                    <span>starred 1 day ago</span>
+                    <span>starred 2 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2377,7 +2378,7 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    22
+                    24
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -2403,7 +2404,7 @@
                   
                   <div class="name">
                     <span>commitizen-tools/commitizen</span>
-                    <span>starred 16 days ago</span>
+                    <span>starred 17 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2567,7 +2568,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.24691358024691 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.658227848101266 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                       
@@ -2580,7 +2581,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="259.9506172839506 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="266.53164556962025 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👍</text>
                       
@@ -2593,7 +2594,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.123456790123456 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.329113924050633 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👎</text>
                       
@@ -2606,7 +2607,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="28.432098765432098 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.9873417721519 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😄</text>
                       
@@ -2619,7 +2620,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.123456790123456 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.329113924050633 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😕</text>
                       
@@ -2644,7 +2645,6 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.061728395061728 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                       
@@ -2657,7 +2657,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.061728395061728 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.1645569620253164 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                       
@@ -2748,7 +2748,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 26 Apr 2025, 02:10:31 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 27 Apr 2025, 02:11:25 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
