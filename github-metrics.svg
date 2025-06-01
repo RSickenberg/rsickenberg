@@ -1706,27 +1706,27 @@
                 
                   <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2127,8 +2127,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">8</span>
-                  <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                  <span class="value">7</span>
+                  <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                   14
                 </div>
               
@@ -2151,8 +2151,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value">2</span>
+                  <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   18
                 </div>
               
@@ -2205,8 +2205,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">13</span>
-                    <div class="bar" style="height: 28.26086956521739px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <span class="value">12</span>
+                    <div class="bar" style="height: 26.08695652173913px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Mon
                   </div>
                 
@@ -2229,8 +2229,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">7</span>
-                    <div class="bar" style="height: 15.217391304347828px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                    <span class="value">8</span>
+                    <div class="bar" style="height: 17.391304347826086px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                     Fri
                   </div>
                 
@@ -2272,37 +2272,19 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcBCP/EAC8QAAIBAgUDAwIFBQAAAAAAAAECAwQRAAUSITEGE0EHIlFxgRQVI0JhMpGhsdH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EACQRAAICAQMEAgMAAAAAAAAAAAECABESAwQxBRMhQSJRYaHB/9oADAMBAAIRAxEAPwCk5R0XNlHVEy5lSSJBSTWgm1e917gtKAObDf4F7nYYvsOYT0OVUsdDVRU06xytWWVQQI20hE5te5K2vcm++JvJasVOVyyVE88qwEUzzGMrPKv7Y0TlSf3Hkm9trEQ1bHS5JPLnbTwNQ0XbmgQD2psB21PLtpawJ4FgLb4pdCzxG1BgMByf5H+jspMC/j+wqSV8AkhQW1OovrVyOXbVe5uR5JIJPfzmOQ09LRwS1iRh1jEiFe4w/rck7X5+gv5IxUOoutETpTXkayy0Yr9UMjq0ZiQhjoNv5JGx3F8TeRtNm1LSZjTlQ094wmohKdd7xj7bG3Fxvc47tBmswtuWwpBX3+PuO0tGuZmkmmapWOolkaDSwDLdLqv88XLHkab4MSK1UE1MtIJIaasaFJ00EalHKqovcANcHcWUc4MFds7Dy0jq9STLj9xSMiOaKawDNCJVn1G+qI+5Bfl7GwJ3tbzin+pWYGHt0ccWumWRqoROA0ShoW9pbkt7gebXNh840vPqU01fGYoY3UzrNqkF1hOlv1bcm1m287fGKd1r0/NPQS0VPDUyyVwappG1gKjADumQ2vuoBAGwJt4xHIs2PoTbt+2NMlhbG5mlfVJH6e0KUhljE0hinjZiU1qSdSji5FvpfbGvdFaajIYqOJ1dqmCMI3gFlDyH/FvqMZQmUVEnpzUzTBO3Tv8AiomWQkgGTtspHF73Pna3zjRMqytaCio6Si73Y0w/qxtbTUNFrCjzYvpN/B2xdOZmK/BrlgqaKCo6gqKiNO3XVKRTUJI2EiAq2ofFhuPIv5tgw1VSST5Y0tRH3KtljqjKpKCFVuLggXBvtYXN784MZH3aoaeNpdMfUUMDU88J6hdRSKBUZjO7KAoZm3sAAP8AX3w1Sde5tPXxtXZtOiBWUOihigIIsB4ve1/+YMGNFDmJQXidopImy6Sj/OkSldm9krJwQDwDe9x9ucLVHVeY0BWny3M53pYXWSPuKL614P8AfjBgwQKhyJ8mI1PWuezpJE9fNpdgzBTa9je23i++DBgwmCnyRH7rj3P/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFBwIEAQMI/8QAMRAAAgEDAwEFBwMFAAAAAAAAAQIDAAQRBRIhMQYTMnGhByJBQlFhkRQzgRUWUnLR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABwRAQEAAgIDAAAAAAAAAAAAAAEAAhEDEiFBUf/aAAwDAQACEQMRAD8A80xxqi7iRnr/AKiiOMuwYjGeg+grNFEzA4AA6jPiP/K3VTHuLyx689KYIsnV0CM46HaOKO7rfMji2W3LkQb94TPG7GM+eK4jgaSREQZdmCjzJwPWu9Y+02ezLSgZ59TkXhB3UWfqfEfxx/NFPvZ/S1s7C3tF/bhUbz/k3U+tFKaCNVqDnj/TsNsFzG+er4I/IrMyoozbzSFmwGymPXNXHpOj2kskxawilVGCoPfZH4ySQTg4Jx8azPYCfXtQZ9Nj0m2CKB3AtwX+7cnJ/jpUdWc5ftT4V7iURLKZHAONvGR9sjOabOxGjyLqy32sXCiO1UFDLIMBug/AyfPFWDN7M9Rsoh/TdLsJrrbgzXE/dgeSLx6ioSX2e9sllWR7O23L4TbNCMeWcVgtlma0FNz9s+z+mLsa7eeRfkgjLc+fT1opZbsLrFuWkutCv5m8TNkSE/f3Tk0VVI4exrmlhjTZBCqxrxkKMfEKPVh+DSzFFcAxS2oMlxtd441fY0picpKit8r4Cup+u4HhjRRVBEzjonaqPuLQ6vKslhckLb6nswhbpsmA/bfPGfCT9OlS2oaNqf8ActreW968WmCIxz2pUMjtk4YHqp5+HBxzRRUZeJcHdINZt8rA+dFFFc3Vov/Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Stranger Things (feat. OneRepublic)</div>
-                    <div class="artist">Kygo</div>
+                    <div class="name">Here at Last</div>
+                    <div class="artist">William Black &amp; Rico &amp; Miella</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC8QAAEDAwEHAwEJAAAAAAAAAAEAAgQDBREhBhIiMVFhcQcTQYEUJDIzQlOhscL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDMQQhQRITFP/aAAwDAQACEQMRAD8AfoQkDQ9abq+O1ro0QVAOJ4Ycn6Zwu9o9X5tGX7lx3a8c/iZgNx4xyVD42SrOH+qCdUx7kgAk4AHdK/bn1at9nbVi2QNmzRw+6fymH/X9LC7f+rUi9RHQrTSfDiuGKjt7jqDpkch2+Upq9dzySSmYuP7ME8zk6hotdptpbptBLdXukyrIdnhDjws7NbyA8IVA8oVi66QFEnwo9SST7dagwj9ypuZ8ZWptmx064PaY1AyQRo1kykNcH69PhYRrtein264TI9Zn2Su9lTeG7g657LEr8N/WjR3HY2529oEyFJY4DiLHtcP4Co5VKLRkH7rLDB+lzxrp8nd64TouE6q20RTMdv3AR2srVM6ufgA5PzqEqr9cGmQ5rye3dLxzctivk7pGYcMEAoXuu7edoQWoThy0cFLtddkabHrVAHhlRp3T0zqhCLXQfBi3m6NcwnUNPInl515rA3aQ6pWOgLCOiEJcEkT49lb4yEIQmFB//9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBAUHAQL/xAAxEAABAwMCAwYDCQAAAAAAAAABAAIDBBEhBRIGMVEHExQVYXEiMtEkM0FScnOhscH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYHA//EACURAAEEAQIFBQAAAAAAAAAAAAEAAgQRAwUhBhMycbESFTGhwf/aAAwDAQACEQMRAD8A2gfVS0EBrad0sJAI3YdgY9QoL4NiVoaTQ1NDERU7GueQWRA3Iz6cv9UtpkbHILvWLpWmszM0UM5Rq7WLNqEEcskbSHGP5tvXoqrtbaXDbA4i9nXcBZY9TxNTeaeXMpi4RzeFDA34i7cQXX6XNtvNOfBHDlJrdfqLK95+xQN3RxOsdxva59hyTR2mYAOlJGaxJJFu+gqknM5CFHI5ClyFctGykF7WyVa851KAMFMad3JrCQwi/wCkNyf5VM4A6pu1nSGcP0lJJRd9NJUMLpJJLEtwPlsMc/dPtDaXOcOyl+JSGsYe/wCLnHCPCEtFqNZqOsRubUNkL6Ukgfjd0luYPQHlldB7JaXwz9dN7h0TcAW/OkvVtS1QVcvdwyERxu2/Cc4P1Tp2QU+ptpNZqNWjMbpImhjTg4Dif7VLlaAxR+F5dkCUXOxc9EKJx9RYoWfH5WuNGwVkZbbNk8QdoE0cLYjp8dmNDb96c2HshC64ZOSPfLNWg5MPDJoZRdL5HHsoYAKBpH77vovZ+0Kd0Lo/L4huaW/eH26IQiPcpJHV4QzdGhg7M8rn8trDmhCEEnDRsv/Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Lost Control (feat. Bianca)</div>
-                    <div class="artist">Tyron Hapi</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAwEAABAwMDAwEGBgMAAAAAAAABAgMEAAURBhIhEzFBUQciIzJhgQgUFkJScZGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBQD/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQxEiEiQf/aAAwDAQACEQMRAD8A+d6eWW1InRlPEBRQVApUopB+XHIHbJP3KR5pJTfTyrrIlpt9mLhfkHAQg4z5PPgcZPjjmi+ik9j5enIBbK2Y8zBcVgOkhQTsSUHgYwSTnyBwMkcqL/a40GMlbSH23dyELQ523bSVYzzjOAMjtz64o7horVEOL1pDkXqdEPdAv4eKUkrHuHk4OVY9aiZM+VKZS0+8txCVbgCScHn/ALRn30xVpfhqUV7iimTLGDpBMrRa70zcEqkgKUmGhkk4ScKyvOBxziqn8PkZ6PrSXMMdrfDjguddWwNoX3UM+cCpmwaimo0y7YGlBtpxSnFOuK91tsDKuO+c+Kz0PfJtmuc+Yyh2XHebIkfE2rKBznJ8/wCam8eSk1or545aey09sKpLV7t12fhsQ1yHNyUsyur1kfyCe4479u9cleZEadIYOQpLhGT6VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPLivNspecbIaUdoXjgn6UUwvdyiybVb40aOEraB3uKUSo5x/qiqonSW+zPTsViXcB+byY7Y3KSP3egqoky0FkIhtNI3bm8YwkD+h9KKK08STWzI5NNXo0NMWtuNqWG+hZWpn421Pu/LnnPjmqT2nR4j+nbbIfcBuKVhLpJ+ZCgSMfUcfaiisvkSpzpI1OPTrE9nJFDbwe9FFFJnH//Z" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Oh Woman Oh Man</div>
-                    <div class="artist">London Grammar</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgMBB//EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUhMQYSB0FRcRMUIjKBoRVhkRb/xAAYAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EAB8RAAICAgIDAQAAAAAAAAAAAAABAgMRMQQhEhMyUf/aAAwDAQACEQMRAD8Agatps+nuzSJmIHHeOKWtpRnkVsvEIra9O3M5BwJkz7b1ntFjimsYXVEdWXOcc119vCMs44PYpV7dyKWvtStbBC88oyeFG7H2FVr1Yra0lkaNRhTjYA5x5ZqH4baada1m51C4SO4+WACK6ZXuJOD2jnAH+1S2z1omqvzeDnbdQWVxJHGTLC8n2iVCAT6Z4/dFfTerLS3vtBa2urSKZ3BBUMF7T5FSw5/r90UK5Evw0PipPZG8Vwv/ABk4zhnmGPxUToSKNunrQtyF9fervidMlv0/FLNEsyR3Hc0bcPuNt6OlNVsbnRYXi0e3t1ZdgpH087cYp45Ug5pMndURltBulgRHft4Y+Wd/1Vbw7urL5ITWMS2UcsSQssgAHxVyCRvvyOd6rW9quoQfBj0lZUcYZ32H+42pnTujdNg0I6VJEzwJM0n1Me7u9QRuKDkvLQ1CaeRfqK7/AIzSrqWdhMHyg+IQMu3248gM0VnesehJLiF00+a5nYOrLFNMWwnBC59xzRQxjlF7LWmL+LDs3TzZyF78/utp4XdNDTelLB9QiVruSMSdrDPYDuB74NFFaLW0+gq1l9m2KfThcD8UnIpVySdz/VFFBPtDrZxMPfIXHOPT80UUVav5Ils//9k=" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">Nevermind</div>
-                    <div class="artist">Dennis Lloyd</div>
+                    <div class="name">Say Something (feat. Chris Stapleton)</div>
+                    <div class="artist">Justin Timberlake</div>
                     
                   </div>
                 </div>
@@ -2317,10 +2299,28 @@
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUHBAYBAgP/xAAvEAABAwIFAgQEBwAAAAAAAAABAgMEABEFBhIhQRMxIlFhcQcjkaEUMjNSgbHR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADBBIRITFBUQUTImH/2gAMAwEAAhEDEQA/AJjMy1EeccdwxDiofA1HUjne43FiDfyO9qWzcMRh8J2QdV0DYGxBN7d6peX8MciuMKc1aSkJPsOxHrY29tqxPing7SMLjfhEj5i9am0D8yRbsPc9qbNbr3hCLsQJqWQGY82e2idJW51flpSggBKz2vyRVbwLKrqpcliSkMiM5oXYi6+QU+YI5pb8Pspw8Pw5tzEYDKpX6rae60nnUQbEenFbdCWWZMx1S1KMhzV4jcpSBYD+6AFxLnrCshAqAdjM1xlEGIGmY6kNJPAJ25uee1FeLklxQ8JIJoqW8X6znC4cOQ1HSpLusKPWsNkp3sQbf7Wj5tcYTmrCYKlPFIXaWU3BDajc6drWsBve5PcW3qhrSzHaSGSHEcFJG/8AJNSX4lZbW7jCsxMJd8CUpca1J2sLagRerS25I8Syk6uDKfh6YkiMpPTUtaHSls8FG/f1psjCYziT0S6dIsdX7vCbe25qGtZvmYSzFeahkthQ6pcvsn0qwQsejKwZiZDKem/ZSlK30m3almr1vx7jPLrDrsviPF4Qw0HNCjfV4Ljun6d6KQDMaCfFIQn6Cii/pf3FG38kjVm6SgFzrFlJ3OrfWPPTz7/el2KZziYlBdgvKLCXRZT6rrG242G4396KKZGtSOsmRx1nfKcdt6SwhzEWzHFtwhV1je9vp96qpjMSEPxm3UiE4LAJBBHqBwb0UVhvmM26q38HjiFWZDrXyDIPnHFpuCZgnYa4sqLK7IWU2ug7pO3mDRRRWywmNuOjv3IEA5n/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC8QAAEDAwMCAwcFAQAAAAAAAAECAwQABREGEiETgSIxQQcUMlFhcaEjgpHB0fH/xAAZAQEAAwEBAAAAAAAAAAAAAAAFAwQGAQL/xAAlEQACAgIBBAAHAAAAAAAAAAABAgADBBEhEhMxcQUjQUJhobH/2gAMAwEAAhEDEQA/AEeKVN79qiVL5Ua0L2dyWWrjtWFIUGQnKh5rUcnn7Cs+hNybjIYiWxkGS8fCXDgAfM/StY0rpp/T8AG5yxLmSHU5DY8CPLuT9alzioQ9R5P0m+uyl0KU5/kY5lwlsykNM7Gmz8Ti/wCh/tc3ia2oNQQWlPSAdoU741epIHrVlcYkS49SJcowdjvYBSoY/wCVWRNK6f011JMCIESVDHVcWXFAfIEnjtQy9vXPmGdZ6xoTNruhMC+SGHUp6T2HBn0OMEUVE9oU1huWzIcLoeVvDYQAQoccGim6MU21h4wnxWqn5dh5EU4V8XFvcaewSG0K6ak48ga2Kddo8yyIfkTXYiG/F1WyMk44HINY7GsMp6CpUOK6606MHYnICs4471NsUtdyhm0yVpRIZXlHU8sjip8vGS7TL9vmCVZOrei5hs/ozWIGqrEqQ2t24vrXx+o6VBOccAgcD+Kur5JEljehYU2QCkg5BFJsDSNzkx2jNmRBEGFdNBUTjvwK9b5NcXLas9pIXJ25WUfDHbHG4+n2HqaGalGfSH3ELeyhDIdxJ1wGZ92YbSsbI42fuPJ/FFV+pE+7XlKCkoa5QkZzzjz+pPnRTtZatFCnjU5UuM+zao3+ZSdZ1plGxxKcJ3KJV24qVpyzqvEaWthWycytK0ndtBB8+fQ0UVaubt1sy+ZnOgWZC1t4O4xW1vWsoIg+8rYj52lxak529uTT1pi1s21pyBb3C/IUrMuWvlS1/Lt+KKKBybi6ngD1FqqRUQdk+5IvOh4t0j4lBSlfEFbsEHtRRRVRcu5RpWnplVjtgDP/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">My Heart Goes (La Di Da)</div>
-                    <div class="artist">Becky Hill &amp; Topic</div>
+                    <div class="name">Only Girl (In The World)</div>
+                    <div class="artist">Rihanna</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQMHCAL/xAAsEAABAwMDAgUEAwEAAAAAAAABAgMEAAURBhIhEzEHFEFRYQgicYEVkaEj/8QAGQEBAAMBAQAAAAAAAAAAAAAAAwECBAAF/8QAHxEAAgEFAQEBAQAAAAAAAAAAAQIAAwQREiEFQRUx/9oADAMBAAIRAxEAPwB8nO3RFymBubJCesvA6h4G4/NeGn7mh1KhNkj0P/Qn/M00zP4dvqy3p8Jthbi8OOPJSkkKIPJPuCKjRHLFegqNBnxJZI3FMd4EqA78g8j8VVrwD5BXz2J/shJhuzFLQ5LlsuHlK0vrSP2Ccf1WG4aUvISkwLrLeV7eYV/nNXMjT8FKSfLr38c9RWePnPwKxItpYhoaiSZTAZB2p6pIx6/OaD9BAeGaB5jMOxctFn1I3c4qnJUgoS8jeFST2Chngnmim6DJlOuMsPy0FSHEbkKxuUMjnHf90Uwuw3YJ89kOJxbqua4ddXxakMObZ0lKQ9yMdRXua3B9PjUeRftypzkVbbJQlYWAF5wTx29E9q1ddmYsbXeoBNmRW90qQV745d2ArJB7cHn8U36IgW2A3HfgXVUiXKVhpS0DYUkkKUUntgZ5Pr2pbpkZNZ6NqD37Ogrpr/TlnVMbvEtKFRVFKlpBVvIGQABzk44rnDX/AIv6i1NOca0+mTabWCUobj56zg91rHIPwMAfNRtcXK9WXVLlu86yGCpBQ4yyPuB5GSRnPvg1HXcQzLtTjrimn5iCSE5SlRyMfGCeORnIoLe1pUsPjbMioSxIBxiUWiJ77GvLG5JVNbkLnsbnC4oKVlxPfPJFFbAtty8pqy0w5sWKSqUytlwx0lQHUCeDjjGMenuDzRWs1Nu6wTTKnG0aH9F6q05qjX7cTSlwvUG8kNsPNuIbS4hWd2fu7ALOAQQSBkVZeHfgLNXpW3SrxPkWu6lBDkZUZtwskLIHOecjB/dFFCew1cqciW0nwTdaubsxN2u07rbgtpTSEoTxgYClf1jtiokj6dYd4ajqkXa4w5DSAlIWwlQSkHgH7sE+vFFFSDqcicajMMGZmvp7Ee9WmU9qO5y1RX0vJV5dASnapKsKO7ODj5oooq25Erknpn//2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Nevada</div>
+                    <div class="artist">Vicetone &amp; Cozi Zuehlsdorff</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAcIBgQFA//EADAQAAEDAwMCAwgBBQAAAAAAAAECAwQABREGEiEHMRMiQQgUMlFhgZGhcRUjUmLh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMP7SduNx62t2+Of7s1qGznPAWryj9YqktSQGFMi2lAVGRHTG2fNGNuPxU39a3nI/tHsSNwXslW9xAB9AG+P1VG3q5sR764t9YDSCpaj8kpBOf1QSz0jjJ071sXZZiiCpyRbQo/5c7PyUgfeqSsrZbuq2j3IAH85FS9eb8mb1s/r9gZUUm4tSm0OnB8pTu3EdgSD9jTSsfUqNcdTXBu7zIUe1oYc3OYIWHB6Jwfh/JyO9A2YV4KL9IhPNte7ocS0HW1ZIUrOM+hGRjiil5Z9bsXzXyLbaMvwSGy5MDBaGUqBSnB57E9vTFFApdctS7z1zeegNvTHFzmVISgEnYjYCRx8I2nn6U79SCQ1Yr3drufCWIbyUoB+HckgffOKSsW+wHVOOxTLmXIbd0iNJXBcS1kDBwnCgCc4zTYsN8vtytSm7hbFhnYWz4yVO+IntyoDzcfSgnm2Keg6QulxbWW5br6Wd4ODsIO4A14lulISGvey4IjawQlpIKlKAPz9Of8AlUVZtK6dg6K1Rabow6t65FCoy3G9hjbOQErUBtyeT8/WsI1ouwMKbbXKchoUvAfeb8ULwRyMHGMnHHeg1XRe8TZXimfFZTEioSpLvJcKynCE57cJySe/KaK2eh9MwYOm4qYc5E1leXFPsDCXVk+Y8knPGPpjFFBsGdP2th4vRrdFQ7ncSEjv/HavhqNm8qjNGyJYD+/z+KMgox6cd80UUHgyWtWqcw0IYbKOykjO768dq74On3ZURwX6JGWrckt+FwAMDOcf7Z+1FFB3Qrci2NeFDZLTI7Iz5RzngdhRRRQf/9k=" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">California Gold (Triplet)</div>
+                    <div class="artist">Kaaze &amp; KARRA</div>
                     
                   </div>
                 </div>
@@ -2366,7 +2366,7 @@
                   
                   <div class="name">
                     <span>hagezi/dns-blocklists</span>
-                    <span>starred 5 days ago</span>
+                    <span>starred 6 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2387,15 +2387,15 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    11.6k
+                    11.7k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-                    373
+                    374
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                    5.58k
+                    5.59k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -2413,7 +2413,7 @@
                   
                   <div class="name">
                     <span>mozilla-firefox/firefox</span>
-                    <span>starred 17 days ago</span>
+                    <span>starred 18 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2434,11 +2434,11 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    7.66k
+                    7.67k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-                    229
+                    231
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
@@ -2460,7 +2460,7 @@
                   
                   <div class="name">
                     <span>mariopartyrd/marioparty4</span>
-                    <span>starred 17 days ago</span>
+                    <span>starred 18 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2476,11 +2476,11 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    497
+                    499
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-                    26
+                    27
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
@@ -2488,7 +2488,7 @@
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-                    595
+                    596
                   </div>
                 </div>
               </section>
@@ -2513,7 +2513,7 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    2.19k
+                    2.20k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -2521,7 +2521,7 @@
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                    13
+                    14
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -2741,7 +2741,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 31 May 2025, 02:10:49 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 1 Jun 2025, 02:13:44 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
