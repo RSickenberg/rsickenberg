@@ -1704,31 +1704,31 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2028,7 +2028,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 44 commits)</small>
+        <small class="h-details">(computed from last 43 commits)</small>
       
     </h2>
     
@@ -2151,8 +2151,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">6</span>
-                  <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <span class="value">5</span>
+                  <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                   15
                 </div>
               
@@ -2241,8 +2241,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">1</span>
-                    <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <span class="value"></span>
+                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                     Thu
                   </div>
                 
@@ -2290,6 +2290,15 @@
             <div class="tracklist">
               
                 <div class="track">
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQYI/8QAIxAAAgIBAwQDAQAAAAAAAAAAAAECAxEEBUESIVGBEzGRQv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAABEQISIf/aAAwDAQACEQMRAD8A9UgEdkn0tV4c1wBIAAACaf0AKG93S0+3W3Qck68S7eM9ylGeok9tkq54vm7LGv5WMpP0bbw0HnjH4WMqhb456zdZy1Uqq9LrYrqacpVyb9Jcey7q9Z8VlSt+SuuUMpyg2+rw8cmp38r8Czyy7QWh0rzRB9EoZ74l9+wTgygAAAAAAAD/2Q==" width="32" height="32" alt="" />
+                  <div class="infos">
+                    <div class="name">Glad You Came</div>
+                    <div class="artist">VIZE</div>
+                    
+                  </div>
+                </div>
+              
+                <div class="track">
                   <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcBBP/EACwQAAEEAQMDAgQHAAAAAAAAAAECAwQRAAUGEhMhMRRBIlFhkQcjMkJSgbL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRAyFB/9oADAMBAAIRAxEAPwDCNv7fn66Xhp0STJ6RSlQYb5kKVfG/sf6GNn9g6/SPS6Lqq1r8dRjhfazVnvQ+2K9CYJS4FqkNhfEjpuFAUn4u/Y9xYy6M7XUGgsPzlLWoChJULPtffAzJSSlRSoEKBoj64JFkCwL+ZzYp34baTFabWHlSFhCy/SlAc+5HE+4r5++IDtXSiyni07zUkEfmnArm79uDbrkRHrUyVvJUVAI4lNV3Hc2k3YPv8sMb782Q9tvToMum0pctLg6wUq77UPNYZjnFq1y3stdJi1trGQ8mihKvQhQsenT/ALdzShrmntLZT1OYChfEeMxnSZSYyneayOQA847gajCVKjNyZHTjrcSl1SPKUX8RH1rNsmus7qdc1aY8zNBHXCW2RyotiwQO9UfPjJndUUGkoQhCKAFk2cdbuf2FK0LpaFJQzLacQtoOKsKF/ECavx3u8o8qdDMl3pvI6fUPGiaq8CPeU+TO9CuVIW8eCv1G/wB2GL9ckNPpjBlaVBAVdfU3hgL2XA2TbTbl/wAwe32ORrPJRNBN+w8DDDJ9VzGkPUojMFuPI0iLJWlwuF9S1pWoGqSSDVCj7e+GGVEGpyo0pxCosFqGlIIKW3FL5d+18icMMMD/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
                     <div class="name">Just Dance</div>
@@ -2299,19 +2308,10 @@
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEBQcC/8QAKBAAAQQBAgUDBQAAAAAAAAAAAQACAxEEEjEFEyEiQVFhcRQygaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHREAAwADAQEBAQAAAAAAAAAAAAECAxExIUEEEv/aAAwDAQACEQMRAD8A4KwpE+Tpk0sIob+6a1yn5bWMlMnUVQWyqevAvfg6HL1O7wA3xSpbMxw7XBYzTYIC3o8eKLg7S6Qc4uB0ub3X8+BSk234OxTWRPXwTeo7oQygPdCaCSNPRMzMsyYLYqH3BJBoWvUM7IXHU0uvpZNV8VskUBFa2ubF4WC/La7lvAdsG+pXQ/qYcrFw4M/GifK9nLcTHTrAq/UHyufT5XJkYcUhhrrpAr9LR4Zxt75IW5RFRvtsldW3/Qri1Ph0fw58WFuH1i5WmKSSM7scWoXrjMjHcRndEQWOdY/IQj/oxZNTbSIWkeFPknuG1oQl1wyslKpw9JjcHAXaEIZ6XPSlzwB7oQhMDbP/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAQDAQIFBgcI/8QAMxAAAQMDAAcGAwkAAAAAAAAAAQIDBQAEERIhIjFhdLIGJTVBUaEHFXETFCNSYoGx0dL/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAHREAAwADAAMBAAAAAAAAAAAAAAECAxESBCExQf/aAAwDAQACEQMRAD8A9CQURGrhI5S46zUpVu2SSwkknRHCnFxMW2kExloR6Jtkn+BVYDwGN5ZroFJ9pJ9qJ+zZSUqu3UlaEE42RvJqekvZtM1dcyTmPiQR3Ux+1mP81I1FRTidIRloB+q2SD7itftu2iX7XSFuA+lWCNLZx6g1m4KZEmXUqYUytvGNeQoY3g+1RNP4O8OSFukRTURGphZBSY6zSoW7hBDCQQdE8KKdnfBJHlnOg0VWGGy2A8CjeWa6BXO/jBESSbtibsQp61bbDb6EjabwSQriNeD6V0KBPcUbyzXQKf36iMg1HPS0PDleHJ2jz7GO3a1NuMoUUHCtXn9K7Z2bYU3ZNqcSsOKGTprz7Uq/2WsvmLVzbNhpAO20nUn6j01+W6s8y2GkBIJI40Yjk6PL8pZ0uULTvgcjyznQaKpOnuSR5ZzpNFNnJCNJipSRRfWATIWoiAw2NEvsjH4A1HO3nT9q2m1lbZTak3chZAkEHRuE48uOfWiiih2+vwu++RufFrbeDruBvxj81MIlo1KEp+Y2ZwMa7hP90UUtg0KTUtHKh79Kb+zUo27gAD6ck6J40UUVGzSIWj//2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Be There</div>
-                    <div class="artist">Krewella</div>
-                    
-                  </div>
-                </div>
-              
-                <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBQYBAwcI/8QALxAAAQMDAwIFAgYDAAAAAAAAAQIDBAAFERIhMQZBEyJRYaEUcRUWUmJygZGxwf/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQIFBP/EAB4RAAMAAgEFAAAAAAAAAAAAAAABAgMREhMUIUFR/9oADAMBAAIRAxEAPwDz2EUtLZPY/wCKfNRuNqctxfau90kZ04qoivCOePiseEc8GpwQz+msGHv2xUc0X7aiE8JQSTg44oqUUyMlGRnnGaKnmijw0dFRItLdhcTpacemQmYydK0lSFpJOcA55CewI7+6rZ1FakwGYr0eUUNslK3A0kICkocCtRJB4Wkj/dUyF1ba2yFLbeb3KiCjPf2ppe+oIEm3S2rW8GnX1Er1NnzpIAxnHO1Z7u960bajGp2qReLd1Va3J9qn/hMtqNa2ktST4YUkkZJI335J9cVJ/nrp8QCtVomIQWVaVrZAHmWSgjH34+/989u3UdudjWcRnlIVHGVlCT5VBIHHBB3/AO1tm9W2x+3vx3EGQwiOjQhSNJLoV8bY9tqX1L+EpY34dFpElp60z5D0PW+/Gcjtl11IU3h9bg2yexbGR6emxKol26tZcZV9GxqU6F60OcJCgkEbcnINFMVW/Qulhl62VBzcA5B7bUqM2l57Qp1LQwfMrOPiiinnAb/o2t8T4p3/AH+n8abvthpelLqHds5bzj5AoooAS0NWSRRRRQB//9k=" width="32" height="32" alt="" />
-                  <div class="infos">
-                    <div class="name">La Isla Bonita</div>
-                    <div class="artist">NAJA &amp; BRT</div>
+                    <div class="name">For You (feat. Park Avenue)</div>
+                    <div class="artist">Rich Edwards</div>
                     
                   </div>
                 </div>
@@ -2326,20 +2326,20 @@
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAEDAwIFAgUFAAAAAAAAAAECAwQABRESIQYTMUFRMmEHInGBkUJScqHw/8QAGQEBAQEAAwAAAAAAAAAAAAAABAMFAgYH/8QAJxEAAgEDAgYBBQAAAAAAAAAAAQIDAAQREjEFBiEyQVETIkJhcaH/2gAMAwEAAhEDEQA/AOcQInObUoIJShOpWOwp4xkdkj8VP4UuTlpmNSWm2XgQUKadGUrSRgg+Ntq0znDjV0fEqwtuFhw4XEUMuMLPbwUeFdK7O1wIX0zDCY7vH6PqvVUKIAHGB7rFiDq6JpK4ASASB+a3Vx4QukTktGG84+8spS2gagQAN8j37dgMmqC5w3rfMXBuDDseQ36kODBHilwPa3K6oXDZ9VSOWzmYxxuCw8ZqlBTHhvsiPGWHf1uNBS0fxPain5xCm1gpwvHXFFcJIFDVKW2TVtTMFCuQ2dJ36bdfpW8+H1/FmvTDUwqRFdJ1KJ9ORgFXgDH23rGWmZIRGDKX3ktpBACVkYz1xVqILlvtrNye1JddWpLCTkZAHr9xv9KNfQJdWrW02zgj+VRkEkPxv93Su5X6fcbXcId0gRxKiMtq5ydeANRASoe/XfxmuP8AHt8b4gv65TcZLIKf36jnqTn/AAquk8R3SRbE24zXjD2KmyRjI/vHt0quDasFa1b4oXLvAzwu3WJzqK56/jNYnCuXTaXjXbvn0PG2M1HuGyB509aKTOOy9j4+1FbUx+qt6bvpi1voS4hStOEfMdQyDjfGO+emKl3O8z7pIS/NkqW4lIQn5QAlI7ADYUUURUDOHO42oyHIDHcVFZkFLgU4SoDO2AKQZbuMc1ePpRRSGZgOhqxdgN6Q9KCkEHOfJ70UUVEuc0ZpWzX/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMHBP/EACwQAAIBAwMDAgQHAAAAAAAAAAECAwAEEQUSIQYiMRNxQVFhsRQkM0KRodH/xAAbAQEAAgIDAAAAAAAAAAAAAAAEAAMBBQIGB//EAB4RAAICAwEBAQEAAAAAAAAAAAECAAMEESESMSJB/9oADAMBAAIRAxEAPwDGHLXOfnzVtoClVBNTOk2pnihkUE5X4fSqy1/LQndkYrv+VYCvkTz7Hx2rtOx8MdT3yWsZJYVz/qXqsxzkK/PvW7qa9uREVihldjnbtQnP8Vye/GoXEs0n4W5KRkiRvSbCY8544oO6sVfbdJm+T0/P5KLWtba9tmUkniikaWF2unSXU0EkcKhe50IDbvGMjmio+T60RyKrXQ+zoPT9+IbGPd3pzxx5wAaYveBk3RMYyAB8B4xipnpHUIzaei8ULMP3MDn71RNOoiIEUHx8qf8AaYAG/QH2AtQiySPVWssitFb20W0/qK3cr+McDHjHn61Oxaxfyukki2xkj4iYx90QxjC84x7g1Ra4ITP6jQwEjHbtODj580je5iEqsLGzG3PAQ4b35oOXhszhgeRlXF1M7zUJZrKdZEhDyYaR1QhnIPknOPPPiivHqF0Gt2QQQx+O5AQfvRQci4I3mKrTk0aZqRtmBVuaoD1FujwW/uiiph5tqpqZsrUtFF7qnrMctx70va6G4niiiq78y1j0zktazzXFxuU80UUVq7bGLbMvUDU//9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Inside Out</div>
-                    <div class="artist">Azteck, Angemi &amp; Laura White</div>
+                    <div class="name">I'm Good (Blue)
+Anstößiger Inhalt</div>
+                    <div class="artist">David Guetta &amp; Bebe Rexha</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAEEBQYHAgMI/8QALhAAAQMDAwMCAwkAAAAAAAAAAQIDBAAFEQYSIRMxYUFRUpGhFCIjMkJxgaLB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQCBQD/xAAdEQADAAIDAQEAAAAAAAAAAAAAAQIREgMhMQRB/9oADAMBAAIRAxEAPwC59SmN5u0Wz2uTcJ7myMwnes9z4AHqSeKQPeahdY2xeoNPybY2+GevtClYzwCDj6VyZpZ7OtU9dHPR2tLXqyO8u2qdQ4yfxGXgErA9DwSCKsJcrz3p9o6IuL1wYWh54OLj9I5wpsHCj8xwT61uMaaiTGZfbz03UJWnPsRkU3LOna8YHDe+U/USq32ujt6Z3/Fn/KKi1PeaKLYfQip9yRDjKdWQT2Sn4jXTaLsJzGThLyeFJz9R4rPrhf0THA48VoT2SnHApIl1bbcCmHyhZBSCe3PHvXlBttlauclbMxER4jfLcbacW5+gbiSf7ZrZZU5q2QUJSOG0httHbOBgVheoHmZmpR9lRiMwUJS2r04FXaVdG1bU/fCUDCUqOSB5J7nzVHMspEnzesv8a4olMhxs8HuM9j7UVnkW+txHdyVHaeFJxRU7h/hUqKSq5LV7fOlExRHCR++aKKp1QCpsYy5raLihxuOgOFQ3EnIPAwak2ro5vHVCNvgUUVullLIcPVvA6jz2nFqHUCB3/IM/xzRRRQOUUTbwf//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EAC0QAAIBAwQBAwMCBwAAAAAAAAECAwAEEQUSITETBiJBFFFhI4EyUnGRobHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQBAwUG/8QAIhEAAQQBAwUBAAAAAAAAAAAAAQACAxEhBBJBEyIjMTNh/9oADAMBAAIRAxEAPwBd1axkjhihMbbmYgYH8R6pQuNqzGGZGhccYfiuq+pJGitJ5bZtkijKnb8/fPx3XMp1g13XfFZsEPQaRyS5AyR/Xim3RNZFvvNpg62aScR1ghRQ6Wks4FwxSPHJBwevzUSaXZ4QzXOI93vdXHIzggDGQcc5P/KdXs/cgji2uq454zWPq0T2skDtbAsFLKAQQAwIHXxmjAxlBMO6glu6sbOONjHcM7h8BTg7lyRnI5+P80VLfO0oEa25TDbiTg/AGOPjs/vRQkhQ1jq9Ji9ZeqIorj6e3lllkCYdF4QZHR+/FJdzrNt9HE9raG21VGO+eLgFeevsccVR8v1MxdiASdzE/wB6pO6tMSCCM8ULpTk8FVSPMhH4me39YahsRLlwyhQu4cHH+jVtbh5x53nYeXgNnkAcCkmSQYHIzyO6ZrKRngtvGm5QhAOOj81X1XAUm9N5HU5bFpp8oU/qBwTjdjv9qK0NJEm1FjUsq4z+DRQFxWixlCkmekdUi01r4zdyQ+ONtm4A7gcnBB6HwaZIfV2neQiR7loXfdsECjxcYO0g5P35PdFFRaw+VZOraYVliF8PcrfqSTIDuI7wHA4I4A/mOauaV6p097Msz3MbLIw3Rx4JyOsFsdAc95JoooXHCZ0v0C96jqVtfXizW7S+MKR7kCkZJIHZ4/NFFFU2V0kbBtC//9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">DIE
-Anstößiger Inhalt</div>
-                    <div class="artist">Gazo</div>
+                    <div class="name">Born to Fly (feat. Britt Daley)</div>
+                    <div class="artist">Morgan Page</div>
                     
                   </div>
                 </div>
@@ -2385,7 +2385,7 @@ Anstößiger Inhalt</div>
                   
                   <div class="name">
                     <span>raspberrypi/linux</span>
-                    <span>starred 20 days ago</span>
+                    <span>starred 21 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2461,7 +2461,7 @@ Anstößiger Inhalt</div>
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                    833
+                    834
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
@@ -2512,7 +2512,7 @@ Anstößiger Inhalt</div>
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-                    1.33k
+                    1.34k
                   </div>
                 </div>
               </section>
@@ -2547,7 +2547,7 @@ Anstößiger Inhalt</div>
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    6.73k
+                    6.75k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -2775,7 +2775,7 @@ Anstößiger Inhalt</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 6 Sept 2025, 02:10:17 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 7 Sept 2025, 02:11:30 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
