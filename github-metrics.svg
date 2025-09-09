@@ -1710,21 +1710,21 @@
                 
                   <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -2028,7 +2028,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 43 commits)</small>
+        <small class="h-details">(computed from last 42 commits)</small>
       
     </h2>
     
@@ -2145,8 +2145,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">8</span>
-                  <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                  <span class="value">9</span>
+                  <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                   14
                 </div>
               
@@ -2163,8 +2163,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">11</span>
-                  <div class="bar" style="height: 45.83333333333333px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                  <span class="value">9</span>
+                  <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                   17
                 </div>
               
@@ -2218,12 +2218,12 @@
                 
                   <div class="entry">
                     <span class="value">9</span>
-                    <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Sun
                   </div>
                 
                   <div class="entry">
-                    <span class="value">13</span>
+                    <span class="value">14</span>
                     <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Mon
                   </div>
@@ -2236,7 +2236,7 @@
                 
                   <div class="entry">
                     <span class="value">9</span>
-                    <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Wed
                   </div>
                 
@@ -2248,13 +2248,13 @@
                 
                   <div class="entry">
                     <span class="value">10</span>
-                    <div class="bar" style="height: 38.46153846153847px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                    <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Fri
                   </div>
                 
                   <div class="entry">
-                    <span class="value">2</span>
-                    <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                    <span class="value"></span>
+                    <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                     Sat
                   </div>
                 
@@ -2290,55 +2290,55 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBgcF/8QALxAAAQMDAgMHAgcAAAAAAAAAAQIDBAAFERIhBhMxIkFRYYGRoSMyBxRzg7Gy8P/EABoBAAIDAQEAAAAAAAAAAAAAAAABAwQGAgX/xAAdEQADAQADAAMAAAAAAAAAAAAAAQIDESExEyOR/9oADAMBAAIRAxEAPwCmQ7KtzHZNdmPw4opGUn2rQbZw+MDsfFWGNYhpHYz6VpPrgzqWl+GTHhs4+w+1Iy+HlJH2mtsetTDKSXlttjxWQP5qvXZ+wMoUmRdoCP305+Dmj5cweOqMTnW5TSiMHairPf3uG1OHl3IO/phRA+MUVXusm/USzNpDl04seFgcdhX+6ouSVJw0tpttBBO+NIz086csMccUWlwniC7ruLSdS2jLOFjvITgY37sms+k3eXcogjrjsuKSkJU9oGvAOclXdSttnO2ua1JYUkutnYdR4b+NeBT0qe6fJop0xnTlSuB26Wub+YWlKJcgAkZKVLrmi3SE45jZZGdOXRp39d6t8n8R7u5CZZbUGdJKtTCyk5PXP+xVRmSWpJK/rcwnJ1r1ClD08ZzqsG25/Bd1CW16QsL809KKjoqbso01z0id2S68kJWoBsdEJGlI9BtT1uuUeMzyn7bEfxn6i0KKjnxwoCiigfJMq7QlZBtMIJ8mzn+1Lz7jHkRgyxbobB2y6hBC/fUR8UUUA2cyiiigR//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwcEBggF/8QAMBAAAQMDAwIEAgsAAAAAAAAAAQACAwQFEQYSISIxExRB0VFhBxUlQ2Nxc4GRodL/xAAZAQEAAwEBAAAAAAAAAAAAAAABAgMEAAX/xAAfEQACAgEFAQEAAAAAAAAAAAAAAQMRAgQFEjFxQUL/2gAMAwEAAhEDEQA/AOV0JQE4DhcKVjQMhIO/Cla3I7JzW/JNEuJE0HKFMG90JoeJkWyilrJ2sigllJ9I2Fx/pWPprTlGIJBW26XxuHASwOJx2OOFYFjboezwUgo7/KxhdiTEchDeDz255wvarNSaBjqp/tC7VEDImujMTQC93ZzQHN4OecnjhaHHgl2R025yafJ1EsvSt/qegaAHWmPd+gfZatqKxNFdIKG31GxoGdkLsdvy+Ksq33Kj8pp66Xe7zsoLhVVcM7WQgGJjN3hkEZJJIbnIWyRXTQLp3GW/3GEeGzq2Of1Zdu+7HptQo8E+zTNvMs2FKHFeHL9VTTQVToqiKWFzTyyRpB/ghC6Pqaf6NLtRPF2vFwEpmaCSHdbOnLwA3jgkY75GUIca+M81ap/rEqW2mmkZ1OnZ8w4eyy5qWJ5b4c1RgHJD3A7h+wQhVtF6F8o0wNa5sQZztDd42n1Iy4gJYqaFjGtfLUn4neP8oQihpGBXeWjJAfVc/iD2QhCkkFH/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Unique (feat. Clara Mae)</div>
-                    <div class="artist">Headhunterz &amp; Conro</div>
+                    <div class="name">Been There Done That (feat. Tove Styrke)</div>
+                    <div class="artist">NOTD</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBAEDBgf/xAAtEAACAgIBAgMFCQAAAAAAAAABAgADBBEhBRIxQWETFCJx0RcyUWJygZGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMhMQT/2gAMAwEAAhEDEQA/APDerYVdTtoDUSWVjnXhHnWMgPY2jFdNXtEZiD2je4pWiqlK1lHQ35/xMONfKMbs6u/ERfdqK7KVAWxF7Sw4GmA+8fU8wvpS3pa5SAAq4Rh+BlFGr0y7x+FCqsM3MJOhtNCTNlvKYlzsx10HAS/oz2MfituGOvPmfP8AbxiDKb4zGXTc98fCw61tCoMk2MCu9cAb/uV4mk9Zz/Sm5yRTWxw8pu+tWsrJXTjgN4b16TfVj2r0O/JJIpa5Kx+YgEkyqy3ZIycnllU91jfqP1nTZL0/Z7hY1Kk5D5DWv8hsf6ITnZXtpHKK3IhIjhvWEmbNznuJ5kSxC6BaEIAb8XLFNFlBUmq3h9eOvSTfKr919jX7TsDEhWO+Pr6whHr6EkipZ2Eg192/PYhCEQz/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcIAv/EACsQAAEDAwMDAwMFAAAAAAAAAAECAwQABREGEiExQVEUIoEHE2EycaGisf/EABoBAAIDAQEAAAAAAAAAAAAAAAIFAwQGAAH/xAAhEQACAgEEAwEBAAAAAAAAAAABAgADEQQSITEFE0Fxsf/aAAwDAQACEQMRAD8A0lUZFwudxjBUmMlIbbbe9u1SyE7tufH+5qLru82DTEpXqZjEYFoNJHJK1HqcDPb45qr3V+W5fJqWJDgWhRS00hPGcZ585rDbLBmXXVkaNfHNq7i6tQcC0uZIJ3dDwQRjBp2yNp3Uhs5+TIV2JrqXDoAF+jv+Toq0aksNwhOyLa4l9CP1lL5BTjuQRkD4pMzrWwOPJQ1eIZccO1KUr5JNZbptP2tRxmo6tgdWqOojulQKTkfzVKu1tcsurHYbKy6qLIAS4E4zgg5xUz6l6wDjPPMqU+NpvYqWIwMjqdSIfIUNxPA8UUojqWiQFOSXSFKLf21I4zjIIPwaKv8AB5iEoRPDTzA1TOD7ykwnwcutpJIwMFA54KumQDxVO1JcdAaeu0RhliRHuseKEx5bLKnI7CuQCnKvckEkkgHJ3Z5yKdXBl1uXMcZJQQpXSudbfcfTz4yp7apsNl1TpjOOEIUT1/bPGfNKta5TaR2ZqvE1LbvB6Hwff2bd9JbFapqYFznXh15xl1anSzHVsOB7QCoAkknPTjHTnNQ9a2zTcvWLUJi+OxZM2S2mQt+KfZu6hBHGR7Rzgc8E9KNKfUlu5z4VuRaWorbq0tJCHeED8DaBVM+osr7evVyY6wHoskHBPcEEUNm30gq2eYVHsOsIsTbwcTcQ2qJL9IlMkqSAMugZUnnbgDn57/iimy38u+pAJc27eR0HgUU2QMBMva1bOTnEhy46ESVbk89FDzSCZpDT01xCJNsiJ5GSlvYf64ooriisMEZnvtepiUJEm2/RGk4D7MiKwht9pW5K0sqJB8j3VCuejdOy7o9MlW5t59xe4uKUsFR7HGcUUUIpQDGITay4nO45/THpcJTgk56dO1FFFTyrif/Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Circles</div>
-                    <div class="artist">Post Malone</div>
+                    <div class="name">21 Reasons (feat. Ella Henderson)</div>
+                    <div class="artist">Nathan Dawe</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDBAEEAAcBAAAAAAAAAQIDBAURAAYSITEHExRRFSIjQWFxkUL/xAAYAQEBAAMAAAAAAAAAAAAAAAADBAECBf/EACIRAAICAgICAgMAAAAAAAAAAAECAAMRIQRBIjESUXGRsf/aAAwDAQACEQMRAD8A9V/9TrRQXivSgq6r2KSR4ZJGdirSqcdDicKcN/g8Z1HeqW/7dd4YPwWevlrVp1no61W4MhYfqo6D9iFx/BGRpDsixWWtqZaDcNUtDTy00rNVNUMVkl6IBXrBPf3rUNj7H9O6zatqmruDz1JaGJ/kSRtLyIyMDskePH7fWjosVmIEfmcSykAtM/pNyXYWG1R7NWut6qkiSKlQVeRuShpHOfLO3geMad2fd28qeeK23yQVcXtzTLHVH3mbip6GWBxkfyBq9n2PZKG4WykstEzVlDLylrfdkWOHJyQMsebsesd4PZ+jG+ok1hFvu1/21Gy7htM0UcbRljCodwpwpPFie/Ax1quxFZSyjYknHd68BjrJ/s7Q1dV+OWWqlpBJW0MamT3ACT0VaPsjl3kZJIBx96NZDNvTdC2VImZGtxk5e49IrgvyDN+oQSSSoyM/xo1PUox5D9Sq24k4X0Jse37XBtW/XO3z18i07MbfLXPSI6RP0QXAk5RKx8Owwfsa6pVU2256b08uNoa7UNseOZrrHL7bxCX8+VjAJOAcYDdgZ60529cLrPvG/XuktEVNbK1qX5UUjl5WHas4QAENgj8uNZt6kVjV3qbcZLFRpV1brDDTy8/bCsFUYPLH7DGDjB+9EoVNrqJZbbydNuPn9RqT8Tq6W02eK30UXuTR1FXPJPHOVbp0hJA5957OB5PjSKitVV6gXeDbouMNntNY710jrSYEjLGziQkyHmOsdEBfoan6G+XTbd7nF1dEqYP0mjkkZVlHIhiGjVgQCOPWB/mNMLt6j1kN1iiqmihW2TSRmnWplmVw2UdeLLxIx/WRkd51Sjk6PfcisHx9ddTQrV6DrW2ipslDvynlpnlEjxi3gupGegfcyAcZx4PnRqM2lvMbSeLcRib2VlloVBJUCYLk9KewAwxkEaNYek58G1AXk4GLFOfxPDuP1GrqRqCgoC9FSKIpvmxkrNUcTyLuQOWfH5c4x/elt7nG5Lqlx29XmSsEwYUtXMsUpIUHnyZgrdjHEHoaNGhCg+50K3Kk4nEfIiv9PR3KOkulajSSSzJJ7ntEAMWDjrIPk4xnrOmW/bVQtZku0kA+dXIeFUvUYaMY7IOAWCEccZznxjs0aZABVqacpi1+/oSgZbTddt07pUQBvkLXIjxgqsnFA6uP+stGfro6NGjUpYxMCf/Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYBBAUHAv/EADAQAAIBAwMCAwcEAwEAAAAAAAECAwQFEQAGIRIxE0FRBxQiIzJhcUKBkaEVFmLw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACcRAAIBAgUEAQUAAAAAAAAAAAECAwAREiExQXEEEzJRIiNhcpHh/9oADAMBAAIRAxEAPwDtntHv88dFLbrFeRa7vFIjNM9I0yhcZIwEbJOR21hbJ3NcoIq6e+bmjusLhHpxFb5B0AF+rJCAnPwjscdJ1T33E8m8Ll7tLCk4MeRJKcEeGvdcf2D+dKMaCkq2iiiVpgCZIOsYZsnLd+//AEOR5jSzIsoKQH5jY78UotJ074+pX6R0Ybc0w2zcW5Y56ae4b1op6L3lJJPDtzr1RjIaMHw/M/qz5ffVUXPfMLwrJv6iaQr1ENaXAcccjEfkfLzz5aVbD/mK65miqqOYNUFpJFLKIwvORwCScY+n6jnjudbTXFIYhTXFXWPHiQyIwd4xjIOO5GPtyPUEHQTTiOx9eQ3HFMhjlkZ48jfNWHjwfVdR9m9+qZqFKO/XpLrc555Gimho3hQIBkJyowRhu+jSrsMSw70o4nwrEuZEHZvlth1/Pb9vtyaYM873G1vVCj4hmCGGRB91T9pJhi3jcXq4GkUmPw2HJGIlzgeX7HP9aWqapSGgjM2KujUssPwHxEBYZLAcnp+2CNNu/wB3XeVcY6p4JA0fTkZU/LX1GP4OsKQxLIsk1PLFJ09LTQsDk5zkk9/vkY9DoZldlHdjxKNGXUVPG8aSkQS4HOqt4txzVOpjautE0lNKamHLRxzxfDKhxxgHnOfh9c+urG16Stu22oLpVP0TUcyQ1MciEB2QdAZkJHxDI8wCO+vNRDLDEal0MglI6ZKdgSQOR1AHBHGeCR+NMW1rhTx22lpFlipqZCr+GiEiYgAjp44YkA4zk9sc6mmV5lDRsHAOu9vvVnTOnTsYynbY/o/ian2cyH/aLZTuvUITIqlvqj+WwI+6nHB/8DWtty31dPva31M0SNTzNK6n9dOzIxKH1BPP5/bRqmIC1wtq1lZDhLYudf7Ue0e37ne/Svt3atHdqWWFGeWevMPVJggr09YGMBecfz5Z1y2ruGhoUa17bt1XUGV+uP36aNQvy+krmXjOZM+nT250aNMQYCSuVLkUSgBxfms6tsW76epPuOxLfNE9PG7Frsy/NKAsrKZMHpfjPPHY6sUe39z1FM09fsqigqxMokRbo5EsOGLFcSfXkIBnA576NGsAAbGBnRWuvbOg2pv2LRbha4pPuC0U9vgiEnhKtW8zg/CFJPWQcqzg8dxnz0aNGitWFia//9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Even Better Than the Real Thing</div>
-                    <div class="artist">U2</div>
+                    <div class="name">Don't You Wanna Play?</div>
+                    <div class="artist">Seeb &amp; Julie Bergan</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcB/8QALxAAAgEDAwMCBQIHAAAAAAAAAQIDAAQRBRIhBhMxQVEHIjJxgZHBFBVCYaGx8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIFBgQD/8QAJBEAAgICAQMEAwAAAAAAAAAAAQIAAwQRBTFBUQYSEyEUIuH/2gAMAwEAAhEDEQA/AF+lWu62muGHyhljH3PJ/ao/qS6tWiniRFN0JSqAH6eSMn9KqhPP/INRgtQGuFXvRj3xjI++K5rayrf3D3vZKSytl0znnxkfnmgrs+Nndu0ecfx352UFboJTaBp5tdKimbcxmyXdvGQSMVmvFggj7KuqopymT4HtT+Oa2t+nIIWUyMrYkymV5J4z+1ZoukYNYQy6fGqn12E4/QmlmbmIag9h1uU9CDGvsIH6jvJqdwU3MwES+B6saKdTdDzWUrG4JkiRtrCM5OaKLFzmSsBACPMK7kMN23G5vRp0b3Znjh7Q+qQ4GT6e5/FQM+ome4kmdlMsrFm2qB/qmXVE8slnIzNAEz8oUF9oH2BGf7nipS3Ru0HHNMM6r2JpupiP03m+92eoTrlteQx/DPTSygsLw7iUHI3PgB/v/TyfXwRXvS8klxqD3FsuxGfthF8Gk88k8nwfsUiWMINRLAmQk7/nyoUngYwcjyTyPUqdG6nubAlTZsJQwfcreo/FJsrB+eshT96j7HyFcOCNEkzrWgwu2pxR30LxxsSWZvC458/4opNp/Vmo6pPC+pQzqJI8RmfCJ55OQMnx5orciIFAAkVdh3K5DNozh12rzLYSm6lh3ptbYSACOPArQkVzFtd0UxsMb1+lyOCR/wB5ooprkViyolvAnTgLGS4KvT+yr6f/AIvUYbbSpLuVdPEncWE8qG9SB7+av4un9C0i0FyLk3VzghUkh2gH8k0UVg49VILEbMoeaZqsitKzoEbOvP3NsU2galJbnWbu6gEQ7JEC5wo5BA2kHknyRRRRWtAANCTt23sYk95//9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcCAQP/xAAuEAACAQMDAQcEAQUAAAAAAAABAgMABBEFEiEGExQiMUFRcTJhgZEVscHR4fD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEA/8QAHREAAwEBAAIDAAAAAAAAAAAAAAERAgMSEyFBcf/aAAwDAQACEQMRAD8AyjTen5brTe9sFUHOxfIyADkAf9iqya32StHMArIfEhHIz6gfmtCvoeoDqMwtnsoorfKx7trZHkcZBxgfaqnquLEumTzC275KCsqIcHd6HAHPH79qFKQ76QiE9hqFpFIpEM4mAUeEjAz8fT61NvtNRopTCCyySDBX6SeDk/5qX0BBKmk315KRHBPdlQFJBBRcAefPJHHpV28ltJaqe3V5FYEIrBfD54PucnOfas+zUvgyLWrB0kkHL+LAOKKbuprMdrI6ldzNk4IwB/c8UVtC0MWm31lfLfXmmiWRIVkUbzjJxwcg5/pnNZ3poa61DU11a3mN/Og7vvICq4zg7iRt44z+vv5bxGzt4L6AzpLI22OLhS/BBJA5x80w9I6UmpXF1farvnCDbtEhQ7jkKM/P+qGs1Qty6+t2U+dlBc22iJFFGIJzuV2F3GRu3AqeW9gecedMfVc/8hZ9NLpLJBcafAIbp4pIk3cIDzuyx4Y5P45qc9hp0GnQTiGOJCwUq5yPkk8k59xmo4j09p4VZEidYeSqk+gIJb3/ACfn2Hg0omV12xp15Em+hkkFoyS3TncwlkmYAeE4G3HHP5oqw1m9j7vHFHsCcY8s+VFUzlpEOnR6dSn4Lltp8jtF2/aYfncRn5q7S/u9Kltn05lEX1vG/KzcfSwHtjz9KKK0BaL1Zp+o6YwWWSzmRArRsBgDnO1vL19q6vdWbs/DtChR4wByMDkY+9FFdDqIur3xYhQ5K5JFFFFJBp//2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">No More Lies (Sad)</div>
-                    <div class="artist">Janee &amp; Nito-Onna</div>
+                    <div class="name">1973</div>
+                    <div class="artist">James Blunt</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQIHBP/EADEQAAEDAgMECAYDAAAAAAAAAAEAAgMEEQUSMQYhQVETIlJxgZGhsQcUIzJhcpLB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAgMF/8QAHREAAgMAAwEBAAAAAAAAAAAAAAECAxEEEiExQf/aAAwDAQACEQMRAD8A4LTRjX+01ghDgHgHM3VKZquGlacxzSdkJ3s1VQ1wJYCHN+9h5LYrxvBC3so9s8KCiqKMQwxGGYVPGQydQj9bX9UwM0bW2Ovek2KUzaV8boZC42vpovDLWuBvcgqVryLiRo5Gtb8H8kzd1r33cUKadiNgLlCyZKW/DTUq3+kG9xcS5xJcVa/D6i6V73xxvL3WBfmGXuA5qIBNxa6cU20WK0rmGnlEZZpljA89287k7GbhJNIq5FUrIOMfDpWIQyybQSYY9ga2npulzG+Ykm1hwUvjMtPQu+vIGng3UnwU5W7Q4xWVnzc9ZMagsDDI0ZTlFyNAlkzpZJHPlL3vdq51yfVSna5+tCtXBcWtfg0qMVic4hkbyOd7ISZCrHFTBGeRGvetukf23efj7oQguMZ32tnd/Lw9lsZpTe8r9+vXP4/weSEIwDTiSfdCEIA//9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGBQIE/8QAJxAAAQMDAwMEAwAAAAAAAAAAAAECBAMRYQUhMRIUQRNRUqEVcuH/xAAaAQADAAMBAAAAAAAAAAAAAAAAAgQBAwUG/8QAHxEAAgEDBQEAAAAAAAAAAAAAAAEDAhFRBBITFEEh/9oADAMBAAIRAxEAPwB7IeBnabcG8yHg77TBerDsnViYE1ImCmdEwLfD52BtAkSVWJzsBQV4nOwCXGsWKRMHaQ0ul2qqeTQZUZgZ6jPZCfmWSrrVYM/tKKJvTff9v4eStGair0psbDntwIerPNg5FkZQVeInpEVXXsgGxWcz2QBt6M9eo8FPWqHyO3axRXh/0AHHtb09Y9JHgS/VmeFFflKaqvW/pSy53ADdGhXBQl8QmbqcVlJVpyle749Fvu4ABUkiZxpM/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">You &amp; I</div>
-                    <div class="artist">Geoxor</div>
+                    <div class="name">Memories</div>
+                    <div class="artist">Sunmoon</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQYI/8QAIxAAAgIBAwQDAQAAAAAAAAAAAAECAxEEBUESIVGBEzGRQv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAABEQISIf/aAAwDAQACEQMRAD8A9UgEdkn0tV4c1wBIAAACaf0AKG93S0+3W3Qck68S7eM9ylGeok9tkq54vm7LGv5WMpP0bbw0HnjH4WMqhb456zdZy1Uqq9LrYrqacpVyb9Jcey7q9Z8VlSt+SuuUMpyg2+rw8cmp38r8Czyy7QWh0rzRB9EoZ74l9+wTgygAAAAAAAD/2Q==" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAYHAwgBAgT/xAAtEAABAwMDAwIEBwAAAAAAAAABAgMEAAUREhMhBjFRB0EigZGhCBQyUmFx8P/EABoBAAICAwAAAAAAAAAAAAAAAAMFAgQAAQb/xAAmEQABBAAEBQUAAAAAAAAAAAABAAIDEQQFMTISFCFBUWFxgbHx/9oADAMBAAIRAxEAPwC1dQ3i6xLrNajEojoQjQra1c/D2898fPivMi+XtW/pTqUl1QSna9gtIxnHgmn+sEuVHiNbkp5tpHbKlY+laKZR4tlBoiBP2kRnrKRMfjxWI8mPJCNZLzScSOwJSAcgA+cd8jsRXdd/u7eCFFxkICi9sYz8QB4x49+1JHSEuJb/AFimOSVvM27ZdTFfKlFC1rXkhRPbIyeffHaro2tDqErbUlaFDIUk5BH8GhxOLhZKNLIyA0Yunr+JVst1ly50JmQ/pcO7vNloDOMaR5B5z8qKbKKKls8zXusClzUs9TJ4R1GywVcNsA48kk5+1VPP+zUf9W7Rt9QxbkrXofToSsHhC0jBBHgjB+VCm2JlkfDzQDvBr3WadY2ZNghPvTjCcfQrbWmPue/6jg9+Uimb07VEt0Ry2NXBU1a3lOtnaKdCcAEck9iD9ancfr2Baen2I3UsZx38k06EvoKQkhR40g+47A1SOgYMKTabbf4zD0ZybHD4ZWsK0pWAcEge/B/usiDatqtZg4tjdHPeprSu/wApwoozRRVzqwblSv8AEEJB6dgusPFoB5TepJwoKUg4I+h5ooqD9pTLACsQ2lq/fX3pawm5SkmPHRhLAJUUnGBzityvSrcb9NemUOqSVCA1jH7dOU/bFFFRjFClbzVoaA0Jq3KKKKIk9Bf/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Glad You Came</div>
-                    <div class="artist">VIZE</div>
+                    <div class="name">Smash My Heart</div>
+                    <div class="artist">Robin Schulz</div>
                     
                   </div>
                 </div>
@@ -2384,7 +2384,7 @@
                   
                   <div class="name">
                     <span>raspberrypi/linux</span>
-                    <span>starred 22 days ago</span>
+                    <span>starred 23 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2499,11 +2499,11 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    6.23k
+                    6.24k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-                    507
+                    508
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
@@ -2546,7 +2546,7 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    6.75k
+                    6.76k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -2774,7 +2774,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 8 Sept 2025, 02:10:47 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 9 Sept 2025, 02:10:47 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
