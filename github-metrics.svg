@@ -1704,31 +1704,31 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
                   <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    6.88m added, 7.65m removed
+                    7m added, 7.72m removed
                   
                 </div>
             
@@ -2075,57 +2075,55 @@
             <div class="tracklist">
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAQCAwUGBwEI/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQACAwQFEQYSIUFhBxQjMXETIjNCUYHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIDEQQSISJB/9oADAMBAAIRAxEAPwD5WAJB7IF7/PGUHJQBKoqU1AlwcOa3cFTUxOiGSSQQM/JGVOs0rqec7RT8tPM4+32Ue61hq9rpAwSE7nbBgdlKrzobn6Y5ERUIqKMOCnujmlpQBkIXt8u7cR8FRqz6JkaacuI2jduH7dcdlJt9KZ6eecPb6A3bC3OVCja0u9QHHZQlplOtrRbRTPLtk/EHd8n/ABE+6Dqy3NAIooniaKQyDJa08t+VsOj9L3LUVJd6i304ngt0LJZ+cEBzg1uB1Oc/0iKcjahscr2R2K5+D9dp/Qc3mLaIriHh8rhMHbm4zwc49ug6rl1007ELYKylw5uMnCIuXk5Klzo348TSrZuvglpPRmo6S6DV11koKhmxtNtlEYAOcuyQQTwBgoiLmyZGqaNJxprZ/9k=" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBQEEBgj/xAAtEAABAwMDAgUCBwAAAAAAAAABAAIDBAUREiFhBzEGIkFxkRPRFBYjMoGhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAMGBf/EAB8RAAICAQUBAQAAAAAAAAAAAAABAgMEBRESITETMv/aAAwDAQACEQMRAD8A2rZYXSYOnf2Xb2/wbE+ijMjyJ3uHYjS1uPXncFWtvt0cbRsFdU9O3YYC6d2p8uosUpwWv0jlvynBHJF9UtezUdWl37gBke2eyqr/AOEaeNsphnbqYA3RjdzhsT87pnGH9PG2FV1dMx2cgFUx1CcHvJlrxFNbRERdbE9jT5T8ITZuVrikY7yhCaWqQfoo8GxPpC7tXU9s2A6EsPD8rp6HxwyQgtk/grzBFUvZjBKs6G/T0rsNc7T7rKXYTfcG0a+jUIeWxTPRF46jVtvvFuia2CahrXfRwBiSJ4BJdnOCMemxVXeeo76cnQGuPLvskbcL5LWTwzOe7VCfIOT3/palTcHzZLnkoRxJy2+km9gPLpr5fOK78GfcuqtwIIiZC3nST/pQlG6Qk9yhNrGghKWZY2R7crI7jHblCEyKk5p2ZI/EwfLvsoC07+oQhACMEchCEKEP/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Ε. Signaler
-Anstößiger Inhalt</div>
-                    <div class="artist">Damso</div>
+                    <div class="name">Ain't You</div>
+                    <div class="artist">Aexcit</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBAMG/8QANBAAAQMCBQEDCQkAAAAAAAAAAQIDBAARBQYSEyExFCJBByMyUWFxgZGjJCZCRmV2pbHR/8QAGAEBAAMBAAAAAAAAAAAAAAAABAIFBgP/xAAfEQACAwACAgMAAAAAAAAAAAABAgADERIhBBMzQqH/2gAMAwEAAhEDEQA/AGK8DYSEfaBqN7pte3qHHjTODlvCnAd7ESpQvdtAANvA3PHwqOpxOQlWrtDnxVTnApWKzpkZrDgtapEhEQSCDoQ4u9gVeHAJ9wrX3KyrpfJlKbK2fPXssbGW8smH2eQ8tuR6W4V+cvb1WsPdakkjLeGJfCWMWQtuylKukak29l+fnXisdhNnC5czB8XmyXIqQ892iMWt9oubZdZVc6khfFjY1jzOJmDsxpsHFJrkV11cZaJDey8w82BqQtAJHQg3B5odR76sPcbdxzTUABKE7l2H2cIjT2XnTY6dBCueOPZRUcex6e8gIXMe09fSt/VFLFbj7wRupJ+P9iBbpI5NUHyZSNEKECfzBEV9NypcmWlVrmxp7l7MLeGMPRpTTzkZxxD6Vx3dp1p1FwlSFWI6EixFFuYWLkT46+t9M952n7sW/QdP8hesnlRk6oUz9wy1fTbpErN2FvNNNO4RJQxGbDLKGZhTut6gvQ9cd7v964tSrMOYV4zFZaLO2rfdlyF6r7jy7XIHgkAAAUdUxgYux1KFdi5Lp4orOm/HBtRTQ8rSgmbD5mHsxFolw958qJSu6hYW4HCgOvPSuSXIenl2STbxQP8AaKKqgTLUgTol2GQbOv3B4GgdL+/rahb8IIVsuP6/whxAt8waKKkHaRKCcxJOkDUefAXooorpzMhwE//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgIDBwj/xAAuEAACAQMDAQYEBwAAAAAAAAABAgMABBEFEiExBhMiQWFiBxWBoRQyM1FxsdH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABsRAAMBAQEBAQAAAAAAAAAAAAABAhEDMQQS/9oADAMBAAIRAxEAPwDqN3O288ClRId+WxmnvwrTSMcHBrE6W6v5laromM32dsJ8EjipWztSswRScUlbzx29xFaKjd5IjN6YGPvzUrFMI4xuxmpt6PmeklGvdsNxNFKxXIknQdR/NFAJBm8ET42/SkdfvpodKneJijFRhh1Azya13YkTLMCM0tFI0sgQHn1NPU6mhZv8tNlY0HXLuXV4Zr6aSWCF2VW9p4+tXyS+7wqYSHQ8hh0qKvNEtJrS5ks4VW+EbNGEO0M4HAI6cmuH6P2v13RNTn2uWkLlZobgEqG88jqCPTFR486jU2X+ntF45WHoyGZkAJ86Kp/Yjtvp/aBBa3LLDqK9UPhVz7Tn7ZzRVznTLpqxjvNNkba8Lo5TxrjdjzHpVViWSKUkg4xRRWkFejsFyY5BtaqX8TOx/wA7k+aaacX8abZIAv6w/ce7+xRRWB6jihuntX4laKVCfyjxKf8AaKKKYQ//2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Don't Follow Me (feat. ZEPHYR)
-Anstößiger Inhalt</div>
-                    <div class="artist">SRTW</div>
+                    <div class="name">Everything's Good</div>
+                    <div class="artist">Phil Good</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAKhAAAQMDAgUEAgMAAAAAAAAAAQIDEQAEIQUSExQxQWEGUYGhMnEiI8H/xAAXAQADAQAAAAAAAAAAAAAAAAAABAUD/8QAHxEBAAICAgMBAQAAAAAAAAAAAQACAxEEEhUjMRRx/9oADAMBAAIRAxEAPwB2esz9U90f06/qumKurZwb03CWOGU9jEqnxP1SRKSpR2pUqPYUxsNZvdPt1MWj5Q2pRUQACZKdp+qh0ppG46ZWtcdlU2R4/wCi3m0OK51soakrJbOEhRBVg5wJilOr6Euw0qz1Di8Ru5JG0pgoxKZz3TnxVyvUetFyA/tWmFkhAxknsM5Jx3rPf6vqOpMKaefL7LqwvYEgBJSIG32Ee1NPG3Va1YsckEGxFI+6KtLSxIKFfx/LHSik7UtR1YSN1yVubqjNtgkcmTuCVKXAJHf/AGqnoatg2AhKxlU/lumsUnzHbNWuPuugB1alR0k1R8j6umtIaJP8f7e+9i7YmVdaoxeJYTbLuWDAU8XADHfqZPzT8O8yW21bGiFSFzAA/VIW9NvUKaUNUd/rG3bwwUrEznMz81c5Yb1OHmrpG9wOHhrjxAx0pc5dx+/2MfkonyOXyFNOKCkIVuhSQqd/mikmj2rloh0OqdUCrHEdKz3z4HQfFFZ5szlt2ZphwmKvUm4DNdR0oopebyT+65Iz1ooohJjFFFFEJ//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcDAgj/xAAtEAACAQQBAgUDAwUAAAAAAAABAgMABAURIRITBjFBUWEiQnEHFIEVMqGx4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEBQL/xAAdEQACAgMBAQEAAAAAAAAAAAABAgADESExBBIi/9oADAMBAAIRAxEAPwD5rCcEc7qzxFgs12qTsYwQSpI9fQV7wfZN2JbiNXiTR6T9x9BWo2UeIsEEecskkllTq6YiNqfPROxr5NS33/H5HTNDzeQOPsnkWb/wlBJfR4/HSrLcyRGXtoeoodbAP/Pek7+nTKJnljZVhPS3H3e1bTa46WxurTI+H8UI3lmEcLRSLIes+hO6P1B8QJHNFY5DE4+GYKep7V1ch/Uv08bNALLU4MiK9VTnuJhcy9K8/wBzUVJyKqtxKVkQ/VsDZ3o8+1FXpsZmc6/JxOMEzRyqYzyp2Pz71f4y3vcxeLa29xqRlOy76B+Cf5/zSzD1M/0KSfgbpntJp8VLaraxNJcIwml0NjY5C/x/uhu1zsfz77yW+NuM2M1NYpkwv7Ji5l7/AAjgABt+/AG/io/iMDttcplLmWRyO4kjH04Gj+OKg44M2QZgvbinYs6FGA9SAdEA1BzE/WSiKehW1vXnRAszAZ1KSqKhJG5VnUkm5Dx5miuErfVoboqsCZpbcZvAeftsEL97hZHeUR9tY5TESVbZ+sA64+OfKttxX6g+GMjaoLjKDF3T2dyGRd9pJmbcf28kDfP5oooL6VY5M0fHaSnzFOXx/ZWjgxXhuSvaOwG5ZTsnRGh+RyaRb/L211aSWxmXobr0efuYt5efrRRR00qgyJzdaWbGJQ5yaC4ljmimVmVFjKdJ9B571qiiirRyZ79n/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Relax, Take It Easy</div>
-                    <div class="artist">MIKA</div>
+                    <div class="name">Hey Baby (Drop It to the Floor) [feat. T-Pain]</div>
+                    <div class="artist">Pitbull</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQgE/8QALhAAAQMDAwIFBAEFAAAAAAAAAQIDBAAFEQYSITFBBxMiUXEyYYGRFCRCobHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQQFAwf/xAAmEQACAgIBAwIHAAAAAAAAAAABAwACBBESBSEiMWETFkFRcZHh/9oADAMBAAIRAxEAPwBX3biQrIr2MQEuJAySpQzjvTDpzTn8t5puesIcc5bYQne6oe+B0/NUiL4aR1NqL0l+Ehadqti/WoffPArpOb1rHxTq1pApW7DqgkKQhSpCQAVKJ4A5JFbz7U69y1NBwoIwpSHFYSgDjKif+9q6A05YLPp5gR7RGAdV9T6gFOKP3Uf9DArKvGhLVJu713my3wXE+oLI2BXv057cfao/zSljSOOgB2Pqf1/YzfDPHkDJ/B00IERttKguRgeW4TnJPPpBPFFNLmy3PKc0o27KlEFt+fJWVJZAOdoT0BPHAGcfNFSMjr7gwiizb3m6Oi0asMa+tSfoTHSBGi25bz0aOHJbv1KH1L9hnsP8ClbWviRbbD/SOIL1wDaVvoZVuajkjI3uHA/A5I6Dmptqzxe2x0wdLupXcsnCmULWlSjxtSeijg5yfTmodqW43R64vovD8hyXv3OJdXn14+fapJSCzkw7MYUL2VyA0J1ZB8TtPO3SPEt0pMx9aC64psKKW0gZPOMZ7Y96TNTa1cm3Z0pV5iHB/YrKUgcBIPTOOTiueYlwkRYzyWlKQ296XCnI3eySR+8VtaGgv3C7F3zhGhsoUp6Q6ohCE47kEfrI+afx6qrYeOzF2LtQEm3b7ShTtXW7TjK48NCkSltqKiyckOEcE9sD8mipFcPKU8UxXVuI3EJLg2nGeO/FFFjbG3pAvCSK+YBPvNW2LlqShNsHluNEgPttDI3dSVnnOKZLLoGXPWHHZC3JTpO4FrzCAepOe+O/aiiqWFhJKi6w2Yc7LbUcAewnq1JpSy6PitrurT8lbivQgqOMj44JpYverEzI7cONGEe3oB2tIAGVfrH560UUtl5FleCwAPxM8IfGpzZ3O4rBXJOBRRRUzco6n//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcEBQYCAwj/xAAtEAABAwMCBAQGAwAAAAAAAAABAgMEAAURBiEHEjFBEyJRYRQjMjNCgXGhwf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAERAgMEEiEx/9oADAMBAAIRAxEAPwC21rxAe0hr+32+WyqRapsUKKW2vmNOc5GUn8sjGU9dtuu7MtMyLcYjcmG8h5lYylST+j/BztjsapeJfDZnV1pRIj8jN3ipJjuqRzpUOpbWkkBST/R3pMcNNSXF+9O2pUdxh5tlbL6UqClpUrAITk5znJwon0Hu72jNVdU9NNno5AQ4gKQQpKhkEHIIri4ztSy4QPzU6PgWSa1OfkQrsuOhwktKMZtzlBWFb4ST9PokCmnZQq6QpMxl1lyMqS63H8PP20K5Nz3PMlX6xUk6qBdkv35SvcRiip8mI4kny0UaWFtQ1UflLQG1YjXnCzTGtEl2fE+GuGPLNinw3Qe2SOu++9X1vuIGyjtU0Tkh1KcApPfPSk2mf04bzpiknaCuMi+2izTtTXyfEYHzZK1IRlsD7KkpT5sjPmUTv704Lfb41shR4dvZbYisIDbbSBhKEjsBSs1PY5GreLjSI95nwWbRAiTQlleEB0yF9U9CS2lY39qa8l9EdvqOc9B/tF/EKb92kkdMoIDZJAoqqmTcjGaKj7F7Hj6hnGn1AjBqY3KOOtFFKps7xlmfftcl2+XOcm4PMfFJieGWjyqR4ClqKTj6kq5twfU+1aFycpWdzRRRrFZ4YTsIjshRoooqNLKwof/Z" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Anything (feat. Karra)</div>
-                    <div class="artist">Villms</div>
+                    <div class="name">telepatía</div>
+                    <div class="artist">Kali Uchis</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAAUGBwMCBAj/xAAzEAABAgUDAQQHCQAAAAAAAAABAgMABAUGERIhQQciMTJREyNhcaHB0RQVFiVScpGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAQIDAP/EACYRAAICAQIEBwEAAAAAAAAAAAECAAMEESEFEjFhFBUiMkFCkeH/2gAMAwEAAhEDEQA/AEMn0huNiWQyqSt14hOCtayVE+efR5hfWOmFx0qUXOzjNsJQjOyUKydsYxpx7d+Y+i63V5GhypenXBrPgaScrWfID5naMSv+9fVrm6kSUrVpYlEHuA3xn/SYihHf1NsI7GFToWOwEg5i0axOtKaSzQWtYB1so0Ec+IDaOTXS2uuoSpL0hhR29ar+fD3RRNzd5sUVVedtB1NCQn0inl6kdjzyTnHt04jQbQr9NumhqepqShxvsuSyj2m1H4EeR5jrnVPbJoxsO88qneZXK9OK06yuRT9y6jkJeWTqJ79lacwRtGuUlylDaxrHiSlOSN+7PEEYmxviE+VUd5HaX5+aXMTbjrzq/E4s5PxicnFUuk9V7XfuhH5G3hxzWjUjOVYKhyArQT7I0lluXZGEgKPvhNeFsS10yCWJhRZeaJUy8kZKCe8Ecg+UFWZBbboJtmY5tpKp1l44zal91t6XeqVeumQnXifRsKcTTZLQnIBUjSnIzyVHJG0YjY0rLU/qZc8hb8yt2itFxttwKzrQHAE788jPI3js3Qb9kqD+HmbnYlqANQLbbhQNJOSDhOog57s4MM7dkZC1qeZSmOl6YcOp+YUnBWeABwBFVQ2bKIqwsO1bQ7jQCVr77Uk12QC7jsp+sETepbyipbwHJyYIIGKv23Mf809A9RqGhPZmVK9zKvmIWz3USSdyGZlaR+xX0ggiiMFOugiE8Su7RI9d0s8SXJxf9VfSPFF0SDaSftC1HyCDk/CCCDPFuBoAJQ8Ru7RNVbmXPgt6y1L/AKE53955ggggpOJ2INAo/P7FdjtY3MxOs//Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAQCAQUGBwgD/8QANRAAAQMDAAYHBQkAAAAAAAAAAQIDBQAEERIhMVF0sgYiJTVhcaEHFUFCsRMUMjRScpTR4f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDAQAE/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBCExQf/aAAwDAQACEQMRAD8A6HhYuPVD2KlWNoVFhskllOfwjwptyMjW0gmOtiNnVt0n6CpQfcsfw7fKKQ6ST7USW2E6Krt1JWlBPyjaazpIulKctYjBsowEdmNfxP8AK9WoyNcTpCOth+63SD6isdtumiX7XKbcB8KwRpdXG8Gr3BTAky6lTCmVoxjJyFDG0Hz1Viafgp1WQWZIhNRcemGv1JsbQKDDhBDKQc6J8KKcnO5ZDh3OU0VzQqZPBSE7lsOHb5RWufbBESSbtibsQp61bbDb6EjrNYJIV4jWQd1bEhT2NYcO3yindo1jI3V0o7LBlVzps3Rz7Fu3a1tOMoUUHCtQ2+W+t2dG2FN2TanAsOEZOmrPpSr/AEWs/eDVzbNpaQD12k6k+Y3eWyr8y2GkaIJI8aMIa+no5fKjelqheb7lkOHc5TRVJs9i3/DucpopshSujC42TkkyVkE39qIkMNjRLzIGPsfj8+dP0rJrWUt1tKTd39kFEEHRuE4+ud9FFFCsw/hL73HfCVt8ZB/MDbjH6vSmUSsclAT7wtDgY1vp/uiikT0TFJmVj1Q98E31qVG3cAAeTnOifGiiii2XqrWD/9k=" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">In My Mind (feat. Mi Manchi)</div>
-                    <div class="artist">LVNDSCAPE</div>
+                    <div class="name">For You (feat. Park Avenue)</div>
+                    <div class="artist">Rich Edwards</div>
                     
                   </div>
                 </div>
               
                 <div class="track">
-                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHAv/EADUQAAEDAwIDBgIJBQAAAAAAAAECAwQABRESIQYxQRMUIiNRYQdCFRYlUmJkcpHBgaGy0dL/xAAZAQACAwEAAAAAAAAAAAAAAAACAwEEBQD/xAAfEQACAwABBQEAAAAAAAAAAAABAgADEQQFEiExQVH/2gAMAwEAAhEDEQA/AKfd7w6mZcGNUsvd4dAdExwY8Zx4c42G1VyZKuCVBQuM0JJ8XnrP807urfY3W4rTlR7y4Tk9NRruyw5l8lLYt0JySUJ1KCceEdCSdhvUbnmW20nt+xvHkv7By7T9R5jWrb0+akbhcJWEhufKynfIcUMj961uy/BuHcbUHr3fjCujmPJZSlaG/TJOCo4HIY/rVG494QicOIDP0j2s7ShSkkaW1JI3KDjKt+g5cjyzSzfWGA33O7LFB0EZ+yqWm4TVXeCFTpSgZDYwXlHI1D3oppaE/bUAfmG/8hRTiBsipznuWG4PIfu01BTt3hz3+Y7VqnwjWxBsV9aAZMx1SHUtIx2hRgjPuM9PXnzrILusJuE5aVlBL7qQn31nNSPCvEy7NerdMebLzEQLR2aDpUUKznf136+lKdCwwRiXLVYGYbhmppefl3ta2CWNK9QWgnKlaRjbonr/AGrr4xRYq+FrDIkhK5ynFJSvBJUnGVDKhqKc4xn1pijjzhNWp9Ua4LeVqIaUEoCTgAbg7/xuaz/jbjK5cQusd7f1IY1dk2kABoKOcD16DJ32qrxuO6N5mv1TqFPIrUV/JDQoJ+sEFSACgyWzz/EKKQs8p03i3p1bd5a5/rFFX8MwlKyTvMCS9OmhuK+SXlqB7FX3j7VFN264ZGYEzHXyVf6oooVJjLkG7FV2+SvGLbPx+hX/ADSC7XciQRAmkdPIVy/aiijBiO0SW4etUtN6t5NvlpxIbJUphXLUN9xtRRRQExyjxP/Z" width="32" height="32" alt="" />
+                  <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEGAgUIB//EACYQAAEDBAICAgIDAAAAAAAAAAEAAgMEBQYREiExQQdRE6FSYXH/xAAYAQEBAQEBAAAAAAAAAAAAAAAABAECA//EABwRAAEEAwEAAAAAAAAAAAAAAAABAgMRBBIxIf/aAAwDAQACEQMRAD8A5VT0ivWH2DHa60xVd5u4pdzGKaP8TnOZ1tpbr+t9kELHLql9O2N3drdFcpsdutTjtXfYKRz7VSPbHPUBzdMc46AI3vyR6WoXSuO2OjsltFyt8ZuuGuYWVlJK3bpBy2HObsb107rRGlRvmejxKenZdcPoHUMRlEMsTW8Y2v0fAPfgePG/a8Icls3CjIxHQ+3aHkSIioJCStnjtDVXW80dvow58k8oAYPB+zr/ADa1hVo+N723H8qhuBhimeyKVsYkJ0HFhAPSGp09sx3I5LJBUWOstrm0Hcb5ARsgsdt4HjXL9A97XO9z/Iysnhkc8hkjgGuJ67V0ybN5Mlkknr4A2vdMOErCW8Y9EFugfvSr+aUlHR3OEUNSKgy00U0x/jI5oJH7U0EOjlchblTI9qJfpXkRFSQhSCWnY6IREBlzfyDuTt/e1DiXOJcSSfZREBiiIgP/2Q==" width="32" height="32" alt="" />
                   <div class="infos">
-                    <div class="name">Make Me Move</div>
-                    <div class="artist">Culture Code &amp; KARRA</div>
+                    <div class="name">Neverender</div>
+                    <div class="artist">Justice &amp; Tame Impala</div>
                     
                   </div>
                 </div>
@@ -2171,7 +2169,7 @@ Anstößiger Inhalt</div>
                   
                   <div class="name">
                     <span>multica-ai/andrej-karpathy-skills</span>
-                    <span>starred 10 days ago</span>
+                    <span>starred 11 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2186,7 +2184,7 @@ Anstößiger Inhalt</div>
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-                    21.2k
+                    21.3k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
@@ -2194,7 +2192,7 @@ Anstößiger Inhalt</div>
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-                    158
+                    159
                   </div>
                 </div>
               </section>
@@ -2208,7 +2206,7 @@ Anstößiger Inhalt</div>
                   
                   <div class="name">
                     <span>shanraisshan/claude-code-best-practice</span>
-                    <span>starred 10 days ago</span>
+                    <span>starred 11 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2229,11 +2227,11 @@ Anstößiger Inhalt</div>
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    65.4k
+                    65.5k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-                    6.51k
+                    6.52k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
@@ -2241,7 +2239,7 @@ Anstößiger Inhalt</div>
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-                    144
+                    145
                   </div>
                 </div>
               </section>
@@ -2255,7 +2253,7 @@ Anstößiger Inhalt</div>
                   
                   <div class="name">
                     <span>RSickenberg/programmatic-resume</span>
-                    <span>starred 13 days ago</span>
+                    <span>starred 14 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2297,7 +2295,7 @@ Anstößiger Inhalt</div>
                   
                   <div class="name">
                     <span>yannlugrin/claude</span>
-                    <span>starred 13 days ago</span>
+                    <span>starred 14 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2367,7 +2365,7 @@ Anstößiger Inhalt</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.9 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.49382716049382 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                       
@@ -2380,7 +2378,7 @@ Anstößiger Inhalt</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="217.9625 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="219.33333333333331 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👍</text>
                       
@@ -2393,7 +2391,7 @@ Anstößiger Inhalt</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.225 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.123456790123456 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👎</text>
                       
@@ -2406,7 +2404,7 @@ Anstößiger Inhalt</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.225 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.123456790123456 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">😄</text>
                       
@@ -2431,7 +2429,7 @@ Anstößiger Inhalt</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.225 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.123456790123456 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">👀</text>
                       
@@ -2456,7 +2454,7 @@ Anstößiger Inhalt</div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="53.4625 329"/>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="52.80246913580247 329"/>
                       
                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                       
@@ -2550,7 +2548,7 @@ Anstößiger Inhalt</div>
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.3394934976043764 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.42436687200549805 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#731237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#731237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#EB355E" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#EB355E" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#731237" cx="16.5" cy="2.057" r="1"/><circle stroke="#731237" cx="14.5" cy="12.057" r="1"/><circle stroke="#731237" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -3220,7 +3218,7 @@ Anstößiger Inhalt</div>
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 1 Sept 2026, 04:58:48 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 2 Sept 2026, 04:18:46 (timezone Europe/Zurich) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
