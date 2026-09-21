@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: stalomeow/metrics@projects-v2
+      - uses: yuanweize/metrics-community@v3.35.0-community.1
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
